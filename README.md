@@ -1,7 +1,7 @@
 # Sahisti-sveta
 
 Pobral bom podatke s strani: https://www.yottachess.com.
-Pobral bom :
+Pobral bom 200 oseb za vsako državo, ter za vsako osebo:
 - ime šahista
 - nacionalnost
 - naziv
