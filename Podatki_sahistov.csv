@@ -94,7 +94,7 @@
  Abdul Ghafoor abdul saboor ,AFG, , 0 , 0 , 0 , 1988 , 0 
  Abdul Qayoum ,AFG, , 0 , 0 , 0 , , 0 
  Abdul Raheem Daud Rahimi ,AFG, , 0 , 0 , 0 , 1976 , 0 
-" Abdul Satar, Moh Aslam ",AFG, , 0 , 0 , 0 , , 43 
+"  Abdul Satar, Moh Aslam ",AFG, , 0 , 0 , 0 , , 43 
 " Abdul, Qadeer ",AFG, , 0 , 0 , 0 , 1983 , 0 
  Abdulraziq Alizay ,AFG, , 0 , 0 , 0 , 1971 , 0 
  Abubakar ,AFG, , 0 , 0 , 0 , 2011 , 0 
@@ -129,7 +129,7 @@
 " Batash, Khairullah ",AFG, , 0 , 0 , 0 , 1976 , 0 
  Daryabi Najibullah ,AFG, , 0 , 0 , 0 , 1995 , 0 
 " Dostdar, Naser ",AFG, , 0 , 0 , 0 , 1988 , 0 
-" Ekhlas, Masih ",AFG, , 0 , 0  , 0 , 2006 , 0 
+" Ekhlas, Masih ",AFG, , 0 , 0 , 0 , 2006 , 0 
  Erfan Rahesh ,AFG, , 0 , 0 , 0 , 2008 , 0 
  Fahim Sharifi ,AFG, , 0 , 0 , 0 , 1994 , 0 
  Fahimullah Ziaee ,AFG, , 0 , 1690 , 0 , 1979 , 0 
@@ -153,7 +153,7 @@
  Hamed Azizi ,AFG, , 0 , 0 , 0 , 1977 , 0 
  Hamidi Fardin ,AFG, , 0 , 0 , 0 , 1990 , 0 
 " Hanif, Mahmood ",AFG, , 0 , 0 , 0 , , 7 
-" Hasanzadeh, Ahmad Sami ",AFG, , 0 , 0 , 0 , , 0 
+" Hasanzadeh, Ahmad Sami ",AFG, , 0 , 0 , 0 , ,  0 
 " Hasanzadeh, Mohammad Mohsen ",AFG, , 0 , 0 , 0 , , 0 
 " Hashimy, Mohammad Fahim ",AFG, , 0 , 0 , 0 , 1980 , 0 
  Hasina Akbar ,AFG, , 0 , 0 , 0 , 2002 , 0 
@@ -320,7 +320,7 @@
 " Shkurta, Xhulio ",ALB, , 1860 , 1951 , 1991 , 1998 , 18 
 " Tani, Florian ",ALB, , 1853 , 0 , 0 , 1990 , 0 
 " Leka, Bernard ",ALB, , 1844 , 1841 , 0 , 1951 , 0 
-" Shabanaj, Alda ",ALB, WFM , 1844 , 0 ,  0 , 1983 , 182 
+" Shabanaj, Alda ",ALB, WFM , 1844 , 0 , 0 , 1983 , 182 
 " Beqiri, Ferdinand ",ALB, , 1843 , 0 , 0 , 1966 , 17 
 " Haxhia, Ethem ",ALB, , 1840 , 0 , 0 , 1948 , 0 
 " Grori, Dorian ",ALB, , 1837 , 0 , 0 , 1985 , 1 
@@ -475,7 +475,7 @@
 " Selmane, Amine ",ALG, , 2049 , 2018 , 2097 , 1983 , 9 
 " Mammeri, Md. Amine ",ALG, , 2048 , 0 , 0 , 1981 , 6 
 " Araoun, Saadi ",ALG, CM , 2046 , 1946 , 1946 , 2000 , 186 
-" Zemouli, Aimen ",ALG, , 2046 , 0 , 0 , 1987 , 29 
+"  Zemouli, Aimen ",ALG, , 2046 , 0 , 0 , 1987 , 29 
 " Taourchi, Hakem-Sidali ",ALG, , 2045 , 0 , 0 , 1977 , 7 
 " Mohammedi , Hichem ",ALG, , 2042 , 0 , 2013 , 1983 , 0 
 " Boulrens, Ala Eddine ",ALG, , 2041 , 2056 , 1995 , 2000 , 82 
@@ -570,7 +570,7 @@
 " Sahki, Saphir ",ALG, CM , 1874 , 1873 , 0 , 2001 , 58 
 " Ammour, Haouas Khaled ",ALG, , 1872 , 0 , 0 , 1973 , 7 
 " Bakouri, Abdelmajid ",ALG, , 1871 , 1872 , 1873 , 1985 , 22 
-" Neggazi, Youcef ",ALG, , 1871 , 1851 , 1878 , 1996 , 38  
+" Neggazi, Youcef ",ALG, , 1871 , 1851 , 1878 , 1996 , 38 
 " Mensouri, Hocine ",ALG, , 1868 , 0 , 0 , 1975 , 7 
 " Salah Aiech, Samir ",ALG, , 1867 , 1771 , 1994 , 1996 , 28 
 " Kendi, Sid Ali ",ALG, , 1865 , 1765 , 1848 , 1976 , 15 
@@ -578,7 +578,7 @@
 " Bedroune, Soufyane ",ALG, , 1861 , 1871 , 1915 , 1982 , 39 
 " Cheikh-Boukal, Ziyad ",ALG, FM , 1861 , 0 , 0 , 2004 , 38 
 " Kherbache, Mouloud ",ALG, , 1861 , 1761 , 1962 , 1982 , 7 
-" Kadiri, Mustapha Kamel  ",ALG, , 1858 , 1878 , 1892 , 1972 , 30 
+" Kadiri, Mustapha Kamel ",ALG, , 1858 , 1878 , 1892 , 1972 , 30 
 " Abdi, Zineb Dina ",ALG, WIM , 1855 , 1858 , 1878 , 1996 , 254 
 " Hamiti, Mohamed ",ALG, , 1855 , 1795 , 0 , 1995 , 0 
 " Saddok,Nadjib ",ALG, , 1854 , 1803 , 1816 , 1976 , 4 
@@ -695,7 +695,7 @@
 " Cobo Miquel, Teo ",AND, , 0 , 0 , 0 , 2005 , 0 
 " Deu Font, Anton ",AND, , 0 , 0 , 0 , 2001 , 0 
 " Duran Bermudez, Eric ",AND, , 0 , 0 , 0 , 1993 , 0 
-" Esquerda Villalba, Ian ",AND, , 0 , 0 , 0 , 2005 , 0 
+" Esquerda Villalba, Ian ",AND, , 0 , 0 , 0  , 2005 , 0 
 " Estanol Garcia, Xavier ",AND, , 0 , 0 , 0 , 2004 , 0 
 " Farre Marin, Pep ",AND, , 0 , 0 , 0 , 2006 , 0 
 " Farre Marin, Quim ",AND, , 0 , 0 , 0 , 2006 , 0 
@@ -778,7 +778,7 @@
 " Briffel, Francisco ",ANG, , 2145 , 0 , 0 , 1965 , 99 
 " Nascimento, Alexandre Fernandes ",ANG, IM , 2145 , 2117 , 0 , 1964 , 5 
 " Domingos, Ediberto ",ANG, FM , 2143 , 2180 , 0 , 1977 , 101 
-" Pascoal, Eduardo A ",ANG, FM , 2137 ,  2136 , 2209 , 1980 , 95 
+" Pascoal, Eduardo A ",ANG, FM , 2137 , 2136 , 2209 , 1980 , 95 
 " Oliveira, Luciano ",ANG, IM , 2135 , 2166 , 2155 , 1981 , 113 
 " Dias, Vanderson ",ANG, , 2130 , 2178 , 2030 , 1993 , 64 
 " Joao, Mario ",ANG, , 2125 , 2040 , 2104 , 1989 , 12 
@@ -989,7 +989,7 @@
 " Fleming, Jason ",ANT, , 0 , 1280 , 1625 , 1977 , 0 
 " George, Kiegel ",ANT, , 0 , 0 , 0 , 2001 , 3 
 " Gouveia, Joseph ",ANT, , 0 , 0 , 0 , 2000 , 0 
-" Grant, Nicole ",ANT, , 0 , 0 , 0 , 1980 , 0 
+" Grant, Nicole ",ANT, ,  0 , 0 , 0 , 1980 , 0 
 " Hector, Jergan ",ANT, , 0 , 0 , 0 , 2000 , 0 
  John Williams ,ANT, , 0 , 1242 , 1303 , 1968 , 0 
 " Joseph, Danae ",ANT, , 0 , 0 , 0 , 2003 , 4 
@@ -1362,7 +1362,7 @@
 " Apresyan, Zohrak ",ARM, , 2198 , 0 , 0 , 1995 , 55 
 " Khachatryan, Samvel S. ",ARM, , 2198 , 2168 , 2098 , 2003 , 41 
 " Botoyan, Smbat ",ARM, , 2196 , 2179 , 2225 , 1987 , 110 
-" Khachatryan, Vahag H. ",ARM, , 2196 , 0 , 2339 , 1991 , 76 
+" Khachatryan, Vahag H.  ",ARM, , 2196 , 0 , 2339 , 1991 , 76 
 " Manukian, Artak ",ARM, , 2196 , 0 , 0 , 1978 , 1494 
 " Sahakyan, Aleks ",ARM, , 2196 , 0 , 2096 , 2006 , 33 
 " Sahakyan, Suren ",ARM, , 2195 , 0 , 0 , 1990 , 0 
@@ -1432,7 +1432,7 @@
 " Franken, Angelo ",ARU, , 1686 , 0 , 1665 , 1989 , 33 
 " Rosel, Lionel ",ARU, , 1645 , 0 , 0 , 1987 , 0 
 " Jacobs, Annelaine ",ARU, WCM , 1606 , 0 , 0 , 1996 , 99 
-" Dania, Manuelle S. ",ARU, , 1591 , 0 , 0 , 1990 , 41  
+" Dania, Manuelle S. ",ARU, , 1591 , 0 , 0 , 1990 , 41 
 " Jacopucci, Enrique ",ARU, , 1575 , 0 , 0 , 1938 , 47 
 " Moreno Mora, Milaydes Lourdes ",ARU, , 1569 , 0 , 1623 , 1979 , 18 
 " Tromp, Hubert Randolf ",ARU, , 1568 , 0 , 1588 , 1972 , 18 
@@ -1519,7 +1519,7 @@
 " Mc Collum, Mia Mariah Elise ",ARU, , 0 , 0 , 0 , 2008 , 0 
 " Milton Florian, Juan Miguel ",ARU, , 0 , 0 , 0 , 1986 , 0 
 " Mirchandani, Vansh ",ARU, , 0 , 0 , 0 , 2003 , 0 
-" Montoya Alvarez, Andres Felipe ",ARU, , 0 , 0 , 0 , 1980 , 0 
+" Montoya Alvarez, Andres Felipe ",ARU, , 0 ,  0 , 0 , 1980 , 0 
 " Nathani, Harsh ",ARU, , 0 , 0 , 0 , 1999 , 0 
 " Nathani, Kunal ",ARU, , 0 , 0 , 0 , 1997 , 0 
 " Ng, Delvan Xiong ",ARU, , 0 , 0 , 0 , 2007 , 0 
@@ -1624,7 +1624,7 @@
 " Humphrey, Jonathan ",AUS, FM , 2256 , 0 , 0 , 1984 , 234 
 " Woodhams, Michael ",AUS, , 2255 , 0 , 0 , 1948 , 205 
 " Depasquale, Chris ",AUS, FM , 2254 , 0 , 0 , 1961 , 463 
-" Matheson, Laurence ",AUS, , 2253 , 2228 , 2258 , 1996 , 163 
+" Matheson, Laurence ",AUS, , 2253 , 2228 , 2258 , 1996  , 163 
 " Rej, Tomek ",AUS, FM , 2253 , 0 , 0 , 1986 , 368 
 " Byrne, Stewart ",AUS, , 2249 , 0 , 0 , 1963 , 91 
 " Kagan, Michael ",AUS, , 2248 , 0 , 0 , 1972 , 80 
@@ -1654,7 +1654,7 @@
 " Travers, Roy B. ",AUS, , 2205 , 0 , 0 , 1952 , 37 
 " Yu, Ronald ",AUS, , 2205 , 0 , 0 , 1988 , 122 
 " Chew Lee, Max ",AUS, FM , 2200 , 2100 , 2100 , 1999 , 115 
-" Chow, Michael ",AUS, , 2200 , 0 ,  0 , 1983 , 60 
+" Chow, Michael ",AUS, , 2200 , 0 , 0 , 1983 , 60 
 " Hirschhorn, Jeremy ",AUS, , 2198 , 0 , 0 , 1972 , 65 
 " Canfell, Gregory J ",AUS, FM , 2197 , 0 , 2331 , 1970 , 590 
 " Hu, Jason ",AUS, FM , 2196 , 2210 , 2221 , 1987 , 313 
@@ -1729,7 +1729,7 @@
 " Norman, Brendan ",AUS, , 2120 , 0 , 0 , 1983 , 30 
 " Atzmon-Simon, Barak ",AUS, , 2119 , 2133 , 2082 , 1970 , 90 
 " Stevens, Tristan ",AUS, , 2118 , 0 , 2114 , 1987 , 196 
-"  Broome, Tim ",AUS, , 2117 , 0 , 0 , 1964 , 39 
+" Broome, Tim ",AUS, , 2117 , 0 , 0 , 1964 , 39 
 " Stirling, Nathan ",AUS, , 2117 , 0 , 0 , , 38 
 " Urban, Sylvester ",AUS, , 2117 , 2093 , 2033 , 1986 , 0 
 " Richards, Heather S ",AUS, WIM , 2116 , 0 , 2163 , 1983 , 619 
@@ -1808,7 +1808,7 @@
 " Steflitsch, Erich ",AUT, FM , 2355 , 0 , 0 , 1960 , 198 
 " Webersberger, Johann ",AUT, IM , 2351 , 2336 , 2347 , 1982 , 405 
 " Miniboeck, Guenter ",AUT, IM , 2347 , 0 , 0 , 1961 , 303 
-" Novkovic, Milan ",AUT, IM , 2345 , 2358 , 2336 , 1966 , 501 
+" Novkovic, Milan ",AUT, IM , 2345 , 2358 , 2336 ,  1966 , 501 
 " Schwarhofer, Christopher ",AUT, IM , 2343 , 2320 , 2277 , 1989 , 411 
 " Thoma, Robert ",AUT, FM , 2342 , 0 , 0 , 1964 , 260 
 " Alvir, Aco ",AUT, IM , 2339 , 2342 , 2387 , 1961 , 650 
@@ -2068,7 +2068,7 @@
 " Hasanov, Asif ",AZE, FM , 2290 , 0 , 0 , 1973 , 99 
 " Mammadov, Rafig ",AZE, FM , 2290 , 0 , 0 , 1986 , 9 
 " Nuri, Murad ",AZE, FM , 2290 , 2276 , 2207 , 1997 , 264 
-" Rahimli, Elmir ",AZE, , 2289 , 0 , 0 , 2000 , 0 
+" Rahimli, Elmir ",AZE, , 2289 , 0 , 0 , 2000  , 0 
 " Israfilov, Azer ",AZE, , 2285 , 0 , 0 , 1974 , 0 
 " Bajarani, Ilgar ",AZE, IM , 2281 , 2237 , 2189 , 1965 , 356 
 " Eynullayev, Atilla ",AZE, FM , 2281 , 2181 , 2181 , 2004 , 789 
@@ -2160,7 +2160,7 @@
 " Smith, Kean ",BAH, , 1842 , 0 , 0 , 1969 , 46 
 " Cox, Valentine ",BAH, , 1828 , 0 , 0 , 1956 , 55 
 " Karelina, Polina ",BAH, WCM , 1799 , 1823 , 1876 , 2001 , 73 
-" Lyansky, Yan ",BAH, , 1790  , 0 , 0 , 1971 , 48 
+" Lyansky, Yan ",BAH, , 1790 , 0 , 0 , 1971 , 48 
 " Joseph, Elton ",BAH, CM , 1783 , 0 , 0 , 1987 , 106 
 " Gibson, Ken ",BAH, , 1769 , 0 , 0 , 1971 , 73 
 " Moncur, Cecil ",BAH, FM , 1766 , 0 , 0 , 1968 , 56 
@@ -2210,7 +2210,7 @@
 " Brown, Sheldon ",BAH, , 0 , 0 , 0 , 2008 , 0 
 " Brown, Sion ",BAH, , 0 , 0 , 0 , 2006 , 0 
 " Bullard, David ",BAH, , 0 , 0 , 0 , 1995 , 92 
-" Carey, Zachary ",BAH, , 0 , 0 ,  0 , 2005 , 0 
+" Carey, Zachary ",BAH, , 0 , 0 , 0 , 2005 , 0 
 " Cartwright, Henderson ",BAH, , 0 , 0 , 0 , 2000 , 0 
 " Cartwright, Uriah ",BAH, , 0 , 0 , 0 , 2000 , 0 
 " Cates, Nathan ",BAH, , 0 , 0 , 0 , 1995 , 0 
@@ -2593,7 +2593,7 @@
 " Mejbaul, Kabir Tapu ",BAN, , 2075 , 0 , 0 , , 0 
 " Karim, Anarul Bahar ",BAN, , 2073 , 0 , 0 , , 0 
 " Sadnan Hasan, Dihan ",BAN, CM , 2073 , 2047 , 1973 , 2004 , 160 
-" Ullah, Wali ",BAN, , 2073 , 0 , 2085 , , 0 
+" Ullah, Wali ",BAN, , 2073  , 0 , 2085 , , 0 
 " Md. Shawket Bin, Osman Shaon ",BAN, CM , 2071 , 2028 , 2036 , 1995 , 112 
 " Biswas, Krishnapada ",BAN, , 2070 , 0 , 0 , , 7 
 " Ali, M. Mossabir ",BAN, , 2069 , 0 , 0 , , 0 
@@ -2667,7 +2667,7 @@
 " Md. Belal, Hossain Babu ",BAN, , 1995 , 0 , 0 , 1973 , 0 
 " Dewan, Md. Riad ",BAN, , 1993 , 2048 , 0 , , 10 
 " Islam, Zohirul ",BAN, , 1992 , 0 , 0 , 1962 , 0 
-" Tutul , Dhar ",BAN, , 1992 , 1948 ,  1907 , 1994 , 94 
+" Tutul , Dhar ",BAN, , 1992 , 1948 , 1907 , 1994 , 94 
 " Hossain, Showkat Pollab ",BAN, , 1989 , 2161 , 2113 , 1977 , 127 
 " Md. Nurul, Islam ",BAN, , 1989 , 1988 , 0 , 1965 , 3 
 " Zoar Haque, Prodhan ",BAN, , 1986 , 2077 , 2034 , 1995 , 26 
@@ -2995,7 +2995,7 @@
 " Rakitskij, Sergey ",BLR, , 2260 , 0 , 0 , 1984 , 0 
 " Nesterenko, Pavel ",BLR, , 2259 , 0 , 0 , , 11 
 " Savitski, Andrei ",BLR, , 2257 , 2191 , 2157 , 1995 , 171 
-" Vnuk, Igor  ",BLR, , 2257 , 0 , 0 , , 22 
+" Vnuk, Igor ",BLR, , 2257 , 0 , 0 , , 22 
 " Korneevets, Alexander ",BLR, IM , 2256 , 0 , 0 , 1963 , 190 
 " Pushkarjow, Andreij ",BLR, , 2256 , 2156 , 2191 , 1972 , 27 
 " Smirnov, Valerij ",BLR, IM , 2255 , 2256 , 2195 , 1953 , 320 
@@ -3008,7 +3008,7 @@
 " Tereschenko, Alexander ",BLR, , 2244 , 0 , 0 , , 0 
 " Khamitskiy, Sergei ",BLR, IM , 2241 , 2175 , 2168 , 1981 , 567 
 " Lomako, Pavel ",BLR, IM , 2240 , 2304 , 0 , 1983 , 321 
-" Maliush, Andrei ",BLR, FM , 2240 , 2169 , 2188 , 1972 , 189 
+" Maliush, Andrei  ",BLR, FM , 2240 , 2169 , 2188 , 1972 , 189 
 " Rakitskij, Dmitrij ",BLR, , 2240 , 0 , 0 , 1988 , 26 
 " Veter, Igor ",BLR, , 2236 , 2155 , 2161 , 1970 , 0 
 " Glyzin, Yury ",BLR, , 2232 , 0 , 0 , 1986 , 25 
@@ -3454,7 +3454,7 @@
 " Johnson, Ayo ",BER, , 0 , 0 , 0 , 1964 , 3 
 " Jones, Doug ",BER, , 0 , 0 , 0 , , 10 
 " Kessaram, John ",BER, , 0 , 0 , 0 , 1948 , 0 
-" Kikkeri, Maya ",BER, , 0 , 0 , 0 , 2010 , 0 
+" Kikkeri, Maya ",BER, , 0 , 0  , 0 , 2010 , 0 
 " Laroche, Mathieu ",BER, , 0 , 0 , 1381 , 1988 , 6 
 " Lau, Joseph ",BER, , 0 , 0 , 0 , 2009 , 0 
 " Lowe, Morris ",BER, , 0 , 0 , 0 , 1977 , 0 
@@ -3528,7 +3528,7 @@
 " Rai, Kiran ",BHU, , 1460 , 0 , 0 , 1984 , 0 
 " Rai, Binod ",BHU, , 1408 , 1452 , 0 , 1992 , 8 
  Sonam Choden ,BHU, , 1382 , 0 , 0 , 1999 , 15 
-" Thingh, Pasang Tobgyel ",BHU, , 1324 , 0 , 0 , 1990 , 0 
+" Thingh, Pasang Tobgyel ",BHU, , 1324 , 0 ,  0 , 1990 , 0 
  Karma Gyelmo ,BHU, , 1268 , 0 , 0 , 2004 , 13 
 " Dorji, Sonam ",BHU, , 1158 , 0 , 0 , 1989 , 0 
  Asha huang Limboo ,BHU, , 1045 , 0 , 0 , 1997 , 14 
@@ -3771,7 +3771,7 @@
 " Quispe, Jesus M. ",BOL, , 1932 , 0 , 0 , 1994 , 0 
 " Vidaurre, Luis ",BOL, , 1932 , 1967 , 1876 , 1997 , 69 
 " Montero, Kusevic ",BOL, , 1931 , 1975 , 1965 , , 11 
-" Monroy G., Nataly A. ",BOL, WIM , 1930 , 1906  , 1830 , 2000 , 9 
+" Monroy G., Nataly A. ",BOL, WIM , 1930 , 1906 , 1830 , 2000 , 9 
 " Accinelli, Javier ",BOL, , 1928 , 1977 , 1896 , 1977 , 34 
 " Balcazar, Jorge ",BOL, , 1928 , 0 , 0 , , 0 
 " Nunez, Samuel ",BOL, , 1926 , 2011 , 1956 , 1990 , 0 
@@ -3808,7 +3808,7 @@
 " Coro, Renan ",BOL, , 1890 , 0 , 1990 , 1993 , 39 
 " Vaca, Jose Miguel ",BOL, , 1890 , 1866 , 1947 , 1995 , 0 
 " Estrada, Lucia ",BOL, WIM , 1888 , 1931 , 2020 , 1993 , 145 
-" Mendieta, Ariel ",BOL, , 1888 , 0 , 0  , , 0 
+" Mendieta, Ariel ",BOL, , 1888 , 0 , 0 , , 0 
 " Mendoza Sempertegui, Daniel ",BOL, , 1887 , 1884 , 0 , 1989 , 0 
 " Molina, Jessica ",BOL, WFM , 1887 , 1787 , 1787 , 2000 , 309 
 " Torrico Ramos, Alexis ",BOL, , 1887 , 1869 , 1858 , 1999 , 0 
@@ -3884,7 +3884,7 @@
 " Galic, Zeljko ",BIH, FM , 2280 , 2180 , 0 , 1954 , 102 
 " Mesic, Ismet ",BIH, FM , 2280 , 2180 , 2180 , 2007 , 87 
 " Kobas, Adnan ",BIH, FM , 2277 , 0 , 0 , 1956 , 120 
-" Vajic, Goran ",BIH, , 2277  , 2294 , 2233 , 1990 , 303 
+" Vajic, Goran ",BIH, , 2277 , 2294 , 2233 , 1990 , 303 
 " Begic, Senad ",BIH, FM , 2276 , 2217 , 2228 , 1963 , 75 
 " Arapovic, Vitomir ",BIH, IM , 2273 , 2329 , 2279 , 1951 , 699 
 " Pasalic, Harun ",BIH, FM , 2271 , 2176 , 2171 , 1983 , 157 
@@ -3921,7 +3921,7 @@
 " Marceta, Predrag ",BIH, FM , 2232 , 2242 , 2151 , 1977 , 124 
 " Bertovic, Mile ",BIH, FM , 2231 , 2158 , 2259 , 1961 , 27 
 " Misanovic, Vesna ",BIH, WGM , 2231 , 0 , 0 , 1964 , 607 
-" Iveljic, Igor ",BIH, FM , 2229 ,  2292 , 2318 , 1977 , 188 
+" Iveljic, Igor ",BIH, FM , 2229 , 2292 , 2318 , 1977 , 188 
 " Radic, Bojan ",BIH, , 2228 , 2229 , 2245 , 1986 , 174 
 " Santic, Berislav ",BIH, , 2228 , 0 , 0 , 1970 , 26 
 " Bratic, Ismar ",BIH, , 2226 , 2190 , 0 , 1972 , 64 
@@ -3941,7 +3941,7 @@
 " Ivanovic, Jovan ",BIH, , 2212 , 0 , 0 , 1981 , 69 
 " Babic, Drasko ",BIH, FM , 2211 , 2245 , 2192 , 1959 , 142 
 " Kurajica, Mladen ",BIH, , 2211 , 0 , 0 , 1978 , 66 
-" Obad, Andrija ",BIH, FM , 2210 , 2263 , 2287 , 1969 , 204 
+" Obad, Andrija  ",BIH, FM , 2210 , 2263 , 2287 , 1969 , 204 
 " Tomic, Branko ",BIH, , 2208 , 0 , 0 , 1965 , 0 
 " Topic, Dragan ",BIH, , 2207 , 2212 , 2197 , 1967 , 63 
 " Bajric, Sakib ",BIH, FM , 2206 , 0 , 0 , 1968 , 26 
@@ -4557,7 +4557,7 @@
 " Amirah, Muhd Rafiq ",BRU, , 0 , 0 , 0 , 2007 , 0 
 " Awang, Mohammad Arif ",BRU, , 0 , 0 , 1542 , 1987 , 0 
 " Awg, Rosli Bin Hj Naidi ",BRU, , 0 , 0 , 0 , , 0 
-" Aziz, Azyad ",BRU, , 0 , 0 , 0  , 1997 , 0 
+" Aziz, Azyad ",BRU, , 0 , 0 , 0 , 1997 , 0 
 " Baharudin, Md Ahsanuddien ",BRU, , 0 , 0 , 0 , , 0 
 " Baharudin, Md Syahmi ",BRU, , 0 , 0 , 0 , , 0 
 " Bajau, Iscramuon ",BRU, , 0 , 0 , 0 , 1966 , 7 
@@ -4657,7 +4657,7 @@
 " Stoyanov, Tsvetan ",BUL, IM , 2449 , 2349 , 2349 , 2004 , 835 
 " Petrov, Marian ",BUL, GM , 2448 , 2410 , 2418 , 1975 , 1439 
 " Mladenov, Svetlin ",BUL, IM , 2446 , 2473 , 0 , 1984 , 361 
-" Enchev, Ivajlo ",BUL, GM , 2444 , 2440 , 2423 , 1989 , 1258 
+" Enchev, Ivajlo  ",BUL, GM , 2444 , 2440 , 2423 , 1989 , 1258 
 " Toshkov, Tihomir ",BUL, IM , 2443 , 0 , 0 , 1959 , 214 
 " Stefanova, Antoaneta ",BUL, GM , 2440 , 2399 , 2426 , 1979 , 3677 
 " Lilov, Valeri ",BUL, IM , 2438 , 0 , 0 , 1991 , 306 
@@ -5334,7 +5334,7 @@
 " Fortes, Amaral ",CPV, , 1624 , 0 , 0 , 1986 , 2 
 " Ramos, Nelson Almeida ",CPV, , 1611 , 0 , 0 , 1984 , 5 
 " Benchimol, Ailton Jorge Soares ",CPV, , 1604 , 0 , 0 , 1977 , 0 
-" Fernandes, Henry ",CPV, , 1590 , 1635 , 1680 , 1997 , 4 
+" Fernandes, Henry ",CPV, , 1590 , 1635 , 1680  , 1997 , 4 
 " Duarte, Marco ",CPV, , 1564 , 0 , 0 , 2002 , 0 
 " Ramos, Jorgino Joao ",CPV, , 1563 , 1681 , 1677 , 1991 , 2 
 " Landim, Humberto ",CPV, , 1561 , 1615 , 1560 , 2005 , 0 
@@ -5527,7 +5527,7 @@
 " Abalos, Gilbert ",CAY, , 0 , 0 , 0 , 1973 , 2 
  Alanna Warwick-Smith ,CAY, , 0 , 0 , 0 , 1996 , 2 
  Ally McRae ,CAY, , 0 , 0 , 0 , 1994 , 0 
-" Bush, Enfield ",CAY, , 0 , 0 , 0 , 2000 , 11 
+" Bush, Enfield ",CAY, , 0 , 0  , 0 , 2000 , 11 
 " Dimitrov, Lyubomir ",CAY, , 0 , 0 , 0 , , 0 
 " Giannini, Mauro ",CAY, , 0 , 0 , 0 , 1985 , 0 
 " Hill, Darryl ",CAY, , 0 , 0 , 0 , 1966 , 0 
@@ -5674,19 +5674,19 @@
 " Valenzuela Gomez, Fernando ",CHI, IM , 2363 , 2438 , 2312 , 1991 , 592 
 " Torres Bravo, Cristobal ",CHI, FM , 2359 , 2259 , 2273 , 1987 , 141 
 " Sanchez Sandoval, Gonzalo ",CHI, , 2358 , 2258 , 2258 , 1997 , 205 
-" Abarca Aguirre, Manuel ",CHI, FM , 2347 , 0 , 0 ,  1965 , 130 
+" Abarca Aguirre, Manuel ",CHI, FM , 2347 , 0 , 0 , 1965 , 130 
 " Valdes Escobar, Alvaro ",CHI, IM , 2347 , 2318 , 2247 , 1989 , 622 
 " Silva Sanchez, Carlos ",CHI, FM , 2346 , 2327 , 0 , 1944 , 441 
 " Olivares Olivares, Claudio ",CHI, FM , 2343 , 2243 , 2249 , 1992 , 308 
 " Yanez, Juan ",CHI, , 2343 , 0 , 0 , 1960 , 28 
-" Barria Zuniga, Daniel ",CHI, IM , 2341 , 2469 , 2414 , 1974 , 1620 
+" Barria Zuniga, Daniel ",CHI, IM ,  2341 , 2469 , 2414 , 1974 , 1620 
 " Duarte Mermow, Marcelo ",CHI, FM , 2341 , 2282 , 2257 , 1956 , 162 
 " Alarcon Bahamondez, Roberto Ignacio ",CHI, FM , 2335 , 2315 , 2353 , 1988 , 59 
 " Arancibia Guzman, Eduardo ",CHI, FM , 2333 , 2347 , 2333 , 1973 , 425 
 " Vidal Torres, Ricardo ",CHI, FM , 2332 , 2299 , 0 , 1963 , 30 
 " Stekel Grunberg, Moises ",CHI, , 2325 , 0 , 0 , , 47 
 " Cordova Valle, Sergio ",CHI, , 2320 , 0 , 0 , 1949 , 9 
-" Silva Lillo, Sebastian ",CHI, , 2318 , 0 , 0 , 1973 , 308 
+" Silva Lillo, Sebastian ",CHI, , 2318 , 0 , 0 , 1973 ,  308 
 " Diaz Villagran, Robert ",CHI, FM , 2315 , 2278 , 2364 , 1986 , 534 
 " Frey Perez, Hugo ",CHI, FM , 2315 , 0 , 0 , 1971 , 166 
 " Lobos Barrenechea, Miguel ",CHI, , 2314 , 0 , 2327 , 1984 , 146 
@@ -5873,7 +5873,7 @@
 " Zhao, Jun ",CHN, GM , 2600 , 2600 , 2547 , 1986 , 1112 
 " Peng, Xiaomin ",CHN, GM , 2591 , 0 , 0 , 1973 , 376 
 " Wen, Yang ",CHN, GM , 2585 , 2528 , 2596 , 1988 , 1019 
-" Yin, Hao ",CHN, IM , 2583 , 0 , 0 , 1979 , 93 
+" Yin, Hao  ",CHN, IM , 2583 , 0 , 0 , 1979 , 93 
 " Xu, Xiangyu ",CHN, GM , 2577 , 2574 , 2477 , 1999 , 876 
 " Xie, Jun ",CHN, GM , 2574 , 0 , 0 , 1970 , 743 
 " Zhou, Jianchao ",CHN, GM , 2570 , 2570 , 2478 , 1988 , 1494 
@@ -5970,7 +5970,7 @@
 " Zhai, Mo ",CHN, WGM , 2371 , 2339 , 2342 , 1996 , 838 
 " Ni, Shiqun ",CHN, WGM , 2370 , 2362 , 2270 , 1997 , 547 
 " Lu, Yijie ",CHN, , 2364 , 0 , 0 , 1993 , 82 
-" Wang, Li ",CHN, IM , 2364 , 0 , 0 , 1987 , 249 
+" Wang, Li ",CHN, IM , 2364 , 0  , 0 , 1987 , 249 
 " Chen, De ",CHN, FM , 2361 , 0 , 0 , 1949 , 103 
 " Ji, Dan ",CHN, , 2360 , 0 , 0 , 1984 , 172 
 " Nie, Xinyang ",CHN, , 2360 , 2347 , 2276 , 2000 , 312 
@@ -5985,7 +5985,7 @@
 " Wang, Qibiao ",CHN, , 2332 , 0 , 2232 , , 132 
 " Jia, Haoxiang ",CHN, IM , 2331 , 2375 , 0 , 1990 , 329 
 " Shen, Siyuan ",CHN, IM , 2330 , 0 , 0 , 1986 , 196 
-" Zhu, Dinglong ",CHN, , 2330 , 0 , 0 , , 52 
+" Zhu, Dinglong ",CHN, , 2330 , 0 , 0  , , 52 
 " Zuo, Yifan ",CHN, CM , 2330 , 2230 , 2230 , 2005 , 270 
 " Ji, Yunqi ",CHN, , 2327 , 0 , 0 , , 57 
 " Wang, Xuan ",CHN, , 2326 , 0 , 0 , 1986 , 0 
@@ -6214,7 +6214,7 @@
 " Chang, Wei-Chen Daniel ",TPE, , 0 , 0 , 0 , 2008 , 0 
 " Chang, Yi-Kuang ",TPE, , 0 , 0 , 1339 , 2011 , 0 
 " Chang,Yan-Sing ",TPE, , 0 , 0 , 0 , 2004 , 0 
-" Chao, Hui-Lan ",TPE, ,  0 , 0 , 0 , , 0 
+" Chao, Hui-Lan ",TPE, , 0 , 0 , 0 , , 0 
 " Chao, Tzu-Yi Anderson ",TPE, , 0 , 0 , 0 , 2007 , 0 
 " Chen, Brendon ",TPE, , 0 , 0 , 0 , 2006 , 0 
 " Chen, Chang Syu ",TPE, , 0 , 0 , 0 , 2000 , 0 
@@ -6274,7 +6274,7 @@
 " Morales, Jhon Alexander ",COL, IM , 2378 , 2297 , 2278 , 1979 , 566 
 " Mosquera, Miguel ",COL, IM , 2371 , 2355 , 2412 , 1979 , 659 
 " Uribe, Mauricio ",COL, IM , 2370 , 2292 , 2333 , 1981 , 377 
-" Pupo, Emilio ",COL, IM , 2361 , 0 , 0 , 1970 , 314 
+" Pupo, Emilio ",COL, IM , 2361  , 0 , 0 , 1970 , 314 
 " Panesso Rivera, Henry ",COL, IM , 2358 , 2405 , 2357 , 1988 , 670 
 " Guerrero Sierra, Juan Carlos ",COL, IM , 2353 , 2253 , 2253 , 1988 , 675 
 " Soto, Miguel Angel ",COL, FM , 2352 , 2252 , 2252 , 2003 , 575 
@@ -6352,7 +6352,7 @@
 " Nunez V, Gustavo Eduardo ",COL, FM , 2212 , 2174 , 2228 , 1980 , 358 
 " Dlaikan, Fernando ",COL, , 2210 , 0 , 0 , 1962 , 17 
 " Nunez V, Daniel Fernando ",COL, FM , 2208 , 2292 , 2127 , 1983 , 135 
-" Lora, Joel Fernando  ",COL, , 2207 , 2149 , 2188 , 1981 , 357 
+" Lora, Joel Fernando ",COL, , 2207 , 2149 , 2188 , 1981 , 357 
 " Cadena M, Gustavo Adolfo ",COL, FM , 2205 , 2291 , 2241 , 1993 , 360 
 " Agudelo, Antonio ",COL, FM , 2204 , 2222 , 2203 , 1954 , 261 
 " Higuita, Elias ",COL, , 2204 , 0 , 0 , 1963 , 24 
@@ -6410,7 +6410,7 @@
 " Vanegas, Jhonny ",COL, , 2157 , 2163 , 2128 , 1987 , 24 
 " Castillo, Luis A. ",COL, , 2154 , 0 , 0 , 1960 , 0 
 " Salazar, Aura Cristina ",COL, WIM , 2154 , 2267 , 2240 , 1995 , 502 
-" Caldera, Anuar Alfonso  ",COL, , 2153 , 2158 , 2085 , 1985 , 66 
+" Caldera, Anuar Alfonso ",COL, , 2153 , 2158 , 2085 , 1985 , 66 
 " Ortiz, Nadya Karolina ",COL, WGM , 2153 , 2232 , 2209 , 1986 , 413 
 " Corradine, Jorge Ricardo ",COL, FM , 2152 , 2128 , 2175 , 1964 , 78 
 " Contreras, Henry ",COL, FM , 2151 , 2187 , 2244 , 1968 , 475 
@@ -6424,14 +6424,14 @@
 " Barros, Raul Junior ",COL, FM , 2145 , 2168 , 2180 , 1995 , 514 
 " Lotero, Camilo ",COL, , 2145 , 0 , 2045 , 1989 , 66 
 " Sierra Mejia, Juan Pablo ",COL, , 2144 , 2044 , 2140 , 1992 , 215 
-" Aguirre, Omar Andres ",COL, , 2143 , 0 , 0 , 1995 , 1 
+" Aguirre, Omar Andres ",COL, , 2143  , 0 , 0 , 1995 , 1 
 " Florez Salazar, Luis Angel ",COL, , 2143 , 2113 , 2048 , 1995 , 6 
 " Peinado Rincon, Giovanny Alfredo ",COL, , 2143 , 2175 , 2157 , 1983 , 90 
 " Molano, Juan Pablo ",COL, , 2142 , 0 , 0 , 1997 , 1 
 " Zamora Cristancho, Sammy ",COL, , 2142 , 2127 , 2130 , 1973 , 17 
 " Chacon Contreras, Juan Fernando ",COL, , 2141 , 2133 , 2148 , 1993 , 12 
 " Martinez, Julian ",COL, FM , 2141 , 2168 , 2142 , 1982 , 363 
-" Urbina Guerrero, Jaime ",COL, , 2141 , 2131 , 2048 , 1946 ,  10 
+" Urbina Guerrero, Jaime ",COL, , 2141 , 2131 , 2048 , 1946 , 10 
 " Argote Heredia, Valentina ",COL, WIM , 2140 , 2040 , 2040 , 2000 , 697 
 " Avila, Pedro Andres ",COL, , 2140 , 2140 , 2040 , 1990 , 152 
 " Gomez, Frank ",COL, , 2140 , 0 , 0 , 1945 , 112 
@@ -6458,7 +6458,7 @@
  Aziradji Mohamed Ismael ,COM, , 1768 , 0 , 0 , 1990 , 19 
 " Abdoulfatahou, Antuyat ",COM, , 0 , 0 , 0 , 1978 , 0 
  Ahamada Abdillah ,COM, , 0 , 0 , 0 , 1999 , 0 
-"  Ahmed Abdou, Nourdine ",COM, , 0 , 0 , 0 , 1970 , 0 
+" Ahmed Abdou, Nourdine ",COM, , 0 , 0 , 0 , 1970 , 0 
 " Ali, Darouech ",COM, , 0 , 0 , 0 , 1979 , 0 
 " Assoumani, Ibrahima ",COM, , 0 , 0 , 0 , , 0 
 " Athoumani Oumouri, Ali ",COM, , 0 , 0 , 0 , 1992 , 0 
@@ -6635,7 +6635,7 @@
 " Urena Soto, Omar ",CRC, , 1895 , 0 , 0 , 1993 , 9 
 " Cantillo Alvarado, Luis Manuel ",CRC, , 1892 , 0 , 1930 , 1967 , 5 
 " Vargas Miranda, Diego ",CRC, , 1892 , 0 , 1826 , 1989 , 2 
-" Monge Calvo, Hugo Luis ",CRC, , 1890 , 0 , 1868 , 1984 , 8 
+" Monge Calvo, Hugo Luis ",CRC, , 1890 ,  0 , 1868 , 1984 , 8 
 " Jimenez Aguilar, Gustavo ",CRC, , 1889 , 1858 , 1791 , 1982 , 0 
 " Jimenez Esquivel, Greivin ",CRC, , 1888 , 1910 , 1952 , 1973 , 13 
 " Tenorio Naranjo, Ismael ",CRC, , 1888 , 0 , 1937 , 1989 , 0 
@@ -6685,7 +6685,7 @@
 " Ramirez Almeciga, Cristian A. ",CRC, , 1822 , 0 , 1891 , 1995 , 0 
 " Torres Barquero, Joseph ",CRC, , 1820 , 1818 , 1822 , 1986 , 8 
 " Aguilar Pina, Luis Gerardo ",CRC, , 1818 , 1871 , 1863 , 1962 , 40 
-" Rivera Soto, Danny ",CRC, , 1818 , 0 , 0  , 1982 , 0 
+" Rivera Soto, Danny ",CRC, , 1818 , 0 , 0 , 1982 , 0 
 " Martinez Acuna, Huber ",CRC, , 1817 , 1849 , 1753 , 1986 , 27 
 " Arroyo Alberto, Alejandro Jose ",CRC, , 1815 , 0 , 1715 , 1997 , 0 
 " Solano Cordero, Jorge ",CRC, , 1813 , 1713 , 1713 , 2001 , 9 
@@ -6839,7 +6839,7 @@
 " Martic, Zlatko ",CRO, IM , 2263 , 2230 , 2163 , 1958 , 688 
 " Zarak, Dalibor ",CRO, , 2262 , 0 , 0 , 1960 , 11 
 " Samardjic, Ivica ",CRO, , 2261 , 0 , 0 , 1968 , 0 
-" Terzic, Drago ",CRO, , 2261 , 0 ,  0 , 1951 , 20 
+" Terzic, Drago ",CRO, , 2261 , 0 , 0  , 1951 , 20 
 " Karlusic, Luka ",CRO, , 2260 , 2160 , 2160 , 2004 , 118 
 " Vidovic, Sasa ",CRO, FM , 2260 , 2307 , 2300 , 1980 , 375 
 " Kukas, Oliver ",CRO, , 2259 , 2159 , 2244 , 2001 , 116 
@@ -6998,7 +6998,7 @@
 " Larrua Gonzalez, Fernando Oscar ",CUB, FM , 2316 , 2363 , 2226 , 1988 , 141 
 " Hidalgo Diaz, Daniel ",CUB, FM , 2315 , 2215 , 2215 , 2008 , 9 
 " Iglesias Alvarez, Raul ",CUB, FM , 2315 , 0 , 0 , 1976 , 2 
-" Alvarez Fernandez, Carlos Rene ",CUB, FM , 2314 , 0 , 2348 , 1993 , 67 
+" Alvarez Fernandez, Carlos Rene  ",CUB, FM , 2314 , 0 , 2348 , 1993 , 67 
 " Perez Garcia, Rodney Oscar ",CUB, IM , 2314 , 2371 , 2315 , 1973 , 1273 
 " Romero Gomez, Jose Carlos ",CUB, FM , 2314 , 0 , 0 , 1975 , 25 
 " Valdes Lopez, Alejandro ",CUB, FM , 2314 , 0 , 0 , 1993 , 26 
@@ -7041,7 +7041,7 @@
 " Llaudy Vazquez, Ronaldo ",CUB, , 2283 , 0 , 2265 , 1968 , 4 
 " Garcia Carey, Osmel ",CUB, IM , 2282 , 0 , 2306 , 1968 , 240 
 " Guerrero Rosales, Rafael ",CUB, FM , 2281 , 2270 , 2251 , 1984 , 12 
-" Llaudy Pupo, Lisandra ",CUB, WIM , 2281 , 0 ,  2243 , 1988 , 302 
+" Llaudy Pupo, Lisandra ",CUB, WIM , 2281 , 0 , 2243 , 1988 , 302 
 " Paneque Martin, Pedro ",CUB, IM , 2281 , 0 , 0 , 1968 , 293 
 " Bueno Perez, Jesus Angel ",CUB, FM , 2279 , 0 , 2250 , 1997 , 78 
 " Gonzalez Mesa, Erick ",CUB, FM , 2279 , 2296 , 2334 , 1983 , 10 
@@ -7201,7 +7201,7 @@
 " Roussis, Panayiotis ",CYP, , 1431 , 1538 , 0 , 1971 , 0 
 " Antoniou, Nicholas ",CYP, , 1429 , 0 , 0 , 1999 , 0 
 " Christodoulides, Christos ",CYP, , 1425 , 1617 , 0 , 1960 , 79 
-" Georgiou, Georgios ",CYP, , 1420 , 0  , 0 , 1981 , 13 
+" Georgiou, Georgios ",CYP, , 1420 , 0 , 0 , 1981 , 13 
 " Haukia, Ville Matias ",CYP, , 1418 , 1658 , 1747 , 1983 , 1 
 " Chiras, Panagiotis ",CYP, , 1401 , 1327 , 0 , 2009 , 0 
 " Chrysostomou, Pavlos ",CYP, , 1399 , 1419 , 1412 , 2006 , 4 
@@ -7289,7 +7289,7 @@
 " Komodromos, Renos ",CYP, , 1151 , 1332 , 1148 , 2010 , 0 
 " Sarrous, Konstantinos ",CYP, , 1146 , 1175 , 1143 , 2005 , 0 
 " Ioannou, Giorgos ",CYP, , 1145 , 0 , 0 , 2009 , 0 
-" Skouroupathis, Kyriakos ",CYP, , 1142 , 1336 , 1351 , 2015 , 26 
+" Skouroupathis, Kyriakos ",CYP, , 1142 , 1336 , 1351  , 2015 , 26 
 " Rompert, Marin ",CYP, , 1139 , 1180 , 0 , 2005 , 0 
 " Christou, Andreas ",CYP, , 1134 , 0 , 0 , 2008 , 0 
 " Savvidou, Maria ",CYP, , 1134 , 0 , 0 , 1968 , 0 
@@ -7365,7 +7365,7 @@
 " Polasek, Jaroslav ",CZE, IM , 2382 , 2328 , 0 , 1957 , 316 
 " Rojicek, Vojtech ",CZE, IM , 2382 , 2420 , 0 , 1990 , 906 
 " Suran, Jan ",CZE, IM , 2382 , 2321 , 2439 , 1977 , 1009 
-" Balacek, Tadeas ",CZE, CM , 2378 , 2287 , 2278 , 1995 , 685 
+" Balacek, Tadeas ",CZE, CM , 2378 , 2287 , 2278  , 1995 , 685 
 " Havlik, Jan ",CZE, FM , 2377 , 2394 , 2372 , 1987 , 599 
 " Sokolov, Alexander ",CZE, FM , 2374 , 2366 , 2356 , 1976 , 223 
 " Gross, David ",CZE, IM , 2373 , 0 , 0 , 1975 , 1165 
@@ -7516,7 +7516,7 @@
  Christian Chada K ,COD, , 0 , 0 , 0 , 1975 , 0 
  Christian Modjaiso ,COD, , 0 , 0 , 0 , 1993 , 0 
  Chrtstian Modjaiso ,COD, , 0 , 0 , 0 , 1993 , 0 
- Dambola Alima Guyzelle ,COD, , 0  , 0 , 0 , 1996 , 0 
+ Dambola Alima Guyzelle ,COD, , 0 , 0 , 0 , 1996 , 0 
  Deogracias Tumba ,COD, , 0 , 0 , 0 , 1997 , 0 
  Dieudonne Lumbu ,COD, , 0 , 0 , 0 , 1979 , 0 
  Dimitry Masamuna Keko ,COD, , 0 , 0 , 0 , 1998 , 0 
@@ -7742,7 +7742,7 @@
 " Jensen, Rene Skree ",DEN, FM , 2227 , 0 , 0 , 1962 , 7 
 " Moller, Morten Kock ",DEN, , 2227 , 0 , 0 , 1985 , 12 
 " Thorsbro, Peter ",DEN, , 2226 , 2173 , 2150 , 1975 , 239 
-" Stojanovski, Sandi ",DEN, FM , 2225 , 2303 , 0 , 1970 , 781 
+" Stojanovski, Sandi ",DEN, FM ,  2225 , 2303 , 0 , 1970 , 781 
 " Pedersen, Daniel Vesterbaek ",DEN, FM , 2223 , 2137 , 2144 , 1975 , 605 
 " Gallmeyer, Peter ",DEN, , 2221 , 0 , 0 , 1948 , 54 
 " Lauridsen, Jesper Morch ",DEN, FM , 2221 , 2187 , 0 , 1973 , 1370 
@@ -7915,7 +7915,7 @@
 " Brito Nunez, Miguel Andres ",DOM, , 2091 , 0 , 2057 , 1984 , 11 
 " Rodriguez Blanco, Manuel A. ",DOM, , 2090 , 2015 , 1990 , 1971 , 0 
 " Castillo Rivera, Nelson Javier ",DOM, , 2088 , 2063 , 2140 , 1992 , 64 
-" Pichardo, Agustin ",DOM, , 2087 , 0 , 0 , 1965 , 9 
+" Pichardo, Agustin ",DOM, , 2087 ,  0 , 0 , 1965 , 9 
 " Barjan Pinedo, Jose Antonio ",DOM, CM , 2084 , 0 , 1984 , 1961 , 138 
 " Mendez, Ruddy Antonio ",DOM, CM , 2080 , 2066 , 2106 , 1986 , 261 
 " Tavarez Rodriguez, Malfio Joel ",DOM, , 2078 , 2079 , 2077 , 1988 , 9 
@@ -8175,7 +8175,7 @@
 " Sanchez Reina, John ",ECU, , 2070 , 0 , 0 , 1992 , 0 
 " Vargas Palacios, Johann ",ECU, , 2070 , 0 , 0 , , 1 
 " Vera Palacios, Marcelo ",ECU, , 2069 , 0 , 0 , 1983 , 7 
-" Torres Chamorro, Mario Rafael  ",ECU, , 2065 , 0 , 0 , 1981 , 0 
+" Torres Chamorro, Mario Rafael ",ECU, , 2065 , 0 , 0 , 1981 , 0 
 " Arias, Paul ",ECU, , 2063 , 0 , 0 , , 7 
 " Mosquera Vaca, Lincoln ",ECU, , 2062 , 0 , 0 , 1960 , 0 
 " Orellana Zuniga, Pedro ",ECU, , 2062 , 0 , 2050 , 1987 , 0 
@@ -8189,7 +8189,7 @@
 " Guerrero Zambrano, Joel ",ECU, , 2055 , 0 , 2150 , 1995 , 45 
 " Jimbo, Rocio ",ECU, , 2055 , 0 , 0 , 1968 , 13 
 " Reinoso, Daniel ",ECU, , 2055 , 0 , 2021 , 1999 , 55 
-" Moncada Cuenca, Santiago ",ECU, , 2054 , 0 , 0 ,  1985 , 8 
+" Moncada Cuenca, Santiago ",ECU, , 2054 , 0 , 0 , 1985 , 8 
 " Manosalvas Castro, Jeniffer ",ECU, , 2053 , 0 , 0 , 1988 , 0 
 " Galls Aguirre, Jorge ",ECU, , 2052 , 0 , 0 , 1997 , 14 
 " Angamarca Angamarca, Edison ",ECU, , 2050 , 0 , 0 , 1985 , 15 
@@ -8281,7 +8281,7 @@
 " Yousry, Salah ",EGY, FM , 2257 , 2157 , 2207 , 1976 , 237 
 " Ghonimy, Soltan ",EGY, IM , 2256 , 2225 , 0 , 1981 , 45 
 " Elgendy, Alaa ",EGY, , 2255 , 0 , 0 , 1967 , 3 
-" Sadek, Sameh ",EGY, FM , 2255 , 2327 , 2234 , 1981 , 291 
+" Sadek, Sameh  ",EGY, FM , 2255 , 2327 , 2234 , 1981 , 291 
 " Omar, Ayman ",EGY, , 2253 , 0 , 0 , 1964 , 3 
 " Elgabry, Mohsen ",EGY, IM , 2250 , 2234 , 2191 , 1964 , 391 
 " Hegazy, Mohamed ",EGY, , 2248 , 2254 , 2222 , 1970 , 24 
@@ -8377,7 +8377,7 @@
 " Abdel Elah, Ahmed ",EGY, , 2141 , 2041 , 2089 , 1980 , 22 
 " Galal, Mohamed ",EGY, , 2141 , 0 , 0 , 1963 , 0 
 " Lowis, Magdy ",EGY, , 2141 , 2131 , 2164 , 1957 , 19 
-" Moawad, Elsayed Abdel Hameid ",EGY, , 2141 , 2041 , 2051 , 1986 , 1 
+" Moawad, Elsayed Abdel Hameid ",EGY, ,  2141 , 2041 , 2051 , 1986 , 1 
 " Zayan, Osama ",EGY, , 2141 , 2162 , 2047 , 1967 , 146 
 " Abdel Aziz, Ehab ",EGY, , 2140 , 2070 , 2085 , 1967 , 40 
 " Himdan, Maher ",EGY, IM , 2139 , 2146 , 0 , 1961 , 192 
@@ -8407,14 +8407,14 @@
 " Elmahdy, Atef ",EGY, , 2122 , 2086 , 2103 , 1960 , 13 
 " Gaber, Waleid ",EGY, , 2122 , 2133 , 0 , 1975 , 8 
 " Wafa, Hamed ",EGY, CM , 2122 , 2022 , 2022 , 2008 , 30 
-" Adel, Hyssam  ",EGY, , 2121 , 2090 , 2143 , 1983 , 27 
+" Adel, Hyssam ",EGY, , 2121 , 2090 , 2143 , 1983 , 27 
 " Ibrahim, Mohamed ",EGY, , 2121 , 2021 , 2022 , 1974 , 94 
 " Aly, Adel Mohamed ",EGY, , 2120 , 0 , 0 , 1982 , 9 
 " Mahmoud, Ramy ",EGY, , 2120 , 2020 , 2020 , , 10 
 " Fatehi, Ahmed ",EGY, , 2117 , 2081 , 0 , 1965 , 17 
 " Magdy, Morad ",EGY, , 2117 , 2145 , 2088 , 1983 , 21 
 " Nader, Mohamed ",EGY, IM , 2117 , 2075 , 2107 , 1994 , 191 
-" Seif, Ahmed ",EGY, , 2117 , 2090 , 2098 , 1978 , 14 
+" Seif, Ahmed ",EGY, , 2117 , 2090  , 2098 , 1978 , 14 
 " Wafa, Shrook ",EGY, WGM , 2117 , 2038 , 2017 , 1997 , 422 
 " Hasan, Al Hatim ",EGY, , 2116 , 0 , 0 , , 24 
 " Hasanin, Alaa ",EGY, , 2115 , 2057 , 2108 , 1961 , 9 
@@ -8473,7 +8473,7 @@
 " Quijano, Manuel D. Jesus ",ESA, , 2044 , 0 , 0 , , 2 
  Morales Carlos ,ESA, , 2035 , 0 , 1935 , 2001 , 0 
 " Sanchez, Ingrid ",ESA, WFM , 2032 , 2019 , 2003 , 1991 , 70 
-" Sermeno, Carlos ",ESA, , 2021 , 0 , 0 , , 25 
+" Sermeno, Carlos ",ESA, , 2021 , 0  , 0 , , 25 
 " Chavez, Hector Eduardo ",ESA, CM , 2018 , 0 , 2141 , 1980 , 183 
 " Melara, Moises ",ESA, FM , 2015 , 1979 , 1915 , 2001 , 58 
 " Martinez, Nelson ",ESA, FM , 2010 , 2099 , 2130 , 1985 , 81 
@@ -8535,7 +8535,7 @@
  Ibarra Carlos Roberto ,ESA, , 1833 , 0 , 1733 , 2009 , 38 
 " Landaverde, Isai ",ESA, , 1832 , 0 , 1801 , 1992 , 0 
 " Zometa, Miguel ",ESA, , 1832 , 1922 , 1894 , 1987 , 14 
-" Cisneros Gamez, Carlos Alexis ",ESA, , 1823  , 0 , 0 , 2000 , 0 
+" Cisneros Gamez, Carlos Alexis ",ESA, , 1823 , 0 , 0 , 2000 , 0 
 " Avila, Ricardo ",ESA, , 1813 , 0 , 1727 , 1983 , 1 
 " Romero, Wilbert ",ESA, , 1809 , 0 , 1814 , , 0 
 " Leiva, Marlon ",ESA, , 1808 , 1860 , 1882 , 1987 , 9 
@@ -8975,7 +8975,7 @@
  Naomi Yosief Zerai ,ERI, , 0 , 0 , 0 , 2010 , 0 
  Napoleon Tecle Abraham ,ERI, , 0 , 0 , 0 , 1976 , 0 
  Omer Suleiman Mohammed ,ERI, , 0 , 0 , 0 , 1979 , 0 
- Rahel Luul Abraha ,ERI, , 0 , 0 ,  0 , 1995 , 0 
+ Rahel Luul Abraha ,ERI, , 0 , 0 , 0 , 1995 , 0 
  Righat Mehari Mengsteab ,ERI, , 0 , 0 , 0 , 1993 , 0 
  Robel Ainalem Beyene ,ERI, , 0 , 0 , 0 , 1987 , 0 
  Robiel Ainalem Beyene ,ERI, , 0 , 0 , 0 , 1987 , 0 
@@ -9256,7 +9256,7 @@
 " Matsebula, Qiniso ",SWZ, , 1386 , 0 , 1306 , 1989 , 10 
  Chasusa Francis ,SWZ, , 1383 , 0 , 1283 , 1987 , 0 
  Mupoto Peter ,SWZ, , 1373 , 0 , 0 , 1997 , 0 
-  Simelane Phumelela Prosper ,SWZ, , 1371 , 0 , 0 , 1993 , 0 
+ Simelane Phumelela Prosper ,SWZ, , 1371 , 0 , 0 , 1993 , 0 
  Dube Keith ,SWZ, , 1368 , 0 , 1727 , 1989 , 0 
  Vilakati Nkosingiphile ,SWZ, , 1360 , 0 , 0 , 1994 , 1 
  Ecibu Albert ,SWZ, , 1357 , 0 , 0 , 1987 , 0 
@@ -9390,7 +9390,7 @@
  Mamba Sibonelo ,SWZ, , 0 , 0 , 0 , 2002 , 0 
  Mamba Sithandiwe ,SWZ, , 0 , 0 , 0 , 2003 , 0 
  Mamba Thato ,SWZ, , 0 , 0 , 0 , 2003 , 0 
- Manomano Tawananyasha Stephanie ,SWZ, ,  0 , 0 , 0 , 2008 , 8 
+ Manomano Tawananyasha Stephanie ,SWZ, , 0 , 0 , 0 , 2008 , 8 
  Maseko Jane ,SWZ, , 0 , 0 , 0 , 2001 , 0 
  Maseko Wethu ,SWZ, , 0 , 0 , 0 , 1999 , 0 
  Mashaba B Andile ,SWZ, , 0 , 0 , 0 , 1992 , 0 
@@ -9514,7 +9514,7 @@
  Abera Reesom Bisrat ,ETH, , 1735 , 0 , 1737 , 1983 , 0 
 " Tekle, Solomon Mekonnen ",ETH, , 1730 , 1739 , 1763 , 1982 , 3 
 " Woldeselassie,Ermias Teklemariam ",ETH, , 1728 , 1710 , 1628 , 1985 , 0 
-" Reda,Tofik Berhe ",ETH, , 1726 , 0 , 0 , 1970 , 2 
+" Reda,Tofik Berhe ",ETH, ,  1726 , 0 , 0 , 1970 , 2 
 " Kebede,Zelalem Tilahun ",ETH, , 1723 , 0 , 0 , 1980 , 0 
 " Jada,Abenezer Shiferaw ",ETH, , 1721 , 0 , 1923 , 1989 , 2 
 " Bogino , Megersa Gobena ",ETH, , 1713 , 1613 , 1758 , 1970 , 0 
@@ -9623,7 +9623,7 @@
 " Alago, Bizunesh Tilinti ",ETH, , 0 , 0 , 0 , 1984 , 0 
  Alamerew Bafa Tukela ,ETH, , 0 , 0 , 0 , 1984 , 0 
  Alem Haftu Mebrahtu ,ETH, , 0 , 0 , 0 , 1998 , 0 
- Alem Worku Woldegiorgis ,ETH, , 0 , 0 , 0 , 1986 , 0 
+ Alem Worku Woldegiorgis ,ETH, , 0 , 0 , 0 , 1986 , 0  
 " Alemayehu , Abrehet Ashenafi ",ETH, , 0 , 0 , 0 , 2004 , 0 
 " Alemayehu , Mesay Mamo ",ETH, , 0 , 0 , 0 , 1989 , 0 
  Alemayehu Birhanu Adamu ,ETH, , 0 , 0 , 0 , 1971 , 0 
@@ -9900,7 +9900,7 @@
 " Chand, Aniketh Akhil ",FIJ, , 0 , 0 , 0 , 1999 , 21 
 " Chand, Anush Shay ",FIJ, , 0 , 0 , 0 , 2010 , 0 
 " Chand, Ayush ",FIJ, , 0 , 0 , 0 , 2007 , 0 
-" Chand, Haimish Vimal ",FIJ, , 0 , 0 , 0 , 2005 , 0 
+" Chand, Haimish Vimal ",FIJ, ,  0 , 0 , 0 , 2005 , 0 
 " Chand, Pavitra ",FIJ, , 0 , 0 , 0 , 2000 , 27 
 " Chand, Prit ",FIJ, , 0 , 0 , 0 , 1981 , 9 
 " Chand, Rajiv ",FIJ, , 0 , 0 , 0 , 2000 , 0 
@@ -10005,7 +10005,7 @@
 " Mataika, Deborah ",FIJ, , 0 , 0 , 0 , 1995 , 0 
 " Mataika, Fesaitu ",FIJ, , 0 , 0 , 0 , 1997 , 0 
 " Mataika, Samuel ",FIJ, , 0 , 0 , 0 , 1999 , 0 
-" Mataika, Tevita ",FIJ, , 0 , 0 , 0 , 1993 , 0 
+" Mataika, Tevita ",FIJ, , 0 ,  0 , 0 , 1993 , 0 
 " Meos, Tarvi ",FIJ, , 0 , 0 , 0 , 1971 , 0 
 " Mika, Eriel ",FIJ, , 0 , 0 , 0 , 1999 , 0 
 " Mirkin, Philip ",FIJ, , 0 , 0 , 0 , 1961 , 0 
@@ -10108,7 +10108,7 @@
 " Henttinen, Markku I.O. ",FIN, FM , 2250 , 0 , 0 , 1960 , 37 
 " Kauko, Jussi ",FIN, FM , 2250 , 2270 , 0 , 1976 , 152 
 " Kirjavainen, Pertti ",FIN, , 2250 , 0 , 0 , 1956 , 12 
-" Luukkonen, Tommi ",FIN, FM , 2250 , 2338 , 2250  , 1977 , 1373 
+" Luukkonen, Tommi ",FIN, FM , 2250 , 2338 , 2250 , 1977 , 1373 
 " Salo, Heikki ",FIN, FM , 2248 , 2209 , 0 , 1965 , 476 
 " Valkama, Eero ",FIN, FM , 2247 , 2163 , 2147 , 1998 , 329 
 " Helenius, Martti ",FIN, , 2246 , 0 , 0 , 1963 , 85 
@@ -10164,7 +10164,7 @@
 " Kauppinen, Martti ",FIN, , 2198 , 0 , 0 , 1963 , 285 
 " Hokkanen, Petri ",FIN, FM , 2197 , 2254 , 0 , 1972 , 520 
 " Taivainen, Jukka ",FIN, , 2197 , 0 , 0 , 1977 , 367 
-" Lindstedt, Johan ",FIN, FM , 2196 , 0 , 0 , 1965 , 220 
+" Lindstedt, Johan  ",FIN, FM , 2196 , 0 , 0 , 1965 , 220 
 " Pulkkinen, Kari ",FIN, FM , 2196 , 0 , 2222 , 1966 , 779 
 " Demidov, Jan ",FIN, , 2195 , 0 , 0 , 2000 , 238 
 " Laato, Antti ",FIN, , 2195 , 0 , 0 , 1961 , 69 
@@ -10334,7 +10334,7 @@
 " Verus, Biljana ",MKD, WFM , 2149 , 0 , 0 , 1964 , 34 
 " Demirov, Ajrus ",MKD, , 2143 , 0 , 0 , 1950 , 9 
 " Drpljanin, Elmaz ",MKD, , 2143 , 2063 , 2079 , 1959 , 2 
-"  Todorovski, Ilija ",MKD, , 2139 , 2083 , 0 , 1947 , 8 
+" Todorovski, Ilija ",MKD, , 2139 , 2083 , 0 , 1947 , 8 
 " Zafirovski, Tode ",MKD, , 2138 , 2038 , 0 , 1958 , 40 
 " Naunov, Dragan ",MKD, , 2137 , 2037 , 2082 , 1959 , 10 
 " Simeonov, Angel ",MKD, , 2133 , 0 , 2103 , , 16 
@@ -10562,7 +10562,7 @@
 " Santo-Roman, Marc ",FRA, GM , 2369 , 0 , 0 , 1960 , 940 
 " Defromont, Benjamin ",FRA, FM , 2368 , 2268 , 2268 , 2003 , 169 
 " Kosten, Anthony C. ",FRA, GM , 2368 , 2401 , 0 , 1958 , 1823 
-" Valles, Manuel ",FRA, IM , 2366 , 2346 , 2350 , 1990 , 447 
+" Valles, Manuel ",FRA, IM , 2366 , 2346 , 2350 , 1990 , 447  
 " Benitah, Yohan ",FRA, IM , 2364 , 2406 , 2383 , 1979 , 736 
 " Philippe, Guillaume ",FRA, IM , 2364 , 2264 , 2387 , 1999 , 268 
 " Roser, Kevin ",FRA, IM , 2364 , 2371 , 0 , 1979 , 477 
@@ -10680,7 +10680,7 @@
 " Mapangou Nzoule, Gaston Chrysanthe ",GAB, , 0 , 0 , 0 , 1999 , 0 
 " MBELE,Alexandra ",GAB, , 0 , 0 , 0 , 2013 , 0 
 " MBELE,Jules Enzo ",GAB, , 0 , 0 , 0 , 2009 , 0 
-" MBOULA MBOUMBA, Jerome ",GAB, ,  0 , 0 , 0 , 1984 , 0 
+" MBOULA MBOUMBA, Jerome ",GAB, , 0 , 0 , 0 , 1984 , 0 
 " Mboumba Omanda, Lylian ",GAB, , 0 , 0 , 0 , 2005 , 0 
 " MENGA, YANNICK ",GAB, , 0 , 0 , 0 , 1982 , 0 
 " Meyet Hounnou, Anna Gabriella ",GAB, , 0 , 0 , 0 , 2011 , 0 
@@ -11284,7 +11284,7 @@
  Rushikesh Eaga ,GHA, , 1281 , 0 , 0 , 2004 , 5 
  Attou Eric ,GHA, , 1252 , 0 , 0 , 1979 , 0 
  Allotey John ,GHA, , 1242 , 0 , 0 , 2007 , 0 
- Joshan Shunjaiy  ,GHA, , 1238 , 1395 , 0 , 2006 , 2 
+ Joshan Shunjaiy ,GHA, , 1238 , 1395 , 0 , 2006 , 2 
  Nana Kobina Esselfie-Addo ,GHA, , 1236 , 0 , 0 , 1997 , 0 
 " Shah,Neev ",GHA, , 1227 , 0 , 0 , 2008 , 0 
 " Ashley, Christiana Naa Merley ",GHA, , 1217 , 1299 , 1395 , 1984 , 66 
@@ -11474,7 +11474,7 @@
 " Liverios, Thisefs ",GRE, FM , 2285 , 0 , 0 , 1949 , 96 
 " Katopodis, Dimitrios ",GRE, FM , 2284 , 2184 , 2184 , 2003 , 373 
 " Stavrianakis, Ioannis ",GRE, FM , 2278 , 0 , 2301 , 1989 , 392 
-" Tzoumbas, Anastasios ",GRE, FM , 2275 , 2175 , 2246 , 1978 , 357 
+" Tzoumbas, Anastasios ",GRE, FM , 2275 , 2175 , 2246 , 1978 , 357  
 " Kofidis, Andreas ",GRE, IM , 2274 , 2174 , 2274 , 1964 , 684 
 " Kosmas-Lekkas, Dimitrios ",GRE, FM , 2274 , 2174 , 2174 , 1994 , 249 
 " Oreopoulos, Konstantinos ",GRE, , 2272 , 0 , 2225 , 1971 , 501 
@@ -11602,7 +11602,7 @@
 " Marrast-Victor, Kinna ",GRN, , 0 , 0 , 0 , 1979 , 0 
 " Mendez, Vladimir ",GRN, , 0 , 0 , 0 , 1972 , 0 
 " Odell, Paul ",GRN, , 0 , 0 , 0 , 1998 , 1 
-" Percy, Mahesh ",GRN, , 0 , 0 ,  0 , 1969 , 0 
+" Percy, Mahesh ",GRN, , 0 , 0 , 0 , 1969 , 0 
 " Roberts, Gennard ",GRN, , 0 , 0 , 0 , 1987 , 5 
 " Senthikumar, Abiramy ",GRN, , 0 , 0 , 0 , 1977 , 4 
 " Slocombe, Terrance ",GRN, , 0 , 0 , 0 , 2004 , 0 
@@ -11641,7 +11641,7 @@
 " Juroshek, Khris ",GUM, , 1474 , 0 , 0 , 1982 , 0 
 " David, Fer ",GUM, , 1455 , 0 , 0 , , 14 
 " Ollet, Myra ",GUM, WCM , 1445 , 1485 , 1515 , 1979 , 56 
-" Ryan, Leon R ",GUM, , 1419 , 0 , 0 , 1946 , 16 
+" Ryan, Leon R ",GUM, , 1419 , 0 , 0 , 1946 ,  16 
 " Moguel, Hermenegildo C. ",GUM, , 1407 , 0 , 0 , 1931 , 9 
 " Estur, Grace Co ",GUM, , 1406 , 1482 , 0 , 2004 , 53 
 " Fontanilla, Jesse ",GUM, , 1374 , 0 , 0 , 1982 , 0 
@@ -12116,7 +12116,7 @@
 " Couchman, Kyle ",GUY, , 0 , 0 , 0 , 2009 , 23 
 " Cox, Cecil ",GUY, , 0 , 0 , 0 , 1996 , 0 
 " Da Silva, Joshua ",GUY, , 0 , 0 , 0 , 1998 , 1 
-"  Davenand, Javier Garin ",GUY, , 0 , 0 , 0 , 2014 , 0 
+" Davenand, Javier Garin ",GUY, , 0 , 0 , 0 , 2014 , 0 
 " Dhanraj, Samrat ",GUY, , 0 , 0 , 0 , 2011 , 0 
 " Dillon, Dennis ",GUY, , 0 , 0 , 0 , 1962 , 0 
 " Dinga, Mia ",GUY, , 0 , 0 , 0 , 2009 , 0 
@@ -12616,7 +12616,7 @@
 " Pineda Coello, Fernando ",HON, , 1570 , 0 , 0 , 2001 , 0 
 " Cruz Zelaya, Felipe ",HON, , 1569 , 1555 , 0 , 1971 , 9 
 " Mejia Carranza, Aristides ",HON, , 1569 , 0 , 0 , 1960 , 5 
-" Kelly Padilla, Jerry Lee ",HON, , 1567 , 0 , 0 , 1975 , 0 
+" Kelly Padilla, Jerry Lee ",HON, , 1567 , 0 , 0 , 1975 , 0  
 " Medina Ucles, Ernesto Efrain ",HON, , 1560 , 0 , 0 , 1951 , 7 
 " Valladares Heller, Roussel ",HON, , 1560 , 0 , 0 , 1998 , 0 
 " Sanchez Pineda, Jose Ricardo ",HON, , 1553 , 0 , 0 , 2000 , 0 
@@ -12693,10 +12693,10 @@
 " Lai, Robin ",HKG, , 1822 , 1917 , 1873 , 1960 , 170 
 " Oh, Benjamin Yao Teng ",HKG, , 1821 , 1721 , 1754 , 2001 , 109 
 " Ng, Chun Hei ",HKG, , 1814 , 1795 , 0 , 1984 , 36 
-" Lo, Cheuk Wai ",HKG, ,  1813 , 1713 , 1852 , 1992 , 49 
+" Lo, Cheuk Wai ",HKG, , 1813 , 1713 , 1852 , 1992 , 49 
 " Chung, Raymond Chi Kit ",HKG, , 1807 , 0 , 1819 , 1981 , 0 
  Whalley Peter ,HKG, , 1801 , 0 , 0 , 1968 , 8 
-" Chong, Chor Yuen ",HKG, , 1795 , 0 , 0 , 1958 , 362 
+"  Chong, Chor Yuen ",HKG, , 1795 , 0 , 0 , 1958 , 362 
 " Law, Mark ",HKG, , 1791 , 0 , 0 , 1994 , 64 
 " Wong, Joseph Chun-him ",HKG, , 1790 , 1850 , 0 , 1994 , 21 
 " Tsao, Yui ",HKG, , 1785 , 1772 , 1759 , 1984 , 40 
@@ -12762,12 +12762,12 @@
 " Barcy, John ",HKG, , 1567 , 0 , 0 , 1963 , 31 
 " Song, Estella ",HKG, , 1567 , 1539 , 0 , 2003 , 39 
 " Lam, Theodore Lukas ",HKG, , 1560 , 1460 , 1511 , 2006 , 62 
-" Wong, On Wing ",HKG, , 1555 , 0 , 0 , 1995 , 8 
+" Wong, On Wing ",HKG, , 1555 , 0 , 0 , 1995 ,  8 
 " Lee, Matthew Yin Hang ",HKG, , 1544 , 1522 , 0 , 1995 , 4 
 " Sun, Kyle ",HKG, , 1543 , 1458 , 0 , 1996 , 7 
 " Tsoi, Mike ",HKG, , 1532 , 1547 , 1578 , 2002 , 5 
 " Lu, Jinzhi ",HKG, , 1529 , 1429 , 0 , 1989 , 0 
-" Ngai, Justin ",HKG, , 1529 , 1513 , 0 , 2001  , 10 
+" Ngai, Justin ",HKG, , 1529 , 1513 , 0 , 2001 , 10 
 " Feng, Eunice ",HKG, , 1528 , 1428 , 0 , 2009 , 80 
  Yau Kwok Yui Oliver ,HKG, , 1526 , 1447 , 1498 , 2003 , 60 
 " Liu, Suyao ",HKG, , 1524 , 0 , 0 , 1998 , 9 
@@ -12826,7 +12826,7 @@
  Yim Hao Jun ,HKG, , 1377 , 0 , 0 , 1998 , 18 
 " Chan, Trevor Xavier Yao ",HKG, , 1374 , 1545 , 1485 , 1991 , 5 
 " Xiang, Scott ",HKG, , 1361 , 0 , 1367 , 2003 , 2 
-" Leung, Adrian, Yu Chung ",HKG, , 1358 , 1344 , 0 , 2005 , 0  
+" Leung, Adrian, Yu Chung ",HKG, , 1358 , 1344 , 0 , 2005 , 0 
 " Wilson, Kenzo Joseph ",HKG, , 1353 , 0 , 0 , 2000 , 33 
 " Cheung, Hei Ming ",HKG, , 1352 , 1252 , 0 , 2006 , 0 
 " Kwan, Ho ",HKG, , 1350 , 1336 , 1348 , 2004 , 5 
@@ -13128,7 +13128,7 @@
 " Ingvason, Johann ",ISL, , 2140 , 2040 , 2040 , 1968 , 337 
 " Leosson, Torfi ",ISL, , 2139 , 2046 , 2100 , 1978 , 131 
 " Teitsson, Magnus ",ISL, , 2138 , 0 , 2129 , 1972 , 93 
-" Bjornsson, Sverrir Orn ",ISL, , 2137 ,  2101 , 2053 , 1971 , 251 
+" Bjornsson, Sverrir Orn ",ISL, , 2137 , 2101 , 2053 , 1971 , 251 
 " Berg, Runar ",ISL, , 2132 , 2138 , 2076 , 1964 , 66 
 " Kjeld, Matthias ",ISL, , 2132 , 0 , 2068 , 1979 , 86 
 " Bjornsson, Gunnar ",ISL, , 2130 , 2061 , 2030 , 1967 , 73 
@@ -13179,7 +13179,7 @@
 " Einarsson, Einar Kristinn ",ISL, , 2056 , 2044 , 1989 , 1973 , 85 
 " Thorsteinsson, Erlingur ",ISL, , 2056 , 2080 , 2021 , 1955 , 186 
 " Ptacnikova, Lenka ",ISL, WGM , 2055 , 2068 , 1955 , 1976 , 1759 
-" Jonsson, Jon Arni ",ISL, , 2044 , 0 , 0 , 1962  , 27 
+" Jonsson, Jon Arni ",ISL, , 2044 , 0 , 0 , 1962 , 27 
 " Knutsson, Larus ",ISL, , 2041 , 1999 , 1991 , 1975 , 85 
 " Arnarson, Sigurdur ",ISL, , 2037 , 2037 , 2046 , 1966 , 32 
 " Petursson, Gudni ",ISL, , 2037 , 1974 , 2072 , 1983 , 236 
@@ -13234,7 +13234,7 @@
 " Anand, Viswanathan ",IND, GM , 2756 , 2731 , 2734 , 1969 , 4654 
  Gukesh D ,IND, GM , 2732 , 2632 , 2632 , 2006 , 1611 
  Erigaisi Arjun ,IND, GM , 2728 , 2628 , 2745 , 2003 , 1932 
-" Harikrishna, Pentala ",IND, GM , 2717 , 2646 , 2617 , 1986 , 2825 
+"  Harikrishna, Pentala ",IND, GM , 2717 , 2646 , 2617 , 1986 , 2825 
 " Vidit, Santosh Gujrathi ",IND, GM , 2710 , 2662 , 2675 , 1994 , 2446 
  Praggnanandhaa R ,IND, GM , 2687 , 2587 , 2599 , 2005 , 1928 
  Nihal Sarin ,IND, GM , 2673 , 2616 , 2705 , 2004 , 2052 
@@ -13368,7 +13368,7 @@
  Kulkarni Bhakti ,IND, IM , 2376 , 2282 , 2276 , 1992 , 1376 
 " Thipsay, Praveen M ",IND, GM , 2376 , 2288 , 2276 , 1959 , 1285 
  Praneeth Surya K ,IND, FM , 2375 , 2275 , 0 , 1997 , 197 
-" Akshat, Khamparia ",IND, IM , 2374 , 2371 , 2274 , 1989  , 735 
+" Akshat, Khamparia ",IND, IM , 2374 , 2371 , 2274 , 1989 , 735 
 " Hemant, Sharma ",IND, IM , 2374 , 2297 , 2340 , 1992 , 304 
  Sanket Chakravarty ,IND, , 2372 , 2272 , 2272 , 2004 , 126 
 " Prathamesh, Sunil Mokal ",IND, IM , 2371 , 2366 , 0 , 1983 , 368 
@@ -13493,7 +13493,7 @@
 " Situru, Muhammad Ivan ",INA, IM , 2263 , 0 , 0 , 1963 , 184 
 " Ismoe, Ismail ",INA, , 2260 , 0 , 0 , 1960 , 1 
 " Sampouw, Jacobus S ",INA, , 2260 , 2217 , 0 , , 166 
-" Jafar, Sofyan  ",INA, FM , 2259 , 0 , 0 , , 18 
+" Jafar, Sofyan ",INA, FM , 2259 , 0 , 0 , , 18 
 " Citra, Dewi Ardhiani Anastasia ",INA, WGM , 2258 , 2158 , 2158 , 1994 , 392 
 " Zuherman, Eddy ",INA, FM , 2258 , 0 , 0 , , 10 
 " Tunasly, Kifly ",INA, FM , 2254 , 2323 , 0 , 1960 , 46 
@@ -13552,7 +13552,7 @@
  Zulkhairi ,INA, FM , 2185 , 2265 , 0 , 1975 , 15 
 " Hakim, Nuh ",INA, , 2184 , 2157 , 0 , 1998 , 49 
 " Hartono, Rusdi ",INA, , 2184 , 2147 , 0 , 1973 , 10 
-" Kurnia, Michael Danny ",INA, , 2183 ,  0 , 0 , 1997 , 0 
+" Kurnia, Michael Danny ",INA, , 2183 , 0 , 0 , 1997 , 0 
 " Hudany, M. Miftahul ",INA, FM , 2182 , 0 , 0 , 1997 , 2 
  Ahmad Fauzi ,INA, , 2181 , 0 , 0 , 1999 , 0 
 " Nuerohu, Rukminto ",INA, , 2176 , 0 , 0 , , 1 
@@ -14285,7 +14285,7 @@
 " Givon, Asaf ",ISR, IM , 2434 , 2382 , 2334 , 1994 , 422 
 " Galburd, Yan ",ISR, IM , 2430 , 2330 , 2369 , 1992 , 223 
 " Zaslavsky, Mikhail ",ISR, IM , 2430 , 2362 , 2422 , 1990 , 171 
-" Gershon, Alik ",ISR, GM , 2429 , 2381 , 0 , 1980 , 745  
+" Gershon, Alik ",ISR, GM , 2429 , 2381 , 0 , 1980 , 745 
 " Mindlin, Alon ",ISR, IM , 2426 , 2326 , 2417 , 1996 , 336 
 " Milikow, Elie ",ISR, FM , 2424 , 2324 , 2347 , 2007 , 241 
 " Oratovsky, Michael ",ISR, GM , 2422 , 2517 , 2391 , 1974 , 1003 
@@ -14295,7 +14295,7 @@
 " Mikhalevski, Alexander ",ISR, IM , 2414 , 2417 , 0 , 1958 , 444 
 " Gruenfeld, Yehuda ",ISR, GM , 2412 , 2391 , 2382 , 1956 , 1363 
 " Kaspi, Alexander ",ISR, IM , 2412 , 2312 , 2312 , 1964 , 427 
-" Milikow, Yoav ",ISR, IM , 2412 , 2312 , 2341 , 2004 , 356 
+" Milikow, Yoav ",ISR, IM ,  2412 , 2312 , 2341 , 2004 , 356 
 " Globus, Or ",ISR, FM , 2411 , 2311 , 2311 , 2003 , 236 
 " Tsesarsky, Ilya ",ISR, IM , 2409 , 0 , 0 , 1959 , 284 
 " Finkel, Alexander ",ISR, GM , 2408 , 2308 , 2356 , 1975 , 535 
@@ -14337,7 +14337,7 @@
 " Wapner, Jonathan ",ISR, , 2355 , 0 , 0 , 1981 , 78 
 " Mordechai, Hanan ",ISR, FM , 2353 , 2269 , 2325 , 1992 , 96 
 " Emanuel, Yahav ",ISR, FM , 2351 , 2251 , 2251 , 2002 , 118 
-" Kupervaser, Erez ",ISR, FM , 2351 ,  2251 , 2251 , 2000 , 144 
+" Kupervaser, Erez ",ISR, FM , 2351 , 2251 , 2251 , 2000 , 144 
 " Avni, Amatzia ",ISR, FM , 2350 , 0 , 0 , 1954 , 81 
 " Shvayger, Yuliya ",ISR, IM , 2350 , 2261 , 2250 , 1994 , 629 
 " Murey, Jacob ",ISR, GM , 2349 , 2249 , 2302 , 1941 , 1524 
@@ -14411,7 +14411,7 @@
 " Gesser, Bella ",ISR, WGM , 2284 , 0 , 0 , 1985 , 242 
 " Milavsky, Maxim ",ISR, , 2284 , 0 , 0 , 1979 , 20 
 " Elyoseph, Harel ",ISR, FM , 2280 , 0 , 0 , 1960 , 480 
-" Kobrin, Michael ",ISR, , 2280 , 0 , 0 , 1979 , 101 
+" Kobrin, Michael ",ISR, , 2280 , 0 , 0  , 1979 , 101 
 " Reznik, Viktor ",ISR, FM , 2280 , 0 , 2271 , 1964 , 28 
 " Shevelev, Arkady ",ISR, IM , 2280 , 2273 , 2263 , 1951 , 324 
 " Kundin, Alexander ",ISR, IM , 2278 , 2178 , 2236 , 1981 , 285 
@@ -14667,7 +14667,7 @@
  Esso Ulrich Wilfried ,CIV, , 1523 , 1572 , 1538 , 1989 , 0 
  Niamkey Elijah Pharell ,CIV, , 1515 , 1704 , 1550 , 2007 , 6 
 " Essis, Essoh Jean Mathieu Claude ",CIV, , 1438 , 1427 , 1367 , , 18 
- KOUAKOU KOUAME JEAN LOUIS CYRILE  ,CIV, , 1395 , 1397 , 0 , 1974 , 0 
+ KOUAKOU KOUAME JEAN LOUIS CYRILE ,CIV, , 1395 , 1397 , 0 , 1974 , 0 
  Sassi Ben Mohamed ,CIV, , 1385 , 1579 , 1558 , 1988 , 5 
  Menan Kouame Caleb Junior ,CIV, , 1379 , 1406 , 0 , 1995 , 0 
 " Yavo Tchetche, Marie ",CIV, WCM , 1372 , 1482 , 1427 , 2005 , 63 
@@ -14748,7 +14748,7 @@
  Dahe Joseph Gustave ,CIV, , 0 , 0 , 0 , 1970 , 0 
  DAHE KESSIE ANNE STEPHANIE ,CIV, , 0 , 0 , 0 , 2011 , 0 
  Dainhi Dylan Elias Monty ,CIV, , 0 , 0 , 0 , 2006 , 0 
- Dainhi Guewa Andre  ,CIV, , 0 , 0 , 0 , 1968 , 0 
+ Dainhi Guewa Andre ,CIV, , 0 , 0 , 0 , 1968 , 0 
  Dakouri Djokouehi Hermane ,CIV, , 0 , 0 , 0 , 1988 , 0 
  DAKOURI DJOKOUEHI HERMANN ,CIV, , 0 , 0 , 0 , 1988 , 0 
  Danho Kevin ,CIV, , 0 , 0 , 0 , 2004 , 0 
@@ -14824,7 +14824,7 @@
  GNAGNE DJOBO AGNES ,CIV, , 0 , 0 , 0 , 1986 , 0 
 " Gnagne, D. Djobo Paterne ",CIV, , 0 , 0 , 0 , , 0 
  Gnahore Zabilet Modeste ,CIV, , 0 , 0 , 0 , 1981 , 0 
- Gnama Guy-Arnold Camille ,CIV, , 0 , 0 , 0 , 1989 , 0 
+ Gnama Guy-Arnold Camille ,CIV, , 0 , 0 , 0 , 1989 ,  0 
  GNAMBA BILANE ROXANE ,CIV, , 0 , 0 , 0 , 2011 , 0 
 " Gnolou, Sety Syrille ",CIV, , 0 , 0 , 0 , , 0 
  Gobou Nahounou Thierry Roland ,CIV, , 0 , 1742 , 1620 , 1989 , 0 
@@ -14930,7 +14930,7 @@
 " Wright, Kareem ",JAM, , 1718 , 0 , 0 , 1992 , 1 
 " Morgan, Tajae ",JAM, , 1713 , 1729 , 0 , 2003 , 14 
 " Barrett, Leighton ",JAM, CM , 1710 , 1708 , 0 , 2003 , 0 
-" Johnson, Obrian ",JAM, , 1708 , 1896 , 1642 , 1996 , 0 
+" Johnson, Obrian ",JAM, , 1708 , 1896 , 1642 , 1996  , 0 
 " Lyn, Nicholas ",JAM, , 1704 , 1631 , 1604 , 2004 , 6 
 " Roberts, Rohan ",JAM, , 1701 , 1727 , 1601 , 2000 , 3 
 " Hall, Odane ",JAM, , 1700 , 1832 , 1671 , 1994 , 5 
@@ -14997,7 +14997,7 @@
 " Hutchinson, Marlon ",JAM, , 1493 , 0 , 0 , 1999 , 1 
 " Gardner, Sheanel ",JAM, , 1492 , 0 , 1561 , 2000 , 19 
 " McKoy, Jordan ",JAM, , 1491 , 0 , 0 , 2002 , 0 
-" Ellis, Rahjay ",JAM, , 1489 , 0 , 0 ,  2000 , 0 
+" Ellis, Rahjay ",JAM, , 1489 , 0 , 0 , 2000 , 0 
 " Gregory, Ashley-Renae ",JAM, , 1488 , 1485 , 1549 , 2001 , 0 
 " Porter, Rochelle ",JAM, , 1488 , 0 , 1388 , 2002 , 11 
 " Walker, Gayon ",JAM, , 1486 , 0 , 0 , 2000 , 0 
@@ -15020,7 +15020,7 @@
 " Smith, Romar ",JAM, , 1399 , 0 , 0 , 2000 , 0 
 " Abrahams, Addison ",JAM, , 1396 , 1296 , 0 , 2006 , 0 
 " Clarke, Rajarni ",JAM, , 1394 , 0 , 0 , 1997 , 0 
-" Richards, Jaleel ",JAM, , 1392 , 1846 , 1755 , 1996 , 8 
+" Richards, Jaleel  ",JAM, , 1392 , 1846 , 1755 , 1996 , 8 
 " Bartley, Martineil ",JAM, , 1386 , 0 , 0 , 2000 , 0 
 " Henry, Tian ",JAM, , 1369 , 0 , 0 , 2000 , 41 
 " Walters, Romaine ",JAM, , 1362 , 1268 , 0 , 2006 , 0 
@@ -15376,7 +15376,7 @@
 " Mooney-griffiths, Olivia ",JCI, , 0 , 0 , 0 , 2003 , 0 
 " Moore, Tate ",JCI, , 0 , 0 , 0 , 2005 , 7 
 " Moulson, Joshua ",JCI, , 0 , 0 , 0 , 2006 , 0 
-" Mullens, Mateo ",JCI, , 0 , 0 , 0 , 2004  , 0 
+" Mullens, Mateo ",JCI, , 0 , 0 , 0 , 2004 , 0 
 " Munns, Archie ",JCI, , 0 , 0 , 0 , 2006 , 0 
 " Nalichowski, Adrian ",JCI, , 0 , 0 , 0 , 2008 , 0 
 " Nash, Jake ",JCI, , 0 , 0 , 0 , 2006 , 6 
@@ -15571,7 +15571,7 @@
 " Alzoubi, Rami ",JOR, , 1837 , 0 , 0 , 1975 , 0 
 " Bargothe, Maher ",JOR, , 1834 , 0 , 0 , 1959 , 9 
 " Al-Oufi, Khalil ",JOR, , 1833 , 0 , 0 , 1961 , 0 
-" Ayman, Hamouda  ",JOR, , 1827 , 0 , 0 , 1964 , 0 
+" Ayman, Hamouda ",JOR, , 1827 , 0 , 0 , 1964 , 0 
 " Alsane, Abdallah ",JOR, CM , 1824 , 1791 , 1833 , 1964 , 16 
  Amr Majdalawi ,JOR, CM , 1824 , 1790 , 1724 , 2005 , 34 
 " Habboosh, O ",JOR, , 1821 , 1898 , 0 , 1985 , 19 
@@ -15903,7 +15903,7 @@
 " Kagambi, Lawrence ",KEN, , 1740 , 1837 , 1818 , 1964 , 75 
 " Mugi, Edwin ",KEN, , 1736 , 0 , 0 , 1990 , 7 
 " Owoko, Henry ",KEN, , 1736 , 0 , 0 , 1992 , 0 
-" Shile, Lenny Mataiga  ",KEN, , 1731 , 1631 , 1631 , 1997 , 32 
+" Shile, Lenny Mataiga ",KEN, , 1731 , 1631 , 1631 , 1997 , 32 
 " Villuela, Roberto ",KEN, , 1729 , 0 , 0 , 1961 , 32 
 " Mongeli, Sasha ",KEN, WFM , 1726 , 1626 , 1626 , 1996 , 138 
 " Nagda, Ankush ",KEN, , 1723 , 0 , 0 , 1995 , 28 
@@ -15945,7 +15945,7 @@
 " Kuritto, Douglas ",KEN, , 1668 , 1754 , 0 , 1984 , 24 
  NAFTALY WACHIRA MWANGI ,KEN, , 1668 , 0 , 0 , 1986 , 6 
 " Hongo, Victor Machel ",KEN, , 1666 , 1673 , 1687 , 1987 , 27 
-" Mbuthia, Evans ",KEN, , 1663 , 1679 , 1583 , 1997 , 0 
+"  Mbuthia, Evans ",KEN, , 1663 , 1679 , 1583 , 1997 , 0 
 " Nzioki, Thomas ",KEN, , 1662 , 1731 , 0 , 1985 , 18 
 " Kirega, Joseph ",KEN, , 1661 , 1561 , 1744 , 1996 , 27 
 " Miheso, Clement Chomu ",KEN, , 1661 , 1985 , 0 , 1960 , 98 
@@ -16078,7 +16078,7 @@
 " Kelmendi, Arsim ",KOS, , 2085 , 2048 , 2086 , 1989 , 65 
 " Sejdiu, Bekim ",KOS, , 2084 , 2075 , 2149 , 1972 , 12 
 " Halili, Sabri ",KOS, , 2078 , 2064 , 2045 , 1960 , 37 
-" Mehmeti, Shqipdon ",KOS, , 2076 , 2108 , 2237 , 2000 , 14 
+" Mehmeti, Shqipdon ",KOS, , 2076 ,  2108 , 2237 , 2000 , 14 
 " Jashari, Ardian ",KOS, FM , 2075 , 2129 , 2144 , 1981 , 81 
 " Morina, Brahim ",KOS, , 2075 , 2028 , 2007 , 1962 , 0 
 " Zenuni, Bashkim ",KOS, , 2072 , 2086 , 0 , 1967 , 13 
@@ -16167,7 +16167,7 @@
 " Kollari, Mehdi ",KOS, , 1944 , 1869 , 1938 , 1967 , 0 
 " Lika, Fisnik ",KOS, , 1942 , 2020 , 2058 , 1991 , 0 
 " Sokoli, Afrim ",KOS, , 1939 , 1890 , 1861 , 1990 , 1 
-" Koshi, Lulezim ",KOS, , 1936 , 2049 , 0 , 1955 , 20 
+" Koshi, Lulezim ",KOS, , 1936 , 2049 , 0 , 1955 ,  20 
 " Koxha, Hazis ",KOS, , 1936 , 1986 , 0 , 1950 , 0 
 " Aliti, Rrahman ",KOS, , 1933 , 1994 , 1850 , 1956 , 5 
 " Aliu, Besnik ",KOS, , 1933 , 2114 , 2014 , 1965 , 57 
@@ -16262,7 +16262,7 @@
 " Alazmi, Nawaf ",KUW, , 1624 , 1615 , 1581 , 1972 , 25 
 " Binzayed, Abdulrahman ",KUW, , 1561 , 0 , 0 , 1991 , 8 
 " Alothman, Salem ",KUW, , 1558 , 1462 , 1460 , 2003 , 135 
-" Alrashidi, Yousef ",KUW, , 1553 , 1610 , 1500 , 1989 , 95 
+" Alrashidi, Yousef ",KUW, , 1553 , 1610 , 1500 , 1989 , 95  
 " Qabazard, Mohamed ",KUW, , 1533 , 1588 , 0 , 1976 , 12 
 " Huwaidi, Fahad ",KUW, , 1507 , 1407 , 1537 , 1978 , 51 
 " Al-Ghareeb, Salem Faisal ",KUW, , 1492 , 0 , 0 , 2002 , 6 
@@ -16367,9 +16367,9 @@
 " Salem, Saud ",KUW, , 1023 , 0 , 0 , 1997 , 24 
 " Almannaei, Ahmad ",KUW, , 1009 , 0 , 0 , 2003 , 0 
 " Abdallah Yousef, ALZayed ",KUW, , 0 , 0 , 0 , 2009 , 0 
-" Abdulaziz, abdullah m m ",KUW, , 0 , 1469 , 0 , 2007 , 0 
+" Abdulaziz, abdullah m m  ",KUW, , 0 , 1469 , 0 , 2007 , 0 
 " Abdulaziz, Jafaralsadeq H ",KUW, , 0 , 0 , 0 , 1987 , 0 
-" Abdulkareem, Ali H A ",KUW, , 0 , 0 , 0 , 1994 , 0  
+" Abdulkareem, Ali H A ",KUW, , 0 , 0 , 0 , 1994 , 0 
 " Abdullah, Abdullah ",KUW, , 0 , 0 , 1301 , 1982 , 4 
  Abdulmohsen Almeshari ,KUW, , 0 , 0 , 0 , 1981 , 1 
 " Aboalhasan, Yaqoub ",KUW, , 0 , 0 , 0 , 1981 , 0 
@@ -16411,7 +16411,7 @@
 " AL-AJMI, SULATN S S ",KUW, , 0 , 0 , 0 , 2010 , 0 
 " Al-Ameer, Ali Sh ",KUW, , 0 , 0 , 0 , 1987 , 0 
 " al-ammar, abdulaziz s a a ",KUW, , 0 , 0 , 0 , 1994 , 0 
-" Al-Ansari, Mohammad Yaqoub ",KUW, , 0 , 0 , 0 , 1992 , 0 
+" Al-Ansari, Mohammad Yaqoub ",KUW, , 0 ,  0 , 0 , 1992 , 0 
 " Al-ansari, omar j m ",KUW, , 0 , 1355 , 0 , 2001 , 0 
 " Al-Anzi, Yousef Mohammad ",KUW, , 0 , 0 , 0 , 2001 , 0 
 " AL-AQELY, HAMAD ",KUW, , 0 , 0 , 0 , 2009 , 1 
@@ -16595,7 +16595,7 @@
 " Filjaev, Vitali ",KGZ, , 1634 , 0 , 0 , 1975 , 0 
 " Pak, Vadim ",KGZ, , 1633 , 1619 , 1814 , 1990 , 53 
 " Akimov, Israil ",KGZ, , 1627 , 1666 , 1639 , 1963 , 18 
-" Anarkasov, Aidar ",KGZ, , 1623 , 1592 , 1569 , 1999 , 31 
+" Anarkasov, Aidar ",KGZ, , 1623  , 1592 , 1569 , 1999 , 31 
 " Ramanov, Almanbet ",KGZ, , 1623 , 1523 , 1523 , 1999 , 0 
 " Sagynaliev, Iljas ",KGZ, , 1623 , 0 , 0 , 1999 , 9 
 " Arstanbekov, Dzhanysh ",KGZ, , 1621 , 1610 , 1523 , 1953 , 49 
@@ -16651,7 +16651,7 @@
 " Chanthaphavong, Daophasouk ",LAO, , 1155 , 0 , 0 , 1999 , 18 
 " Phimmaly, Khouanchai ",LAO, , 1117 , 1116 , 1108 , 2000 , 17 
 " Boualapim, Daokham ",LAO, , 1115 , 1102 , 0 , 2000 , 9 
- Adisone Souannavong ,LAO, , 0 , 0 , 0 , 2012 , 0 
+ Adisone Souannavong  ,LAO, , 0 , 0 , 0 , 2012 , 0 
  Alisa Khounvisith ,LAO, , 0 , 0 , 0 , 2011 , 0 
  Alisa Lounbounma ,LAO, , 0 , 0 , 0 , 1998 , 0 
  Amphone Onthaline ,LAO, , 0 , 0 , 0 , 1956 , 0 
@@ -17144,7 +17144,7 @@
  Tarabay Hady ,LBN, , 1606 , 1797 , 0 , 2004 , 0 
 " Kabalan, Farah ",LBN, , 1602 , 1590 , 0 , , 35 
 " Daou, Ziad ",LBN, , 1600 , 1655 , 1601 , 1972 , 18 
-" Kamar, Mohamad ",LBN, , 1599 , 1545 , 0 ,  1993 , 10 
+" Kamar, Mohamad ",LBN, , 1599 , 1545 , 0 , 1993 , 10 
 " Hanna, Naji ",LBN, , 1594 , 0 , 0 , , 27 
 " Kfoury, Raymond ",LBN, , 1594 , 1547 , 1539 , 1965 , 45 
 " Abbas, Khalil ",LBN, , 1590 , 1653 , 1884 , , 0 
@@ -17225,7 +17225,7 @@
  Mohlahli Motsie ,LES, , 1481 , 0 , 0 , 1988 , 6 
  Lejaha Jakote ,LES, , 1477 , 0 , 0 , 1996 , 2 
 " Makhele, Lisema ",LES, , 1470 , 0 , 0 , 2002 , 0 
- Ntsonyane Phamotse ,LES, , 1470 , 0 , 0 ,  1995 , 9 
+ Ntsonyane Phamotse ,LES, , 1470 , 0 , 0 , 1995 , 9 
  Refiloe Hlabisi ,LES, , 1465 , 0 , 0 , 1990 , 0 
  Motsoko Makhetha ,LES, , 1461 , 0 , 1528 , 1996 , 15 
  Teboho Makhele ,LES, , 1461 , 0 , 1503 , 2000 , 0 
@@ -17292,7 +17292,7 @@
 " Leboela, Maboloko ",LES, WCM , 1263 , 0 , 1438 , 1997 , 45 
  Mpiko Thobileng ,LES, , 1261 , 0 , 0 , 1997 , 0 
  Tlotlisang Motlhokoa ,LES, , 1260 , 0 , 1160 , 2002 , 0 
-" Tumelo, Chauke ",LES, , 1260 , 0 , 0 , 2002 ,  0 
+" Tumelo, Chauke ",LES, , 1260 , 0 , 0 , 2002 , 0 
  Moorosi Makhele ,LES, , 1255 , 0 , 0 , 2006 , 0 
 " Mashato, Phetetso ",LES, , 1250 , 0 , 1279 , 1997 , 0 
  Mfundisi Nhlapo ,LES, , 1242 , 0 , 1207 , 1999 , 9 
@@ -17689,7 +17689,7 @@
 " Altarhoni, Mohamed ",LBA, , 1880 , 1870 , 1929 , 1955 , 0 
 " Elfelu, Alsaid ",LBA, , 1880 , 1855 , 1780 , 1995 , 10 
 " Alajeli, Kamel ",LBA, , 1879 , 0 , 0 , , 1 
-" Abokrais, Kaled ",LBA, , 1876 , 0 , 1960 , 1981 , 0 
+" Abokrais, Kaled  ",LBA, , 1876 , 0 , 1960 , 1981 , 0 
 " Elnaami, Hashem A.K. ",LBA, CM , 1876 , 1900 , 1863 , 1994 , 22 
 " Nanis, Younes ismaeel ",LBA, , 1875 , 0 , 0 , 1986 , 0 
 " Bahoor, Mahmoud A. ",LBA, , 1872 , 1806 , 1912 , 1980 , 0 
@@ -17703,7 +17703,7 @@
 " Hassan, Mohamed M. ",LBA, , 1867 , 0 , 0 , 1980 , 0 
 " Saghayer, Mohamed Abubaker ",LBA, , 1867 , 0 , 0 , 1961 , 0 
 " Atiyah, Farris Fathullah ",LBA, , 1866 , 0 , 0 , 1995 , 0 
-" Franka, Mahmoud ",LBA, , 1864 , 1868 , 0  , , 8 
+" Franka, Mahmoud ",LBA, , 1864 , 1868 , 0 , , 8 
 " Gharib, Mahmoud ",LBA, , 1864 , 1879 , 1910 , 1983 , 0 
 " Kweiri, Tawfik ezzeddin ",LBA, , 1864 , 0 , 0 , 2010 , 0 
 " Alshareef, Alla Aldean Othman ",LBA, , 1858 , 1895 , 1910 , 1977 , 46 
@@ -18016,7 +18016,7 @@
 " Laurynaitis, Laimonas ",LTU, , 2052 , 0 , 0 , 1977 , 27 
 " Kisonas, Donatas ",LTU, , 2051 , 2013 , 2030 , 1982 , 26 
 " Survila, Andrius ",LTU, , 2051 , 0 , 0 , , 3 
-" Civilkiene, Ilona ",LTU, , 2050 , 0 , 0 , 1975 , 76 
+" Civilkiene, Ilona ",LTU, , 2050 , 0 , 0 , 1975  , 76 
 " Kubilius, Jonas ",LTU, , 2049 , 1949 , 2033 , 1957 , 48 
 " Kincinas, Rolandas ",LTU, , 2048 , 1948 , 2004 , 1971 , 30 
 " Milasiute, Vygante ",LTU, , 2046 , 0 , 0 , 1975 , 97 
@@ -18568,7 +18568,7 @@
  Tambadzo Felix ,MAW, , 1766 , 0 , 0 , 1992 , 0 
  Kapende Charles ,MAW, , 1763 , 0 , 0 , 1983 , 0 
  Nthara Bright ,MAW, , 1761 , 1801 , 0 , 1974 , 0 
- KAPYEPYE KUJALIWA ,MAW, , 1760 , 0 , 0 , 1975 , 0 
+ KAPYEPYE KUJALIWA ,MAW, , 1760 , 0  , 0 , 1975 , 0 
  Kopa Pilirani ,MAW, , 1759 , 0 , 0 , 1985 , 0 
  Mphande Mayeso ,MAW, , 1758 , 0 , 0 , 1981 , 0 
  Chibwe chifuniro ,MAW, , 1757 , 0 , 0 , 1985 , 0 
@@ -18608,7 +18608,7 @@
  Mhango Vicas ,MAW, , 1694 , 1706 , 0 , 1980 , 0 
  Mphungu Davie ,MAW, , 1688 , 0 , 0 , 1995 , 0 
  Mhango Kelusi ,MAW, , 1687 , 1686 , 1813 , 1988 , 4 
- Kapena Good son ,MAW, , 1685 , 0 , 0  , 1979 , 0 
+ Kapena Good son ,MAW, , 1685 , 0 , 0 , 1979 , 0 
  Mkandawire Sungani ,MAW, , 1685 , 0 , 0 , 1982 , 2 
  Mtaba Chifunilo ,MAW, , 1685 , 0 , 0 , 1997 , 0 
  Mweghama Wakisa ,MAW, , 1682 , 1677 , 0 , 1982 , 0 
@@ -18703,7 +18703,7 @@
  Mhango Adrian ,MAW, , 1518 , 1585 , 1538 , 1996 , 6 
  ChiKhwaya Mike ,MAW, , 1514 , 0 , 0 , 1986 , 0 
  KAMANGA BLESSINGS DALITSO ,MAW, , 1513 , 0 , 0 , 2002 , 9 
- Bema masauko ,MAW, , 1508 , 0 , 0 , 1978 , 0 
+ Bema masauko  ,MAW, , 1508 , 0 , 0 , 1978 , 0 
  Kamala Promise ,MAW, , 1508 , 0 , 0 , 1995 , 0 
  Chirwa Ephet ,MAW, , 1502 , 0 , 0 , 1986 , 0 
 " Yeoh, Li Tian ",MAS, IM , 2530 , 2430 , 2430 , 1999 , 362 
@@ -18746,7 +18746,7 @@
 " Lee, Kim Han Edward ",MAS, , 2172 , 0 , 0 , 1993 , 57 
 " Hong, Victor Wee Liam ",MAS, , 2169 , 0 , 0 , 1990 , 0 
 " Foudzi, Siti Zulaikha ",MAS, WIM , 2160 , 0 , 0 , 1988 , 213 
-" Che Hassan, Muhd Aizuddin  ",MAS, , 2158 , 2058 , 2066 , 1985 , 0 
+" Che Hassan, Muhd Aizuddin ",MAS, , 2158 , 2058 , 2066 , 1985 , 0 
 " Leong, Mun Wan ",MAS, , 2155 , 2096 , 0 , 1978 , 22 
 " Liew, Chee-Meng Jimmy ",MAS, IM , 2154 , 2198 , 2245 , 1958 , 271 
 " Karim, Wahid ",MAS, , 2153 , 2066 , 0 , 1970 , 5 
@@ -18783,7 +18783,7 @@
 " Tan, Wei Sin ",MAS, , 2090 , 0 , 0 , , 42 
 " Jamil, Mohd Hussein ",MAS, , 2088 , 2082 , 2053 , 1980 , 11 
 " Foudzi, Johan Iskandar ",MAS, FM , 2084 , 2033 , 1984 , 1987 , 48 
-" Lim, Han Ying  ",MAS, , 2081 , 0 , 0 , 1988 , 27 
+" Lim, Han Ying ",MAS, , 2081 , 0 , 0 , 1988 , 27 
 " Zullkafli, Zarul Shazwan ",MAS, , 2081 , 0 , 0 , 1989 , 20 
 " Zainal, Faiezul ",MAS, , 2080 , 2006 , 0 , , 9 
 " Yap, Abel Jinwei ",MAS, , 2079 , 2102 , 0 , 1989 , 0 
@@ -19161,7 +19161,7 @@
  djenebou n ,MLI, , 0 , 0 , 0 , 1999 , 0 
 " Doumbia, Amadou ",MLI, , 0 , 0 , 0 , 1964 , 19 
 " Doumbia,Alassonne ",MLI, , 0 , 0 , 0 , 1992 , 0 
- Elhadji Ousmane SACKO ,MLI, , 0 , 0  , 0 , 2003 , 0 
+ Elhadji Ousmane SACKO ,MLI, , 0 , 0 , 0 , 2003 , 0 
  Fassouman TRAORE ,MLI, , 0 , 0 , 0 , 1999 , 0 
  fataoumata sangare ,MLI, , 0 , 0 , 0 , 1999 , 0 
  fatoumata diarra ,MLI, , 0 , 0 , 0 , 1996 , 0 
@@ -19671,7 +19671,7 @@
 " Fine, Richard Alvaro Adrien ",MRI, , 0 , 0 , 0 , 1996 , 0 
 " Hosanee, Aartee ",MRI, , 0 , 0 , 0 , 1998 , 0 
 " Lam Kin Cheung, Stephane ",MRI, , 0 , 0 , 0 , 2001 , 11 
-" Lam Kin Cheung, Youn Ha ",MRI, , 0 , 0 , 0 , 1964 , 0  
+" Lam Kin Cheung, Youn Ha ",MRI, , 0 , 0 , 0 , 1964 , 0 
 " Lee Luen Lang, Henri ",MRI, , 0 , 0 , 0 , 1960 , 5 
 " Migale,Jose Ange Gaby ",MRI, , 0 , 0 , 0 , 1936 , 9 
 " Moulay Brahim, Ould Hamam Fal ",MRI, , 0 , 0 , 0 , , 16 
@@ -19724,7 +19724,7 @@
 " Palacios Llera, Francisco ",MEX, FM , 2288 , 0 , 0 , 1968 , 74 
 " Athala, Jorge ",MEX, FM , 2285 , 0 , 0 , 1958 , 6 
 " Barba, Ernesto ",MEX, FM , 2285 , 0 , 0 , 1954 , 1 
-" Contreras Torres, Javier Antonio ",MEX, FM , 2285 , 2321 , 2256 , 1985 , 6 
+" Contreras Torres, Javier Antonio ",MEX, FM , 2285 , 2321 , 2256 , 1985 ,  6 
 " Alvarez Ramirez, Miguel Angel ",MEX, FM , 2282 , 0 , 2245 , 1989 , 86 
 " Rodriguez Quintana, David ",MEX, , 2282 , 0 , 0 , 1987 , 64 
 " Monroy Cerecero, Enrique ",MEX, FM , 2280 , 0 , 0 , 1957 , 20 
@@ -19862,7 +19862,7 @@
 " Bringas Osuna, Ivan Jarek ",MEX, , 2150 , 2050 , 2069 , 1990 , 16 
 " Montes Cervantes, Rodrigo ",MEX, , 2150 , 2094 , 2097 , 1996 , 6 
 " Esparza Lomeli, Juan Luis ",MEX, , 2149 , 0 , 2123 , 1991 , 0 
-" Garcia Hernandez, Adrian ",MEX, , 2149 ,  0 , 2105 , 1962 , 11 
+" Garcia Hernandez, Adrian ",MEX, , 2149 , 0 , 2105 , 1962 , 11 
 " Campos Ruiz, Luis Fernando ",MEX, , 2148 , 0 , 0 , , 0 
 " Ancheyta Tejas, Victor Eligio ",MEX, FM , 2147 , 0 , 0 , 1982 , 111 
 " Marquet, Guillermo ",MEX, FM , 2147 , 0 , 0 , 1958 , 21 
@@ -19977,7 +19977,7 @@
 " Harbuz, Trayan ",MDA, , 2095 , 0 , 0 , 1982 , 19 
 " Smokina, Karolina ",MDA, WGM , 2092 , 0 , 0 , 1977 , 450 
 " Baroncea, Radu ",MDA, , 2085 , 0 , 0 , , 0 
-" Saprikin, Alexandr ",MDA, , 2084 , 2077 , 2051 , 1990  , 30 
+" Saprikin, Alexandr ",MDA, , 2084 , 2077 , 2051 , 1990 , 30 
 " Harbuz, Daniela ",MDA, WFM , 2082 , 0 , 0 , 1984 , 80 
 " Mihailova, Alina ",MDA, WFM , 2082 , 1982 , 1982 , 2004 , 233 
 " Chiriac, Alexei ",MDA, , 2078 , 2044 , 2118 , 1991 , 0 
@@ -20014,7 +20014,7 @@
 " Lupascu, Dorin ",MDA, , 2006 , 0 , 0 , 1991 , 14 
 " Talmaci, Alexandru ",MDA, , 2006 , 1978 , 1940 , 1991 , 85 
 " Gherasim, Ovidiu ",MDA, , 2003 , 0 , 0 , 1960 , 9 
-" Talmazan, Oleg ",MDA, , 2003 , 1964 , 1965 , 1993 , 44 
+" Talmazan, Oleg ",MDA, , 2003 ,  1964 , 1965 , 1993 , 44 
 " Mindrigan, Dumitru ",MDA, , 2001 , 0 , 2032 , 1981 , 14 
 " Ivanov, Evgeny ",MDA, , 1999 , 0 , 0 , 1986 , 72 
 " Banchik, Gennady ",MDA, , 1998 , 0 , 0 , 1979 , 0 
@@ -20170,7 +20170,7 @@
 " bencivenni , Leonardo ",MNC, , 0 , 0 , 0 , 2016 , 0 
  Bencivenni Leonardo ,MNC, , 0 , 0 , 0 , 2016 , 0 
 " Bernasconi , Victor ",MNC, , 0 , 0 , 0 , 2012 , 0 
-" Bokias, Sacha  ",MNC, , 0 , 0 , 0 , 2008 , 0 
+" Bokias, Sacha ",MNC, , 0 , 0 , 0 , 2008 , 0 
  Bondurri Allesandro ,MNC, , 0 , 0 , 0 , 2007 , 0 
 " Botto, Florian ",MNC, , 0 , 0 , 0 , 1989 , 2 
 " Botto, Philippe ",MNC, , 0 , 0 , 0 , 1955 , 0 
@@ -20192,7 +20192,7 @@
 " De Rocco, Alain ",MNC, , 0 , 0 , 0 , 1959 , 5 
  Del Fa hugo ,MNC, , 0 , 0 , 0 , 1992 , 0 
 " Dinoni, David ",MNC, , 0 , 1231 , 0 , 1957 , 0 
-" Dornbusch, Anna ",MNC, , 0 , 0 , 0  , 2016 , 0 
+" Dornbusch, Anna ",MNC, , 0 , 0 , 0 , 2016 , 0 
 " Dornbusch, Philippe ",MNC, , 0 , 0 , 0 , 1963 , 4 
 " Egorov, Arctic ",MNC, , 0 , 0 , 0 , 2012 , 0 
 " El Mejjad, Lilia ",MNC, , 0 , 0 , 0 , 2008 , 0 
@@ -20222,7 +20222,7 @@
  Korotenko Artem ,MNC, , 0 , 0 , 0 , 2011 , 0 
 " Korshunov, Maxim ",MNC, , 0 , 0 , 0 , 1991 , 0 
  Kotelnikova Maria ,MNC, , 0 , 0 , 0 , 2016 , 0 
- Kriuchkov Nikita ,MNC, , 0 , 1225  , 0 , 2014 , 0 
+ Kriuchkov Nikita ,MNC, , 0 , 1225 , 0 , 2014 , 0 
 " Krizanovskis , Kristians ",MNC, , 0 , 0 , 0 , 2015 , 0 
  Kuksenko Daniel ,MNC, , 0 , 0 , 0 , 2015 , 0 
  Kushnir Aleksandr ,MNC, , 0 , 0 , 0 , 2011 , 0 
@@ -20293,7 +20293,7 @@
 " Munkhgal, Gombosuren ",MGL, GM , 2463 , 2446 , 2576 , 1988 , 623 
 " Nasanjargal, Urtnasan ",MGL, GM , 2460 , 2360 , 2422 , 1994 , 464 
 " Agibileg, Uurtsaikh ",MGL, IM , 2441 , 2341 , 2341 , 2001 , 765 
-" Gan-Erdene, Sugar ",MGL, IM , 2419 , 2319 , 2319 , 2003 , 288 
+" Gan-Erdene, Sugar  ",MGL, IM , 2419 , 2319 , 2319 , 2003 , 288 
 " Munguntuul, Batkhuyag ",MGL, IM , 2408 , 2364 , 2391 , 1987 , 1234 
 " Amartuvshin, Ganzorig ",MGL, IM , 2406 , 2306 , 2306 , 2005 , 328 
 " Nomin-Erdene, Davaademberel ",MGL, IM , 2404 , 2304 , 2304 , 2000 , 894 
@@ -20636,7 +20636,7 @@
 " Jakic, Vidan ",MNE, , 2033 , 2007 , 1933 , 1956 , 88 
 " Medjedovic, Marko ",MNE, , 2033 , 2026 , 2188 , 1979 , 10 
 " Alibasic, Mirto ",MNE, , 2032 , 0 , 2023 , 1967 , 18 
-" Zekovic, Milan ",MNE, , 2031 , 0  , 0 , 1947 , 46 
+" Zekovic, Milan ",MNE, , 2031 , 0 , 0 , 1947 , 46 
 " Babovic, Boris ",MNE, , 2026 , 0 , 0 , 1973 , 23 
 " Boskovic, Momcilo ",MNE, , 2025 , 2037 , 1925 , 1939 , 32 
 " Zarubica, Milos ",MNE, , 2021 , 1943 , 1921 , 1942 , 0 
@@ -20673,7 +20673,7 @@
 " Vukmarkovic, Dragan ",MNE, , 1966 , 0 , 0 , 1962 , 0 
 " Asanin, Radomir ",MNE, , 1965 , 2011 , 2038 , 1979 , 53 
 " Mrvaljevic, Veselin ",MNE, , 1965 , 1945 , 0 , 1955 , 62 
-" Grbovic, Zoran ",MNE, ,  1962 , 0 , 0 , 1951 , 19 
+" Grbovic, Zoran ",MNE, , 1962 , 0 , 0 , 1951 , 19 
 " Perkovic, Radovan ",MNE, , 1959 , 2060 , 1963 , 1988 , 42 
 " Savic, Vladimir ",MNE, , 1959 , 2019 , 1955 , 1971 , 46 
 " Stojanovic, Nebojsa ",MNE, , 1959 , 0 , 0 , 1958 , 56 
@@ -20718,7 +20718,7 @@
 " Fareh, Youness ",MAR, CM , 2173 , 0 , 0 , 1975 , 127 
 " Idrissi, Chafik ",MAR, CM , 2168 , 2182 , 2166 , 1973 , 43 
 " El Aouam, Youssef ",MAR, , 2164 , 2064 , 2159 , 1980 , 2 
-" Arrami, Mohamed ",MAR, , 2163 , 2113  , 2063 , 2002 , 28 
+" Arrami, Mohamed ",MAR, , 2163 , 2113 , 2063 , 2002 , 28 
 " Akhrof, Lissandine ",MAR, , 2158 , 2114 , 2116 , 1974 , 34 
 " Hifad, Rachid ",MAR, IM , 2152 , 0 , 2279 , 1975 , 97 
 " Zarkik, Abdeslam ",MAR, , 2147 , 2123 , 0 , 1990 , 23 
@@ -20755,7 +20755,7 @@
 " Filali, Razzouki Otmane ",MAR, , 2054 , 0 , 2076 , 1990 , 6 
 " Mhamdi Alaoui, Mohamed ",MAR, , 2054 , 2070 , 0 , 1990 , 0 
 " Faouzi, Abdellatif ",MAR, , 2046 , 0 , 0 , 1967 , 11 
-" Ouazri, Anass ",MAR, , 2044 ,  2022 , 2049 , 1997 , 16 
+" Ouazri, Anass ",MAR, , 2044 , 2022 , 2049 , 1997 , 16 
  Anwar Tarik ,MAR, , 2041 , 2111 , 2067 , 1977 , 20 
 " Laghmari, Khalil ",MAR, , 2041 , 0 , 0 , , 1 
 " Nouri, Amin ",MAR, , 2039 , 2079 , 0 , 1999 , 1 
@@ -20844,7 +20844,7 @@
  Akil taha ,MAR, , 1908 , 1896 , 0 , 1998 , 1 
  moussaoui taoufiq ,MAR, , 1905 , 1805 , 1805 , 1980 , 0 
  OUBAAQA ABOUBAKR ,MAR, , 1905 , 0 , 1922 , 1980 , 11 
-" Khamlach, Abdelhaq ",MAR, , 1903 , 0 , 0 , 1989 ,  0 
+" Khamlach, Abdelhaq ",MAR, , 1903 , 0 , 0 , 1989 , 0 
 " Kouyach, Abdelali ",MAR, , 1903 , 1867 , 1944 , 1972 , 15 
 " Elamri, Laila A. ",MAR, WFM , 1901 , 0 , 0 , 1991 , 90 
 " Bennani, Elias ",MAR, , 1898 , 0 , 0 , , 9 
@@ -21111,7 +21111,7 @@
  Thein Dan Oo ,MYA, FM , 2249 , 0 , 0 , 1965 , 22 
  San Thit Lwin ,MYA, FM , 2242 , 2227 , 2232 , 1972 , 128 
  Mynn Htoo ,MYA, FM , 2239 , 0 , 0 , 1967 , 19 
- Ko Ko Ohn ,MYA, FM , 2235 , 0 , 0 , 1964 , 0 
+ Ko Ko Ohn ,MYA, FM , 2235 , 0 , 0  , 1964 , 0 
  Maung Maung Latt ,MYA, , 2235 , 0 , 0 , 1966 , 0 
 " Aung, Naing ",MYA, , 2234 , 0 , 0 , 1978 , 30 
 " Win, Tun ",MYA, FM , 2233 , 2271 , 2190 , 1979 , 66 
@@ -21313,7 +21313,7 @@
  Howeseb Don-Presley ,NAM, , 1680 , 0 , 0 , 2003 , 0 
 " Vries, Elrico ",NAM, , 1643 , 0 , 0 , 2000 , 0 
 " Gaoseb, Manfredo ",NAM, , 1640 , 0 , 0 , 2003 , 53 
-" Gallert, Peter ",NAM, , 1616 , 0 , 0 , ,  22 
+" Gallert, Peter ",NAM, , 1616 , 0 , 0 , , 22 
 " Kamberipa, William ",NAM, , 1616 , 0 , 0 , 1994 , 8 
  Nyandoro Collin ,NAM, , 1613 , 0 , 0 , 1988 , 0 
  Boois Ivan ,NAM, , 1603 , 0 , 0 , 1994 , 1 
@@ -21453,7 +21453,7 @@
 " Beukes, Damian ",NAM, , 0 , 0 , 0 , 1999 , 0 
 " Beukes, Danny ",NAM, , 0 , 0 , 0 , 2004 , 0 
 " Beukes, Juliet ",NAM, , 0 , 0 , 0 , 1974 , 0 
-" Beukes, Leon ",NAM, , 0  , 0 , 0 , 2002 , 0 
+" Beukes, Leon ",NAM, , 0 , 0 , 0 , 2002 , 0 
 " Beukes, Quade ",NAM, , 0 , 0 , 0 , 2009 , 0 
 " Beukes, Reuben ",NAM, , 0 , 0 , 0 , , 20 
 " Beukes, Zoe ",NAM, , 0 , 0 , 0 , 2002 , 0 
@@ -21468,7 +21468,7 @@
 " Bock, Ayesha ",NAM, , 0 , 0 , 0 , 2004 , 0 
  Bogomolova Alisa ,NAM, , 0 , 0 , 0 , 2005 , 0 
  Bok Bradley ,NAM, , 0 , 0 , 0 , 2000 , 0 
- Boois Frans ,NAM, , 0 , 0 , 0 , 1994 , 0 
+ Boois Frans ,NAM, , 0 , 0 , 0  , 1994 , 0 
 " Boois, Fidel ",NAM, , 0 , 0 , 0 , 2013 , 14 
 " Boois, Hilde ",NAM, , 0 , 0 , 0 , 2010 , 13 
  Boshoff Francis ,NAM, , 0 , 0 , 0 , 2012 , 0 
@@ -21658,7 +21658,7 @@
 " Shrestha, Lav Kumar ",NEP, , 1805 , 1808 , 0 , 1951 , 4 
 " Jati, Bikram ",NEP, , 1804 , 1844 , 1806 , 1990 , 2 
 " Shah, Krishna ",NEP, , 1802 , 1771 , 0 , 1990 , 0 
-" Byanjankar, Ratna ",NEP, , 1800  , 1841 , 1897 , 1978 , 5 
+" Byanjankar, Ratna ",NEP, , 1800 , 1841 , 1897 , 1978 , 5 
 " Thagunna, Bhupendra ",NEP, , 1799 , 0 , 0 , 1985 , 0 
 " Thapa, Lekh Bahadur ",NEP, , 1799 , 0 , 1856 , 1981 , 0 
 " Sainju, Umesh ",NEP, , 1795 , 1826 , 1829 , 1973 , 0 
@@ -21695,7 +21695,7 @@
 " Bhandari, Ramesh ",NEP, , 1764 , 0 , 0 , 1975 , 0 
 " Karmacharya, Upendra ",NEP, , 1764 , 0 , 0 , 1976 , 0 
 " Kasti, Roshan ",NEP, , 1764 , 0 , 0 , 1995 , 0 
-" Rai, Chudamani Kulung ",NEP, , 1764  , 0 , 1810 , 1969 , 0 
+" Rai, Chudamani Kulung ",NEP, , 1764 , 0 , 1810 , 1969 , 0 
 " Shrestha, Krishna Hari ",NEP, , 1764 , 1756 , 0 , 1956 , 0 
 " Sijapati, Rajansingh ",NEP, , 1763 , 0 , 0 , 1960 , 0 
 " Kachhepati, Rajesh ",NEP, , 1761 , 1714 , 1959 , 1973 , 8 
@@ -21832,7 +21832,7 @@
 " Michielsen, Joost ",NED, IM , 2386 , 0 , 0 , 1987 , 497 
 " Van der Wiel, John T.H. ",NED, GM , 2386 , 0 , 2388 , 1959 , 2663 
 " Van Wessel, Rudy ",NED, IM , 2386 , 0 , 2286 , 1973 , 347 
-" Cardon, Helmut ",NED, IM , 2385 , 0 , 0 ,  1963 , 317 
+" Cardon, Helmut ",NED, IM , 2385 , 0 , 0 , 1963 , 317 
 " Bitalzadeh, Ali ",NED, IM , 2384 , 0 , 2360 , 1989 , 681 
 " Gommers, Ralf ",NED, , 2383 , 0 , 0 , 1979 , 171 
 " Guramishvili, Sopiko ",NED, IM , 2383 , 2328 , 2321 , 1991 , 1075 
@@ -21869,7 +21869,7 @@
 " Roebers, Eline ",NED, , 2352 , 2290 , 0 , 2006 , 488 
 " Van der Linden, Lukas ",NED, FM , 2352 , 0 , 2252 , 1970 , 106 
 " Van Dongen, Cor ",NED, , 2352 , 0 , 0 , 1982 , 211 
-" Willemze, Jeroen ",NED, , 2352 , 0  , 0 , 1979 , 352 
+" Willemze, Jeroen ",NED, , 2352 , 0 , 0 , 1979 , 352 
 " Kuijf, Marinus ",NED, IM , 2351 , 0 , 0 , 1960 , 1155 
 " Lombaers, Peter ",NED, FM , 2351 , 2261 , 2251 , 1991 , 312 
 " Den Boer, Ber ",NED, FM , 2350 , 0 , 0 , 1971 , 95 
@@ -22439,7 +22439,7 @@
 " Sanchez, Evgueni ",NCA, , 1905 , 0 , 0 , , 1 
 " Garcia Cerda, Jorge L. ",NCA, , 1902 , 0 , 0 , , 8 
 " Arce Chevez, Amado Gonzalo ",NCA, , 1900 , 0 , 0 , 2000 , 5 
-" Gutierrez, Oscar ",NCA, , 1899 , 1940 , 1860 , 1960 , 67 
+" Gutierrez, Oscar ",NCA, , 1899 , 1940 , 1860  , 1960 , 67 
 " Vanegas Lopez, Natanael Emanuel ",NCA, , 1899 , 1799 , 1799 , 2006 , 18 
 " Molina, Eduardo ",NCA, , 1893 , 0 , 1859 , 1974 , 1 
 " Escobar, Cairo Igor ",NCA, , 1890 , 0 , 0 , , 0 
@@ -22578,7 +22578,7 @@
 " Agusto, Obafunmilayo ",NGR, FM , 2148 , 0 , 2186 , 1961 , 35 
 " Ugushidah, Ikorogbudu ",NGR, , 2146 , 0 , 0 , , 19 
  EMMANUEL JOY IDARA ,NGR, , 2141 , 2102 , 2046 , 2002 , 0 
-" Lapite, Oluwadurotimi ",NGR, ,  2139 , 2132 , 2039 , 1995 , 60 
+" Lapite, Oluwadurotimi ",NGR, , 2139 , 2132 , 2039 , 1995 , 60 
 " Dieyi, Roland ",NGR, CM , 2135 , 2134 , 2107 , 1982 , 44 
  Ogosi Raphael-Mary ,NGR, , 2134 , 2126 , 2108 , 1999 , 2 
 " Maduekwe, Chiedu ",NGR, , 2132 , 0 , 0 , 1963 , 233 
@@ -22588,7 +22588,7 @@
 " Adesina, Adeyinka ",NGR, FM , 2122 , 2166 , 2171 , 1981 , 96 
 " OKEMAKINDE, Toluwanimi ",NGR, , 2120 , 2045 , 2020 , 2002 , 0 
 " Owosina, Tolani ",NGR, , 2120 , 0 , 0 , , 69 
-" Efemuai, Oteri Martins  ",NGR, , 2118 , 0 , 0 , 1982 , 17 
+" Efemuai, Oteri Martins ",NGR, , 2118 , 0 , 0 , 1982 , 17 
  Rojugbokan Olatunji ,NGR, , 2118 , 2117 , 0 , 1978 , 0 
 " Allor, Chukwuka ",NGR, , 2117 , 0 , 2129 , 1979 , 165 
  Oladimeji Oluwaseyi ,NGR, , 2111 , 0 , 0 , 1999 , 0 
@@ -23089,7 +23089,7 @@
 " Al Jahwari, Asad ",OMA, , 1308 , 1338 , 0 , 1997 , 0 
 " Al Saidi, Almuhannad ",OMA, , 1306 , 0 , 0 , 1991 , 0 
 " Al Hadidi, Osama Khalid ",OMA, , 1305 , 1329 , 1476 , 2000 , 8 
-" Al Ghelani, Mohammed Said ",OMA, , 1300 , 0 , 0 , 1985 , 0  
+" Al Ghelani, Mohammed Said ",OMA, , 1300 , 0 , 0 , 1985 , 0 
 " Al Mabsali, Salim Said ",OMA, , 1293 , 0 , 0 , 1991 , 3 
 " Al Madhani, Omar ",OMA, , 1291 , 0 , 0 , 2007 , 0 
 " Al Balushi, Abdul Muaeen ",OMA, , 1282 , 0 , 0 , 1997 , 0 
@@ -23376,7 +23376,7 @@
 " Roxas, Rudel ",PLW, , 1530 , 0 , 0 , 1979 , 0 
 " Negrillo, Jeffrey ",PLW, , 1516 , 0 , 0 , 1975 , 0 
 " Macasaet, Neph ",PLW, , 1498 , 1501 , 1451 , 1974 , 0 
-" Whipps, Ksau Anthony Flores ",PLW, , 1497 , 1422 , 1397 , 2001 , 15 
+"  Whipps, Ksau Anthony Flores ",PLW, , 1497 , 1422 , 1397 , 2001 , 15 
 " Inres, Arnolfo ",PLW, , 1486 , 1602 , 1489 , 1966 , 0 
 " Sisior, Angelil ",PLW, , 1485 , 1391 , 1429 , 2003 , 42 
 " Acuyan, Edwin ",PLW, , 1480 , 0 , 0 , 1971 , 0 
@@ -23552,7 +23552,7 @@
 " Rafi, K. Tavitian ",PLE, , 2050 , 0 , 0 , , 0 
 " Muataz, Mahmood ",PLE, , 2045 , 0 , 0 , 1977 , 0 
 " Wajdy, Shebetah ",PLE, , 2041 , 0 , 0 , 1978 , 92 
-" Jabari, Omar Osama ",PLE, , 2030 , 2001 , 1990 , 1977 , 16 
+" Jabari, Omar Osama ",PLE, , 2030 , 2001 , 1990 , 1977 , 16  
 " Miqdad, Fadi ",PLE, , 2023 , 2015 , 1995 , 1999 , 27 
 " Miswadah, Baha ",PLE, , 2021 , 1943 , 1921 , 1981 , 134 
 " Safwat, Unsy ",PLE, , 2020 , 0 , 0 , 1951 , 0 
@@ -24294,7 +24294,7 @@
 " Arotoma Pablo, Danilo Ivan ",PER, , 2123 , 0 , 2113 , 1975 , 29 
 " Contreras, Jose ",PER, , 2123 , 2182 , 0 , 1973 , 196 
 " Vasquez Vargas, Henry Richard ",PER, FM , 2123 , 2023 , 2023 , 2006 , 104 
-" Harter, Jorge ",PER, , 2122 , 0 , 0 , 1969 , 38 
+" Harter, Jorge ",PER, , 2122 , 0 , 0  , 1969 , 38 
 " Fernandez Perez, Jorge Andres ",PER, , 2120 , 2135 , 2156 , 1997 , 63 
 " Sumar, Julio ",PER, , 2120 , 0 , 0 , , 138 
 " Hepler Ramirez , Narayana ",PER, , 2117 , 2017 , 2017 , 2002 , 74 
@@ -24446,7 +24446,7 @@
 " Montoyo, Ted Ian ",PHI, , 2277 , 2252 , 2306 , , 16 
 " Yu, Manuel E. ",PHI, FM , 2277 , 0 , 0 , 1971 , 18 
 " Cordero, Angel ",PHI, , 2276 , 0 , 0 , , 30 
-" Mascarinas, Rico ",PHI, IM , 2275 , 2277 ,  0 , 1953 , 566 
+" Mascarinas, Rico ",PHI, IM , 2275 , 2277 , 0 , 1953 , 566 
 " Lumancas, Lyndon ",PHI, , 2273 , 0 , 0 , , 13 
 " Senador, Emmanuel ",PHI, IM , 2273 , 2205 , 2301 , , 426 
 " Tolentino, Rustum ",PHI, FM , 2271 , 2281 , 2332 , 1982 , 84 
@@ -24498,7 +24498,7 @@
 " Bancod, Ronald ",PHI, IM , 2227 , 2202 , 2309 , , 454 
 " Naranja, Renato ",PHI, IM , 2226 , 0 , 2206 , 1940 , 294 
 " Emperado, Emmanuel ",PHI, , 2225 , 2166 , 2282 , , 126 
-" Espiritu, Onofre ",PHI, , 2225  , 0 , 0 , , 33 
+" Espiritu, Onofre ",PHI, , 2225 , 0 , 0 , , 33 
 " Causo, Deniel ",PHI, FM , 2224 , 2314 , 2304 , 1984 , 291 
 " Nebato, Sheider ",PHI, , 2224 , 2158 , 0 , , 25 
 " Lupian, Alexander ",PHI, , 2223 , 2218 , 2277 , 1959 , 17 
@@ -24579,7 +24579,7 @@
 " Gumularz, Szymon ",POL, GM , 2546 , 2538 , 2454 , 2001 , 1218 
 " Warakomski, Tomasz ",POL, GM , 2545 , 2445 , 2445 , 1989 , 1295 
 " Janik, Igor ",POL, GM , 2542 , 2442 , 2460 , 2000 , 1365 
-" Nasuta, Grzegorz ",POL, GM , 2542 , 2442 , 2442 , 1996  , 1846 
+" Nasuta, Grzegorz ",POL, GM , 2542 , 2442 , 2442 , 1996 , 1846 
 " Kempinski, Robert ",POL, GM , 2541 , 2498 , 2608 , 1977 , 2294 
 " Krzyzanowski, Marcin ",POL, GM , 2535 , 2435 , 2435 , 1994 , 1080 
 " Mista, Aleksander ",POL, GM , 2534 , 2514 , 2481 , 1983 , 1543 
@@ -24682,7 +24682,7 @@
 " Rajlich, Iweta ",POL, IM , 2379 , 2381 , 0 , 1981 , 1774 
 " Szwed, Jacek ",POL, FM , 2379 , 2279 , 2279 , 1989 , 523 
 " Sygulski, Artur ",POL, IM , 2378 , 2336 , 0 , 1960 , 448 
-" Zawadzka, Jolanta ",POL, WGM , 2378  , 2278 , 2278 , 1987 , 2251 
+" Zawadzka, Jolanta ",POL, WGM , 2378 , 2278 , 2278 , 1987 , 2251 
 " Szoen, Dariusz ",POL, IM , 2377 , 2386 , 0 , 1986 , 574 
 " Sapis, Witalis ",POL, IM , 2375 , 2340 , 2346 , 1964 , 604 
 " Seemann, Jakub ",POL, FM , 2375 , 2275 , 2275 , 2008 , 617 
@@ -24874,7 +24874,7 @@
 " Pereira, Antonio Pedro Caramez ",POR, , 2096 , 2037 , 2044 , 1988 , 313 
 " Santos, Ricardo Alexandre Luis ",POR, , 2096 , 1996 , 1996 , 1997 , 123 
 " Belsley, Alexandre ",POR, , 2095 , 1995 , 1995 , 1995 , 126 
-" Leite Oralova, Catarina ",POR, WIM ,  2095 , 2120 , 2038 , 1983 , 690 
+" Leite Oralova, Catarina ",POR, WIM , 2095 , 2120 , 2038 , 1983 , 690 
 " Fernandes, Alberto ",POR, , 2094 , 2099 , 2061 , 1959 , 227 
 " Vasconcelos, Paulo ",POR, , 2093 , 0 , 0 , 1971 , 100 
 " Vicente, Joao Vasco Reis ",POR, , 2092 , 2081 , 2138 , 1996 , 123 
@@ -25037,7 +25037,7 @@
 " Vazquez Gonzalez, Alberto ",PUR, , 1935 , 0 , 0 , 1973 , 2 
 " Basem-Hassan, Miriam ",PUR, , 1929 , 0 , 0 , 1973 , 72 
 " Figueroa Rosario, Alex ",PUR, , 1927 , 2009 , 1996 , 1989 , 27 
-" Cruz Arce, Francisco J. ",PUR, , 1926 , 1933  , 1886 , 1982 , 3 
+" Cruz Arce, Francisco J. ",PUR, , 1926 , 1933 , 1886 , 1982 , 3 
 " Munoz, Pablo ",PUR, , 1925 , 0 , 0 , , 14 
 " Ramos Roman, Miles ",PUR, , 1924 , 1987 , 1886 , 1996 , 13 
 " Miesse, Lorin ",PUR, , 1921 , 0 , 0 , 1966 , 3 
@@ -25226,7 +25226,7 @@
  Al-Mansouri Fahad ,QAT, , 1033 , 0 , 0 , 2007 , 0 
  Rafeeq Khalid ELNATSHEH ,QAT, , 1018 , 0 , 1036 , 2004 , 7 
  ABDULLA KHALIFA ALDOSARI ,QAT, , 0 , 0 , 0 , 1990 , 0 
-" Abdulrahman, Jassim ",QAT, , 0 , 0 , 0 , 1996 ,  7 
+" Abdulrahman, Jassim ",QAT, , 0 , 0 , 0 , 1996 , 7 
 " Abu Holavqah, Hassan ",QAT, , 0 , 0 , 0 , 1994 , 0 
 " Abu-Holayqan, Mohammed ",QAT, , 0 , 0 , 0 , 1999 , 8 
  AHMAD ADEL ALHASHEMI ,QAT, , 0 , 0 , 0 , 2007 , 0 
@@ -25249,7 +25249,7 @@
 " Al, Qahtani Khalifa Abd Rabbo ",QAT, , 0 , 0 , 0 , , 13 
 " Al- Rumaihi, Mohammed ",QAT, , 0 , 0 , 0 , 1999 , 0 
 " Al- Rumaihi, Soud ",QAT, , 0 , 0 , 0 , 2001 , 0 
-"  Al-Abdulla, Abdulla ",QAT, , 0 , 0 , 0 , 1997 , 0 
+" Al-Abdulla, Abdulla ",QAT, , 0 , 0 , 0 , 1997 , 0 
 " Al-Ajji, Abdulla ",QAT, , 0 , 0 , 0 , 1995 , 12 
  Al-Ansari Abdulla ,QAT, , 0 , 0 , 1266 , 2004 , 17 
 " Al-Haddad, Husein Essa ",QAT, , 0 , 0 , 0 , 1972 , 15 
@@ -25530,7 +25530,7 @@
 " Svidler, Peter ",RUS, GM , 2683 , 2752 , 2725 , 1976 , 4385 
 " Jakovenko, Dmitry ",RUS, GM , 2682 , 2684 , 2625 , 1983 , 2198 
 " Najer, Evgeniy ",RUS, GM , 2666 , 2590 , 2566 , 1977 , 2660 
-" Matlakov, Maxim ",RUS, GM , 2662 , 2671 , 2669 , 1991 , 2996 
+" Matlakov, Maxim ",RUS, GM , 2662 , 2671 , 2669 , 1991  , 2996 
 " Inarkiev, Ernesto ",RUS, GM , 2661 , 2678 , 2561 , 1985 , 2275 
 " Morozevich, Alexander ",RUS, GM , 2659 , 2651 , 2607 , 1977 , 2995 
 " Salov, Valery ",RUS, GM , 2644 , 0 , 0 , 1964 , 1060 
@@ -25596,7 +25596,7 @@
 " Kuzmin, Alexey ",RUS, GM , 2540 , 2530 , 2445 , 1963 , 644 
 " Volzhin, Alexander ",RUS, GM , 2540 , 0 , 0 , 1971 , 737 
 " Sorokin, Aleksey ",RUS, GM , 2538 , 2561 , 2476 , 2000 , 824 
-" Lobanov, Sergei ",RUS, GM , 2536 , 2436 , 2524 , 2001 , 1373 
+" Lobanov, Sergei ",RUS, GM , 2536 , 2436  , 2524 , 2001 , 1373 
 " Smikovski, Ivan ",RUS, IM , 2534 , 2509 , 0 , 1972 , 258 
 " Tsydypov, Zhamsaran ",RUS, GM , 2534 , 2559 , 2598 , 1996 , 1485 
 " Ibragimov, Ildar ",RUS, GM , 2533 , 2433 , 2433 , 1967 , 1712 
@@ -25696,7 +25696,7 @@
 " Tuzovsky, Aleksander I ",RUS, , 2470 , 0 , 0 , , 19 
 " Faizrakhmanov, Ramil ",RUS, IM , 2469 , 2475 , 2421 , 1997 , 937 
 " Lopushnoy, Denis ",RUS, GM , 2469 , 0 , 0 , 1977 , 273 
-" Totsky, Leonid ",RUS, GM ,  2469 , 2448 , 0 , 1967 , 599 
+" Totsky, Leonid ",RUS, GM , 2469 , 2448 , 0 , 1967 , 599 
 " Yudin, Sergei ",RUS, GM , 2469 , 2454 , 2600 , 1986 , 1007 
 " Petukhov, Valery ",RUS, IM , 2468 , 0 , 0 , 1949 , 30 
 " Askarov, Marat ",RUS, GM , 2467 , 2367 , 2367 , 1987 , 333 
@@ -25731,7 +25731,7 @@
 " Karenzi, Eliphaz Ben ",RWA, , 1738 , 0 , 0 , 1960 , 6 
 " Sheja, Poli Sabin ",RWA, , 1736 , 0 , 0 , 1995 , 0 
 " Kshitij, Goyal ",RWA, , 1730 , 1630 , 0 , 2005 , 16 
-" Zimurinda, Ben Tom  ",RWA, , 1723 , 1716 , 1700 , 1980 , 40 
+" Zimurinda, Ben Tom ",RWA, , 1723 , 1716 , 1700 , 1980 , 40 
 " Nsabimana Ubumwe, Solomon ",RWA, , 1711 , 0 , 0 , 1998 , 0 
 " Rutaremara, Theotime ",RWA, , 1703 , 1652 , 1704 , 1977 , 57 
 " Kagabo Mugema, Eugene ",RWA, , 1700 , 1693 , 0 , 1978 , 30 
@@ -25835,7 +25835,7 @@
 " MUhoza, Gabby ",RWA, , 0 , 0 , 0 , 1997 , 1 
 " Mukama, Christian ",RWA, , 0 , 0 , 0 , 1998 , 1 
  Mukamugabo Dancile ,RWA, , 0 , 0 , 0 , 1987 , 1 
-"  Mukundwa, Deborah ",RWA, , 0 , 0 , 0 , 2001 , 0 
+" Mukundwa, Deborah ",RWA, , 0 , 0 , 0 , 2001 , 0 
 " Munyehirwe, Protogene ",RWA, , 0 , 0 , 0 , 1978 , 4 
 " Munyurangabo, Rongin ",RWA, , 0 , 0 , 0 , 2000 , 0 
 " Musaale, Stephen ",RWA, , 0 , 0 , 0 , 1977 , 0 
@@ -25869,7 +25869,7 @@
 " Nzabandora, Valens ",RWA, , 0 , 0 , 0 , 1995 , 0 
 " Nzambazamariya, Ignacia ",RWA, , 0 , 0 , 0 , 2004 , 17 
 " Nzamwitar, Aciel ",RWA, , 0 , 0 , 0 , , 13 
-" Rebero, Emmanuel ",RWA, , 0 , 0 , 0 , 1990 , 0 
+" Rebero, Emmanuel ",RWA, , 0 ,  0 , 0 , 1990 , 0 
 " Rugabira, Girizina Christella ",RWA, , 0 , 0 , 0 , 1989 , 9 
  Rugwiro Landouard ,RWA, , 0 , 0 , 0 , 1995 , 0 
  Rukiriza Noble ,RWA, , 0 , 0 , 0 , 2009 , 1 
@@ -26070,7 +26070,7 @@
 " Duarte, Adelino ",STP, , 0 , 0 , 0 , 1994 , 0 
 " Espirito Santo, Carlos Rosamonte ",STP, , 0 , 0 , 0 , 2003 , 0 
 " Espirito Santo, Engel Andrade ",STP, , 0 , 1626 , 0 , 2000 , 6 
-" Espirito Santo, Honorio ",STP, , 0 , 0 , 0 , 1969 , 0 
+" Espirito Santo, Honorio ",STP, , 0 , 0 , 0 , 1969 ,  0 
 " Espirito Santo, Lucas A do ",STP, , 0 , 0 , 0 , 2011 , 11 
 " Espirito Santo, Marcio ",STP, , 0 , 0 , 0 , 2001 , 0 
 " Espirito Santo, Paulo Jorge ",STP, , 0 , 0 , 0 , 1995 , 0 
@@ -26214,7 +26214,7 @@
 " Al Onizan, Fahad M ",KSA, , 1782 , 1937 , 0 , 1989 , 7 
 " Nyazi, Khaled ",KSA, , 1782 , 0 , 0 , 1976 , 0 
 " Al Abdali, Zeyad Saleh ",KSA, , 1780 , 1695 , 1680 , 1985 , 106 
-" Mursi, Khalid ",KSA, , 1778 , 1770 , 0 , 1988 , 0 
+" Mursi, Khalid ",KSA, , 1778 , 1770 , 0 , 1988 , 0  
 " Alrahily, Saud ",KSA, , 1775 , 0 , 0 , 1985 , 0 
 " Al Turkmani, Nail ",KSA, , 1773 , 1734 , 0 , 1963 , 3 
 " Al Barrak, Badar ",KSA, , 1772 , 0 , 0 , 1984 , 0 
@@ -26697,7 +26697,7 @@
 " Ndione, Mamadou ",SEN, , 0 , 0 , 0 , , 3 
  Ngakou Boubacar ,SEN, , 0 , 0 , 0 , 2012 , 0 
  Ngakou Lamine ,SEN, , 0 , 0 , 0 , 2007 , 0 
- Ngakou Yahya ,SEN, , 0 , 0 , 0 , 2014 , 0 
+ Ngakou Yahya ,SEN, , 0 ,  0 , 0 , 2014 , 0 
  Niass Pape Matar ,SEN, , 0 , 0 , 0 , 2007 , 0 
  Oumou Kane ,SEN, , 0 , 0 , 0 , 2011 , 0 
  Pape Boubacar Niang ,SEN, , 0 , 0 , 0 , 2001 , 0 
@@ -26720,7 +26720,7 @@
 " Souleiman, Zein ",SEN, , 0 , 0 , 0 , 2008 , 0 
  Souleymane Thiongane ,SEN, , 0 , 0 , 0 , 1988 , 0 
  Sow Oumar ,SEN, , 0 , 0 , 0 , 1999 , 0 
- Sy Oumar ,SEN, , 0 , 0 , 0 , 1981 , 0 
+  Sy Oumar ,SEN, , 0 , 0 , 0 , 1981 , 0 
 " Sy, Abdoulaye ",SEN, , 0 , 0 , 0 , 1951 , 24 
 " Tall, Alioune ",SEN, , 0 , 0 , 0 , 1965 , 0 
  Tanor Doucoure ,SEN, , 0 , 0 , 0 , 1993 , 0 
@@ -26857,7 +26857,7 @@
 " Djokic, Vladan ",SRB, FM , 2334 , 2303 , 0 , 1987 , 201 
 " Vukic, Radivoj ",SRB, FM , 2334 , 0 , 0 , 1963 , 177 
 " Skaric, Djuro ",SRB, FM , 2333 , 2310 , 2267 , 1987 , 210 
-" Mladenovic, Stefan ",SRB, FM , 2332 , 2284 , 2337  , 1995 , 484 
+" Mladenovic, Stefan ",SRB, FM , 2332 , 2284 , 2337 , 1995 , 484 
 " Jovicic, Milos ",SRB, IM , 2331 , 0 , 2284 , 1947 , 200 
 " Cabarkapa, Velibor ",SRB, FM , 2330 , 0 , 0 , 1974 , 134 
 " Cerovic, Danilo ",SRB, FM , 2330 , 2333 , 2238 , 1987 , 358 
@@ -26967,7 +26967,7 @@
 " Filippini, Cayetana ",SEY, , 0 , 0 , 0 , 2011 , 0 
 " Hemanth Kumar, Prathiksha ",SEY, , 0 , 0 , 0 , 2006 , 10 
 " Henriette, Cindy ",SEY, , 0 , 0 , 0 , 1979 , 12 
-" Hoareau, Elza ",SEY, , 0  , 0 , 0 , 2000 , 18 
+" Hoareau, Elza ",SEY, , 0 , 0 , 0 , 2000 , 18 
 " Hoareau, Rachelles ",SEY, , 0 , 0 , 0 , , 0 
  Jean Larue ,SEY, , 0 , 0 , 0 , 1960 , 0 
 " Jesuraj Vijayakumar, Anu ",SEY, , 0 , 0 , 0 , 2003 , 0 
@@ -27090,7 +27090,7 @@
 " Wong, Meng Kong ",SGP, GM , 2250 , 2274 , 2228 , 1963 , 355 
 " Neubronner, Jarred ",SGP, FM , 2245 , 2266 , 2240 , 1992 , 114 
 " Sawalani, Navin ",SGP, , 2245 , 0 , 0 , 1982 , 45 
-" Lee, Jun Wei ",SGP, FM , 2238 , 2138 , 2138 , 2001 , 157 
+" Lee, Jun Wei ",SGP, FM ,  2238 , 2138 , 2138 , 2001 , 157 
 " Eng, Andre Jerome ",SGP, , 2237 , 2232 , 0 , 1995 , 70 
 " Wong, Meng Leong ",SGP, , 2237 , 0 , 2199 , 1962 , 27 
 " Low, Pe Yeow ",SGP, , 2235 , 0 , 0 , 1970 , 20 
@@ -27287,7 +27287,7 @@
 " Mikita, Jozef ",SVK, , 2363 , 0 , 0 , 1974 , 222 
 " Manik, Mikulas ",SVK, GM , 2362 , 2395 , 2415 , 1975 , 2354 
 " Macak, Stefan ",SVK, IM , 2361 , 0 , 2335 , 1985 , 537 
-" Maslik, Miroslav ",SVK, IM , 2359 , 2369 ,  0 , 1979 , 558 
+" Maslik, Miroslav ",SVK, IM , 2359 , 2369 , 0 , 1979 , 558 
 " Jablonicky, Martin ",SVK, FM , 2356 , 2304 , 2256 , 1999 , 887 
 " Csiba, Dominik ",SVK, IM , 2355 , 0 , 0 , 1992 , 501 
 " Jakab, Bela ",SVK, FM , 2353 , 2253 , 2253 , 2002 , 430 
@@ -28214,7 +28214,7 @@
 " Jeong, Chuljin ",KOR, , 1651 , 0 , 0 , 1983 , 0 
 " Nam, Kanghyeon ",KOR, , 1651 , 0 , 0 , 2001 , 5 
 " Park, Young Eun ",KOR, , 1651 , 0 , 0 , , 0 
-" Song, Hyunwoo ",KOR, , 1651 , 0 ,  0 , 1991 , 0 
+" Song, Hyunwoo ",KOR, , 1651 , 0 , 0 , 1991 , 0 
 " Kim, Jihwan ",KOR, , 1649 , 1549 , 0 , 2005 , 0 
 " Hong, Ian ",KOR, , 1648 , 1581 , 1548 , 2008 , 35 
 " Kim, Doyoung ",KOR, , 1648 , 0 , 0 , 2003 , 0 
@@ -28229,7 +28229,7 @@
 " Nam, Dennis Minwoo ",KOR, , 1627 , 0 , 0 , 2003 , 0 
 " Shin, Jinan ",KOR, , 1626 , 0 , 0 , 1974 , 17 
 " Cho, Yongseong ",KOR, , 1622 , 0 , 0 , 1976 , 0 
-" Fransioli, Brian ",KOR, , 1622 , 1605 , 0 ,  1984 , 0 
+" Fransioli, Brian ",KOR, , 1622 , 1605 , 0 , 1984 , 0 
 " An, Jin Young ",KOR, , 1621 , 0 , 0 , 1974 , 0 
 " Kim, Eun Hea ",KOR, , 1618 , 0 , 0 , 1975 , 0 
 " Moon, Jiwhan ",KOR, , 1617 , 0 , 0 , 1999 , 0 
@@ -28330,7 +28330,7 @@
  Anyang Akol Ajok ,SSD, , 1775 , 0 , 0 , 1991 , 2 
  Kut Alier -yollow ,SSD, , 1770 , 0 , 0 , 1995 , 4 
  Juuk Thiong Juuk ,SSD, , 1752 , 1770 , 1794 , 1996 , 16 
- Ngong Samuel Gai ,SSD, , 1743 , 0 , 0 , 2003 , 3 
+ Ngong Samuel Gai ,SSD, , 1743 , 0 , 0  , 2003 , 3 
  Michael Alier Noah ,SSD, , 1734 , 1779 , 1735 , 1982 , 24 
  Malith Dot Malith ,SSD, , 1714 , 0 , 0 , 1989 , 2 
  Simon Wieu Garang ,SSD, , 1702 , 1749 , 0 , 1985 , 2 
@@ -28338,7 +28338,7 @@
  Micheal Ajak Gai ,SSD, , 1670 , 0 , 0 , 2002 , 0 
 " Jada Albert, Modi ",SSD, , 1666 , 0 , 0 , 1962 , 0 
  Juach Deng Marol ,SSD, , 1643 , 0 , 0 , 1997 , 1 
- Dojo Ezekiel ,SSD, , 1624 , 0 , 0 , 1984 , 1 
+ Dojo Ezekiel  ,SSD, , 1624 , 0 , 0 , 1984 , 1 
  Adol Makuach Dau ,SSD, , 1618 , 0 , 1527 , 2003 , 3 
  John Chol Salva ,SSD, , 1605 , 0 , 0 , 1988 , 0 
  Micheal Kuany Ateng ,SSD, , 1567 , 0 , 0 , 1994 , 0 
@@ -28412,7 +28412,7 @@
 " Ayuiel, Lazuru, Kon ",SSD, , 0 , 0 , 0 , 1987 , 0 
  Baba Krok Ebon ,SSD, , 0 , 0 , 0 , 1986 , 0 
  Bariem william makech ,SSD, , 0 , 0 , 0 , 1997 , 1 
- Bedjwok Thomas Ajak ,SSD, , 0 , 1693 , 1763 , 1995 , 0 
+ Bedjwok Thomas Ajak ,SSD, , 0 , 1693 ,  1763 , 1995 , 0 
  Benjamin Paulo Niro ,SSD, , 0 , 0 , 0 , 1985 , 0 
  Bol Chol Bul ,SSD, , 0 , 0 , 0 , 1988 , 0 
  Bol Ring Bol Reec ,SSD, , 0 , 0 , 0 , 1985 , 0 
@@ -28731,7 +28731,7 @@
 " Koggala, W S Vidura K ",SRI, , 2022 , 1936 , 2004 , 1988 , 66 
 " Kurukulasuriya, Prasanna ",SRI, FM , 2017 , 2075 , 2081 , 1983 , 209 
 " Lamawansa, Yasas ",SRI, FM , 2016 , 2030 , 2019 , 1995 , 60 
-" Naotunna, Dineth Nimnaka  ",SRI, , 2014 , 1914 , 1914 , 1999 , 117 
+" Naotunna, Dineth Nimnaka ",SRI, , 2014 , 1914 , 1914 , 1999 , 117 
 " Saranga, N C O ",SRI, , 2014 , 0 , 0 , 1989 , 33 
 " Galappaththi, Chinthaka Anuruddh ",SRI, FM , 2007 , 2081 , 2077 , 1978 , 467 
 " Weeramantry, Sunil ",SRI, FM , 2003 , 2126 , 2121 , 1951 , 522 
@@ -28767,7 +28767,7 @@
 " Pitigala, Chandra Sudarman S. ",SRI, , 1917 , 0 , 0 , 1958 , 39 
 " Kaluarachchi, Achinthya Shamen ",SRI, , 1916 , 1816 , 1816 , 2001 , 41 
 " Premachandra, G T D M ",SRI, , 1915 , 1939 , 1908 , 1996 , 18 
-" Gunasinghe, W A T S ",SRI, , 1914 , 0 ,  0 , 1984 , 41 
+" Gunasinghe, W A T S ",SRI, , 1914 , 0 , 0 , 1984 , 41 
 " Liyanapathirana, Pasan Vindula ",SRI, , 1910 , 1816 , 1810 , 1992 , 82 
 " Kiriella, K G T S D ",SRI, , 1907 , 1807 , 1807 , 2006 , 52 
 " Dissanayake, R S ",SRI, , 1906 , 0 , 0 , 1990 , 84 
@@ -28789,7 +28789,7 @@
 " Rathnayake, M A A H ",SRI, , 1885 , 1871 , 1865 , 1993 , 27 
 " Peiris, T S S ",SRI, FM , 1882 , 1901 , 1863 , 1992 , 185 
 " Munasinghe, Shanaka ",SRI, , 1881 , 1843 , 1874 , 1995 , 33 
-" Lankeshwara, G C ",SRI, , 1879 , 0 , 0 , 1992  , 0 
+" Lankeshwara, G C ",SRI, , 1879 , 0 , 0 , 1992 , 0 
 " Munasinghe, Thisura ",SRI, , 1878 , 1868 , 1790 , 1994 , 37 
 " Mendis, W G Chinthaka ",SRI, , 1872 , 1909 , 1868 , 1989 , 40 
 " Madumadha, M Chaithika Samith ",SRI, , 1871 , 1880 , 1815 , 1990 , 11 
@@ -29116,7 +29116,7 @@
 " Ramdat Tewarie, John ",SUR, , 1810 , 1841 , 1808 , 1987 , 11 
 " Lautan, Shatish ",SUR, , 1803 , 1950 , 1958 , 1985 , 47 
 " Kromosoeto, Immanuel ",SUR, , 1787 , 1804 , 1796 , 1995 , 44 
-" Naipal, Ekaterina ",SUR, WFM , 1769 , 0 , 0  , 1991 , 133 
+" Naipal, Ekaterina ",SUR, WFM , 1769 , 0 , 0 , 1991 , 133 
 " dos Ramos, Rosangela ",SUR, WFM , 1765 , 0 , 1694 , 1996 , 212 
 " Koenders, Etienne ",SUR, , 1753 , 0 , 1706 , , 16 
 " Kalka, Shiva ",SUR, , 1744 , 1644 , 1644 , 2001 , 19 
@@ -29190,7 +29190,7 @@
 " Warsodikromo, Quincy ",SUR, , 1296 , 1258 , 1353 , 2007 , 8 
 " Wijnhard, Joelle ",SUR, , 1294 , 0 , 0 , 2003 , 19 
 " Reumel, Farisa ",SUR, , 1280 , 0 , 1298 , , 0 
-" Niamat, Fardeen ",SUR, , 1278 , 0 , 0 , , 1 
+" Niamat, Fardeen ",SUR, , 1278 , 0 , 0 , , 1  
 " Rozenblad, Michael ",SUR, , 1275 , 1331 , 0 , , 2 
 " Mahabir, Rayen ",SUR, , 1273 , 0 , 1239 , 2003 , 0 
 " Kemp, Jose Ch ",SUR, , 1271 , 0 , 0 , 2002 , 0 
@@ -30229,7 +30229,7 @@
 " Minja, Yusuph ",TAN, , 0 , 0 , 0 , , 5 
  Misambo .J. KIlasa ,TAN, , 0 , 0 , 0 , 1990 , 0 
  Mohammed Numaan ,TAN, , 0 , 0 , 0 , 2011 , 0 
- Monish Rudhra ,TAN, , 0  , 0 , 0 , 2009 , 0 
+ Monish Rudhra ,TAN, , 0 , 0 , 0 , 2009 , 0 
 " Mufaddal, Salebhai ",TAN, , 0 , 0 , 0 , , 6 
 " Mulindwa, Khemis ",TAN, , 0 , 0 , 0 , , 4 
  Musa Mike Kidima ,TAN, , 0 , 0 , 0 , 1995 , 0 
@@ -30252,7 +30252,7 @@
  Reyansh Varakatam ,TAN, , 0 , 0 , 0 , 2009 , 0 
  Rohan Jani ,TAN, , 0 , 0 , 0 , 2006 , 0 
  Sachin Venkatesh ,TAN, , 0 , 0 , 0 , 2006 , 0 
- Sadam Musa ,TAN, , 0 , 0 , 0 , 1993 , 0 
+ Sadam Musa  ,TAN, , 0 , 0 , 0 , 1993 , 0 
  Said Kapilima ,TAN, , 0 , 0 , 0 , 1977 , 0 
  Saira chaudhry ,TAN, , 0 , 0 , 0 , 2010 , 0 
 " Sakwella, Lawi Nyanginywa ",TAN, , 0 , 0 , 0 , , 3 
@@ -30412,7 +30412,7 @@
 " Duangsasitorn, Panya ",THA, , 1665 , 0 , 0 , 1959 , 0 
 " Nakvanich, Sahapol ",THA, , 1665 , 1746 , 1771 , 1969 , 98 
 " Saksaringkarn, Nattawut ",THA, , 1664 , 0 , 1641 , , 11 
-" Limlungkarn, Apiwat ",THA, , 1658 , 0 , 0 , 1993 , 3 
+" Limlungkarn, Apiwat ",THA, , 1658 , 0  , 0 , 1993 , 3 
 " Pinsuwan, Thatchawat ",THA, , 1656 , 0 , 0 , 1997 , 18 
 " Pongsacharoennont, Smarn ",THA, , 1652 , 0 , 0 , 1955 , 0 
 " Rattanawicha, Payothon ",THA, , 1640 , 0 , 0 , 1970 , 0 
@@ -30442,7 +30442,7 @@
 " Vongvastana, Chananchida ",THA, , 1581 , 1485 , 1518 , 2000 , 99 
 " Taulananda, Anon ",THA, , 1574 , 1519 , 1474 , 2006 , 80 
 " Footrakul, Tiwat ",THA, , 1573 , 1538 , 0 , 2003 , 10 
-" Saksaringkarn, Nattawee ",THA, , 1565 , 0 ,  1564 , 1998 , 11 
+" Saksaringkarn, Nattawee ",THA, , 1565 , 0 , 1564 , 1998 , 11 
 " Duangchaiya, Paphon ",THA, , 1564 , 1554 , 1652 , 1998 , 0 
 " Pitantanakij, Olarn ",THA, , 1564 , 1591 , 0 , 1969 , 33 
 " Kemmler, Kathrin Khanchanok ",THA, , 1559 , 0 , 0 , 2000 , 6 
@@ -30904,7 +30904,7 @@
 " Perryman, Sean ",TTO, , 2041 , 0 , 0 , , 30 
 " Soondarsingh, Dev ",TTO, CM , 2026 , 2020 , 1997 , 1987 , 85 
 " Singh, Ravishen ",TTO, CM , 2022 , 2128 , 2149 , 1977 , 221 
-" Chang, Eddison, Dr. ",TTO, , 2015 , 0 , 0 , 1977 , 50 
+" Chang, Eddison, Dr.  ",TTO, , 2015 , 0 , 0 , 1977 , 50 
 " Geofroy, M ",TTO, , 2005 , 0 , 0 , , 42 
 " Moheni, A E ",TTO, , 2005 , 0 , 0 , , 35 
 " Gordon, Anderson ",TTO, , 2004 , 2022 , 2066 , 1974 , 82 
@@ -30926,7 +30926,7 @@
 " Ramdath, Simon ",TTO, , 1912 , 1812 , 1812 , 1997 , 96 
 " Waldron, Omari ",TTO, , 1912 , 0 , 1901 , 1992 , 4 
 " James, Keevin ",TTO, , 1892 , 1861 , 1853 , 1981 , 45 
-" Nedd, Sean ",TTO, , 1886 , 0 , 0 , 1978 ,  18 
+" Nedd, Sean ",TTO, , 1886 , 0 , 0 , 1978 , 18 
 " Jones, David ",TTO, , 1875 , 1948 , 1903 , 1974 , 163 
 " Singh, Mahendra ",TTO, , 1873 , 1773 , 1863 , 1998 , 54 
 " Ramos Caldera, Cesar ",TTO, CM , 1871 , 1871 , 1867 , 1945 , 104 
@@ -30993,7 +30993,7 @@
 " Hunte, Keelan ",TTO, , 1623 , 1632 , 1631 , 1986 , 49 
 " Dover, Kelvin ",TTO, , 1620 , 0 , 0 , 1998 , 4 
 " Archer, Carl ",TTO, , 1618 , 1723 , 1678 , 1971 , 58 
-" Patihk, Marc ",TTO, , 1614 , 1624 , 1674 , 1972 ,  38 
+" Patihk, Marc ",TTO, , 1614 , 1624 , 1674 , 1972 , 38 
 " Nelson, Ronnie ",TTO, , 1594 , 0 , 0 , 1999 , 12 
 " Maharaj, Varenyam ",TTO, , 1593 , 0 , 1598 , 2002 , 13 
 " Singh, Carlyle ",TTO, , 1593 , 1622 , 0 , 1948 , 85 
@@ -31198,7 +31198,7 @@
 " Najjar, Khaled ",TUN, , 1925 , 1880 , 1825 , , 0 
 " Zorgati, Ziad ",TUN, , 1925 , 0 , 0 , 1967 , 2 
 " Fekih, Brahim ",TUN, , 1924 , 0 , 0 , 1974 , 258 
-" Ben Frej, Haythem ",TUN, , 1923 , 0 , 0 , , 11 
+" Ben Frej, Haythem ",TUN, , 1923 , 0 , 0 , , 11  
 " Miladi, Chaher Eddine ",TUN, , 1923 , 1914 , 2130 , 1958 , 2 
 " Essid, Jamel ",TUN, , 1920 , 0 , 0 , 1970 , 0 
 " Jaouani, Slim ",TUN, , 1920 , 1890 , 0 , 1979 , 7 
@@ -31213,7 +31213,7 @@
 " Yacine , Ben Thabet ",TUN, , 1897 , 1899 , 1874 , , 16 
 " Tamzali, Baccar ",TUN, , 1896 , 1941 , 1889 , 1993 , 57 
 " Ben Khedija, Kais ",TUN, , 1894 , 0 , 1887 , 1973 , 21 
- Gaamour Nabil ,TUN, , 1894 , 0 , 0 , 1971 , 0 
+ Gaamour Nabil ,TUN, , 1894 , 0 , 0  , 1971 , 0 
 " Ferchichi, Sofiane ",TUN, , 1893 , 0 , 0 , 1970 , 7 
 " Ktita, Dhafer ",TUN, , 1893 , 0 , 0 , 1984 , 18 
 " Maalaoui, Achraf ",TUN, , 1892 , 1927 , 1955 , 1994 , 29 
@@ -31280,7 +31280,7 @@
 " Ben Younes, Mohamed ",TUN, , 1802 , 0 , 1726 , 1966 , 14 
 " Chafai, Khalil ",TUN, , 1802 , 0 , 1946 , 1991 , 15 
 " Messaoudi, Med Al Fethi ",TUN, , 1802 , 0 , 0 , 1961 , 7 
-" Ben Ahmed,Naoures ",TUN, , 1798 , 0 , 0 , 2000 , 0 
+" Ben Ahmed,Naoures ",TUN, ,  1798 , 0 , 0 , 2000 , 0 
 " Aloulou, Mahmoud ",TUN, , 1797 , 1793 , 1754 , , 22 
 " Tritar, Kamel ",TUN, , 1796 , 1894 , 1895 , 1968 , 82 
  Ajili Rayen ,TUN, , 1794 , 1694 , 1694 , 2005 , 5 
@@ -31338,7 +31338,7 @@
 " Celik, Hasan Huseyin ",TUR, FM , 2323 , 2223 , 2223 , 2008 , 166 
 " Camlar, Arda ",TUR, FM , 2322 , 0 , 2222 , 2009 , 146 
 " Koksal, Ege ",TUR, IM , 2321 , 2318 , 2226 , 1996 , 747 
-" Arduman, Can ",TUR, IM , 2320 , 2354 , 0 , 1959 , 527 
+" Arduman, Can ",TUR, IM , 2320 , 2354 ,  0 , 1959 , 527 
 " Tarhan, Adar ",TUR, FM , 2320 , 2220 , 2220 , 2007 , 266 
 " Ozturk Orenli, Kubra ",TUR, WGM , 2319 , 2316 , 2290 , 1991 , 124 
 " Yurtseven, Melih ",TUR, IM , 2318 , 2273 , 2218 , 1996 , 842 
@@ -31457,7 +31457,7 @@
 " Uysal, Burak ",TUR, , 2173 , 2073 , 2073 , 1994 , 193 
 " Tamur, Ali ",TUR, , 2168 , 0 , 0 , 1972 , 21 
 " Ozturk, Emir ",TUR, , 2167 , 2176 , 2187 , 1986 , 127 
-" Basoglu, Yilmaz ",TUR, , 2163 , 0 , 0 , , 3 
+" Basoglu, Yilmaz  ",TUR, , 2163 , 0 , 0 , , 3 
 " Oksuz, Akin ",TUR, , 2161 , 0 , 2086 , 1984 , 84 
 " Demirel, Tolga ",TUR, FM , 2160 , 0 , 0 , 1972 , 260 
 " Guven, Oguz Kagan ",TUR, , 2159 , 0 , 2059 , 1999 , 184 
@@ -31590,7 +31590,7 @@
 " Achilova, Zumrat ",TKM, , 2014 , 0 , 0 , 1979 , 0 
 " Hakmedov, Azat ",TKM, , 2012 , 0 , 0 , 1982 , 9 
 " Masumova, Sevil ",TKM, WFM , 2011 , 0 , 0 , 1984 , 16 
-" Erashova, Durdana ",TKM, WFM , 2007 , 0 , 0 , 1977 , 9 
+" Erashova, Durdana ",TKM, WFM , 2007 , 0 , 0 , 1977 , 9  
 " Dovletov, Agamurat ",TKM, , 2006 , 0 , 0 , 1993 , 0 
 " Malikgulyewa, Aykamar ",TKM, WFM , 2003 , 0 , 0 , 1977 , 50 
 " Veliyeva, Hurma ",TKM, , 2003 , 2057 , 1903 , 1995 , 0 
@@ -31598,7 +31598,7 @@
 " Jallykow, Arslan ",TKM, , 1985 , 0 , 0 , 1993 , 0 
 " Hudayberenov, Suleyman ",TKM, , 1981 , 1882 , 1948 , 1984 , 0 
 " Annayev, Begench ",TKM, , 1979 , 0 , 1967 , 1993 , 0 
-" Jorayewa, Govher ",TKM, WFM , 1979 , 0 , 0 , 1994 , 53 
+" Jorayewa, Govher  ",TKM, WFM , 1979 , 0 , 0 , 1994 , 53 
 " Kuryazov, Zafar ",TKM, , 1976 , 0 , 0 , 1978 , 0 
 " Ishangulyyeva, Aknyr ",TKM, WCM , 1975 , 0 , 0 , 1988 , 57 
 " Jumadurdyev, Ashir ",TKM, , 1973 , 0 , 0 , 1958 , 0 
@@ -31687,7 +31687,7 @@
 " Ssegwanyi, Arthur ",UGA, IM , 2392 , 2342 , 2292 , 1988 , 320 
 " Naimanye, Andrew ",UGA, FM , 2360 , 0 , 0 , 1972 , 22 
 " Kawuma, Patrick ",UGA, FM , 2271 , 2252 , 2249 , 1990 , 298 
-"  Wanyama, Harold ",UGA, FM , 2262 , 2242 , 2282 , 1981 , 411 
+" Wanyama, Harold ",UGA, FM , 2262 , 2242 , 2282 , 1981 , 411 
 " Ssentongo, Edward ",UGA, , 2250 , 2238 , 0 , 1957 , 38 
 " Kabuye, Emmanuel ",UGA, , 2243 , 0 , 0 , , 28 
 " Matovu, George ",UGA, , 2225 , 0 , 0 , , 0 
@@ -32177,7 +32177,7 @@
 " Askar, M. A. ",UAE, , 2009 , 0 , 0 , 1983 , 7 
 " Husain, Hussain Mohamed ",UAE, , 2008 , 0 , 0 , , 0 
 " Ahmed, Khalifa ",UAE, , 2007 , 0 , 0 , , 12 
-" Al-Zaabi, Sultan ",UAE, CM , 1998 ,  1898 , 1898 , 2002 , 233 
+" Al-Zaabi, Sultan ",UAE, CM , 1998 , 1898 , 1898 , 2002 , 233 
 " Khalifa, Khamis ",UAE, , 1992 , 0 , 0 , , 42 
 " Othman, Rabeea ",UAE, , 1990 , 0 , 1927 , 1972 , 62 
 " Mohd, A. Altaher ",UAE, , 1978 , 1936 , 1976 , , 7 
@@ -32199,7 +32199,7 @@
 " Roush, Ali Gholoum ",UAE, , 1934 , 1925 , 1934 , , 0 
 " Abdulrahman, Al Yafee ",UAE, , 1932 , 1917 , 0 , , 4 
 " Hamdan, Marshool ",UAE, FM , 1926 , 1869 , 1826 , 1998 , 168 
-" Khaled Khamis, Ali ",UAE, , 1924 , 0 , 0 , ,  1 
+" Khaled Khamis, Ali ",UAE, , 1924 , 0 , 0 , , 1 
 " Badr, Ameen ",UAE, , 1917 , 0 , 0 , 1991 , 4 
 " Mohamed, Moussa ",UAE, , 1916 , 1901 , 1840 , , 33 
  Mayed AlRashedi ,UAE, FM , 1909 , 1869 , 1851 , 1999 , 144 
@@ -32242,7 +32242,7 @@
 " Alan, Ibrahim A ",UAE, , 1778 , 1765 , 1746 , 1994 , 7 
 " Al-Hammadi, Fatma ",UAE, WFM , 1776 , 0 , 0 , 1982 , 53 
 " Faisal, Ali ",UAE, , 1769 , 1669 , 1669 , 2001 , 80 
-" Dhaheri, Soltan ",UAE, , 1767 , 1775 , 0 , 1996 , 0 
+" Dhaheri, Soltan ",UAE, , 1767 , 1775 , 0 ,  1996 , 0 
 " Abdulla, Mohamed Saleh ",UAE, , 1763 , 1821 , 1763 , 1996 , 18 
 " Rouda Essa, Alserkal ",UAE, WCM , 1761 , 1661 , 1661 , 2009 , 169 
 " Abdulrahim, Salem ",UAE, , 1760 , 1660 , 1660 , 2002 , 148 
@@ -32409,7 +32409,7 @@
 " Esserman, Marc ",USA, IM , 2438 , 2438 , 0 , 1983 , 445 
 " Molner, Mackenzie ",USA, GM , 2438 , 2474 , 2434 , 1988 , 661 
 " Foygel, Igor ",USA, IM , 2436 , 0 , 0 , 1947 , 456 
-" Yermolinsky, Alex ",USA, GM , 2436 , 2520 , 2508 , 1958  , 2057 
+" Yermolinsky, Alex ",USA, GM , 2436 , 2520 , 2508 , 1958 , 2057 
 " Gonzalez, Renier ",USA, GM , 2435 , 0 , 0 , 1972 , 534 
 " Rao, Vivek ",USA, IM , 2435 , 0 , 0 , 1970 , 103 
 " Sagalchik, Gennadij ",USA, GM , 2434 , 0 , 0 , 1969 , 328 
@@ -32434,7 +32434,7 @@
 " Strauss, David ",USA, IM , 2425 , 0 , 0 , 1946 , 276 
 " Cartagena, Omar ",USA, IM , 2424 , 0 , 0 , 1964 , 103 
 " Shen, Arthur ",USA, IM , 2423 , 0 , 2346 , 1997 , 166 
-" Shur, Mikhail ",USA, IM , 2423 , 0 , 0 , 1962 , 107 
+" Shur, Mikhail ",USA, IM ,  2423 , 0 , 0 , 1962 , 107 
 " London, Dimitri ",USA, IM , 2422 , 0 , 0 , 1962 , 102 
 " Florean, Andrei-Costel ",USA, IM , 2420 , 0 , 0 , 1978 , 328 
 " Mikhailuk, Slava ",USA, FM , 2420 , 0 , 2353 , 1971 , 109 
@@ -32501,7 +32501,7 @@
 " Michailov, Matias ",URU, , 2268 , 2174 , 2231 , 1995 , 420 
 " Oddone, Cristhian ",URU, , 2268 , 2211 , 2170 , 1986 , 251 
 " Rodriguez, Santiago ",URU, CM , 2252 , 0 , 2256 , 1983 , 368 
-" Riccetto, Alvaro ",URU, , 2230 , 0 , 0  , 1952 , 75 
+" Riccetto, Alvaro ",URU, , 2230 , 0 , 0 , 1952 , 75 
 " Larrea, Manuel ",URU, FM , 2227 , 2241 , 2233 , 1980 , 969 
 " Kimelman, Gabriel ",URU, CM , 2221 , 0 , 2121 , 1999 , 371 
 " Olazarri, Marcelo ",URU, , 2208 , 2179 , 0 , 1965 , 91 
@@ -32641,7 +32641,7 @@
 " Rodriguez Laborde, Carlos ",URU, , 1874 , 0 , 0 , 1945 , 23 
 " Alvarez, Mateo ",URU, , 1873 , 1800 , 1869 , 1996 , 35 
 " Hernandez, Rafael ",URU, , 1873 , 0 , 0 , 1992 , 39 
-" Moccero, Eduardo ",URU, , 1870 , 1925 , 1985 , 1951 , 268 
+" Moccero, Eduardo ",URU, , 1870 , 1925  , 1985 , 1951 , 268 
 " Rodriguez, Ismael ",URU, , 1870 , 1835 , 1770 , 1991 , 18 
 " Manteiga, Franco ",URU, , 1869 , 1861 , 1769 , 2004 , 200 
 " Ottonello Gandarias, Marcos ",URU, , 1869 , 0 , 0 , 1997 , 67 
@@ -32796,7 +32796,7 @@
 " Barsov, Alexei ",UZB, GM , 2327 , 2340 , 2416 , 1966 , 2123 
 " Sabirov, Farkhad ",UZB, , 2326 , 0 , 0 , 1966 , 30 
 " Alikulov, Elbek ",UZB, IM , 2323 , 2282 , 2223 , 1993 , 351 
-" Kholmirzaev, Bakhodir ",UZB, FM , 2322 , 2288 , 2311 , 1984 , 278 
+" Kholmirzaev, Bakhodir ",UZB, FM ,  2322 , 2288 , 2311 , 1984 , 278 
 " Rakhmatullaev, Almas ",UZB, FM , 2321 , 2221 , 2221 , 2006 , 153 
 " Tillyaev, Ulugbek ",UZB, FM , 2316 , 2216 , 2377 , 1993 , 404 
 " Turaev, Hairilla ",UZB, , 2314 , 0 , 0 , 1949 , 18 
@@ -32818,7 +32818,7 @@
 " Karpov, Alexander ",UZB, IM , 2264 , 2188 , 2178 , 1959 , 463 
 " Nazhmeddinov, Sirodjiddin ",UZB, , 2254 , 2154 , 2199 , 1989 , 65 
 " Shkurov, Ravshan ",UZB, , 2248 , 0 , 0 , 1981 , 0 
-" Rahimov, Rahmatjon ",UZB, , 2247 ,  0 , 0 , 1993 , 85 
+" Rahimov, Rahmatjon ",UZB, , 2247 , 0 , 0 , 1993 , 85 
 " Artemenko, Oleg ",UZB, FM , 2246 , 2292 , 2287 , 1997 , 528 
 " Sapaev, Maksad ",UZB, , 2246 , 2146 , 2146 , 1993 , 127 
 " Radjabov, R. ",UZB, , 2242 , 0 , 0 , 1957 , 1044 
@@ -32877,7 +32877,7 @@
 " Shermuhammadov, Samandar ",UZB, FM , 2135 , 2035 , 2035 , 2004 , 51 
 " Rakhimov, Jakhongir ",UZB, , 2134 , 0 , 0 , 1977 , 1 
 " Tiukaev, Ilgiz ",UZB, , 2134 , 2209 , 2281 , 1988 , 43 
-" Djakashov, Kuralbay ",UZB, , 2133 , 0 , 0 , 1959 , 0 
+" Djakashov, Kuralbay ",UZB, , 2133 , 0 , 0 , 1959 ,  0 
 " Sattarov, Fakhriddin ",UZB, FM , 2133 , 2147 , 0 , 1965 , 32 
 " Khamrakulova, Iroda ",UZB, , 2132 , 0 , 0 , 1981 , 547 
 " Karshiev, Sherali ",UZB, , 2130 , 0 , 0 , 1988 , 11 
@@ -33219,7 +33219,7 @@
 " Long, Matthew ",WLS, , 2071 , 0 , 0 , 1970 , 39 
 " Saunders, Robert ",WLS, , 2067 , 0 , 2050 , 1966 , 174 
 " Powell, Lloyd ",WLS, , 2066 , 0 , 0 , 1950 , 181 
-" Richmond, Jane ",WLS, WFM , 2066 , 2000  , 0 , 1961 , 356 
+" Richmond, Jane ",WLS, WFM , 2066 , 2000 , 0 , 1961 , 356 
 " Blakemore, Michael ",WLS, , 2058 , 0 , 0 , 1977 , 24 
 " Bennett, Alan ",WLS, , 2057 , 0 , 0 , 1950 , 96 
 " Smith, Olivia ",WLS, WFM , 2054 , 1954 , 2007 , 1987 , 398 
@@ -33422,7 +33422,7 @@
  amr al-maktry ,YEM, , 1903 , 0 , 1892 , 1979 , 0 
 " Qassim, Ramzi Mohamed ",YEM, , 1896 , 0 , 0 , , 0 
 " Al Turki, Ahmed ",YEM, , 1895 , 1891 , 0 , , 12 
-" Al Washali, Al Hasan ",YEM, , 1894 , 0 , 0 , , 0 
+" Al Washali, Al Hasan ",YEM, , 1894 , 0 ,  0 , , 0 
 " Al Attab, Anwar ",YEM, , 1893 , 0 , 0 , , 0 
 " Hameed, Jamal Khalid ",YEM, , 1876 , 0 , 0 , 1980 , 0 
 " Alkathiri, Kamel ",YEM, , 1867 , 0 , 0 , , 0 
@@ -33882,7 +33882,7 @@
  HWATA JOSEPH ,ZIM, , 1766 , 0 , 0 , 2000 , 0 
 " Nyamuronda, Tendai ",ZIM, , 1764 , 0 , 0 , 2001 , 0 
 " Nyamadzawo, Kudakwashe ",ZIM, , 1763 , 0 , 0 , 1991 , 0 
-" Hamandishe, Jemitas ",ZIM, , 1762 , 0 , 0 , 1997 , 0 
+" Hamandishe, Jemitas ",ZIM, ,  1762 , 0 , 0 , 1997 , 0 
 " Kwaramba, Pledge ",ZIM, , 1761 , 0 , 0 , 1998 , 0 
 " Chibvuri, John Snr ",ZIM, , 1760 , 0 , 0 , 1981 , 0 
 " Charinda, Kudzanayi ",ZIM, WCM , 1758 , 1719 , 1735 , 1994 , 88 

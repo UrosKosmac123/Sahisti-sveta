@@ -1,0 +1,535 @@
+Ime,ELO,Leto izdaje,Zadnja različica,Igre
+ Stockfish , 3936 ,2021 , 2008, 129221 
+ Alliestein , 3936 ,2020 , 2019, 358 
+ Komodo , 3912 ,2021 , 2010, 74295 
+ Rybka , 3900 ,2011 , 2005, 80628 
+ Houdini , 3854 ,2017 , 2010, 66443 
+ Stoofvleesii , 3846 ,2019 , 2007, 689 
+ Scorpio , 3812 ,2021 , 2005, 20307 
+ Ethereal , 3810 ,2021 , 2016, 76728 
+ Fire , 3752 ,2021 , 2014, 56031 
+ Xiphos , 3717 ,2019 , 2018, 16025 
+ Blue , 3717 , 1996 ,, 31 
+ Rofchade , 3661 ,2019 , 2018, 13023 
+ Arasan , 3620 ,2021 , 1999, 40561 
+ Hiarcs , 3614 ,2012 , 1980, 64242 
+ Vajolet , 3592 ,2016 , 2010, 23062 
+ Fritz , 3580 ,2020 , 1990, 47658 
+ Nemorino , 3560 ,2021 , 2016, 29345 
+ Scrappy , 3539 , ,, 212 
+ Shashchess , 3519 ,2021 , 2018, 12420 
+ Sugar , 3513 ,2019 , 2014, 18429 
+ Gaia , 3513 ,2005 , 2003, 1727 
+ Slowchess , 3456 ,2019 , 2003, 50868 
+ Berserk , 3456 , 2021 ,, 14827 
+ Revenge , 3447 , 2021 ,, 10117 
+ Koivisto , 3442 ,2021 , 2020, 6168 
+ Rubichess , 3425 ,2020 , 2017, 41204 
+ Igel , 3408 ,2020 , 2018, 19411 
+ Seer , 3407 ,2021 , 2020, 4921 
+ Asmfish , 3404 ,2020 , 2015, 2226 
+ Prodeo , 3386 ,2020 , 2004, 10164 
+ Shredder , 3385 ,2016 , 1995, 55595 
+ Pedone , 3374 ,2021 , 2014, 32015 
+ Wildcat , 3372 ,2006 , 2000, 4529 
+ Lc , 3372 ,2021 , 2018, 7715 
+ Mcts , 3367 , ,, 0 
+ Chiron , 3354 ,2021 , 2002, 50118 
+ Andscacs , 3347 ,2021 , 2013, 34248 
+ Booot , 3347 ,2020 , 2005, 33551 
+ Ginkgo , 3340 ,2015 , 2014, 277 
+ Weiss , 3322 ,2020 , 2019, 9003 
+ Minic , 3312 ,2021 , 2018, 31653 
+ Matefinder , 3311 , ,, 760 
+ Clover , 3285 , 2021 ,, 2204 
+ Jonny , 3284 ,2016 , 2006, 10999 
+ Zahak , 3283 , 2021 ,, 2697 
+ Laser , 3281 ,2018 , 2015, 18730 
+ Fizbo , 3276 ,2017 , 2016, 18628 
+ Defenchess , 3274 , 2018 ,, 9378 
+ Schooner , 3258 ,2019 , 2015, 21409 
+ Marvin , 3244 ,2017 , 2000, 12166 
+ Halogen , 3236 , ,, 3312 
+ Winter , 3231 , ,, 12062 
+ Nirvana , 3221 , ,, 536 
+ Stash , 3221 , ,, 15682 
+ Gull , 3217 , ,, 32671 
+ Combusken , 3208 , ,, 4017 
+ Hannibal , 3203 , ,, 22164 
+ Gambit , 3198 , ,, 1076 
+ Danasah , 3190 , ,, 33271 
+ Chessbrainvb , 3183 , ,, 9478 
+ Counter , 3170 , ,, 12905 
+ Equinox , 3170 , ,, 9666 
+ Naum , 3168 , ,, 64046 
+ Invictus , 3164 , ,, 3360 
+ Wasp , 3161 , ,, 24485 
+ Critter , 3157 , ,, 56065 
+ Toga , 3152 ,2020 , 2005, 21191 
+ Roce , 3152 , ,, 7887 
+ Darky , 3152 , ,, 1350 
+ Bouquet , 3147 , ,, 11867 
+ Junior , 3141 ,2013 , 1995, 13323 
+ Protector , 3137 , ,, 33664 
+ Alfil , 3136 , ,, 11112 
+ Nosferatu , 3130 , ,, 0 
+ Sting , 3130 , ,, 16448 
+ Deepsaros , 3126 , ,, 89465 
+ Aice , 3122 , ,, 14738 
+ Blackmamba , 3121 , ,, 9039 
+ Orion , 3119 , ,, 7020 
+ Vitruvius , 3117 , ,, 4228 
+ Azmaiparashvili , 3116 , ,, 5 
+ Elektro , 3116 , ,, 1555 
+ Baron , 3115 , ,, 141 
+ Ivanhoe , 3112 , ,, 5039 
+ Senpai , 3111 , ,, 13096 
+ Spike , 3109 ,2012 , 2004, 36209 
+ Robbolito , 3109 , ,, 2565 
+ Cheng , 3105 , ,, 24230 
+ Demolito , 3102 , ,, 21318 
+ Strelka , 3101 , ,, 14274 
+ Fabchess , 3101 , ,, 4874 
+ Wld , 3101 , ,, 0 
+ Beef , 3098 , ,, 418 
+ Chesskiss , 3078 , ,, 12522 
+ Monolith , 3076 , ,, 12523 
+ Mr , 3074 , ,, 2559 
+ Zappa , 3073 , ,, 15966 
+ Bit-genie , 3072 , ,, 1096 
+ Amoeba , 3071 , ,, 12494 
+ Rodent , 3068 , ,, 18416 
+ Topple , 3065 , ,, 10646 
+ Goldmund , 3045 , ,, 28 
+ Drofa , 3041 , ,, 2345 
+ Pirarucu , 3028 , ,, 9632 
+ Smarthink , 3025 , ,, 12666 
+ Gogobello , 3010 , ,, 9237 
+ Glaurung , 3007 , ,, 26609 
+ Lyonbeast , 3004 , ,, 53 
+ Bagatur , 2996 , ,, 12940 
+ Deuterium , 2979 , ,, 11707 
+ Godel , 2977 , ,, 8785 
+ Asymptote , 2973 , ,, 10394 
+ Yace , 2972 , ,, 1474 
+ Exchess , 2970 , ,, 0 
+ Spark , 2968 , ,, 12784 
+ Texel , 2964 , ,, 12677 
+ Zap!chess , 2947 , ,, 5023 
+ Tucano , 2943 , ,, 9689 
+ Blackbishop , 2943 , ,, 1351 
+ Marlin , 2943 , ,, 0 
+ Francesca , 2932 , ,, 9110 
+ Themadprune , 2932 , ,, 504 
+ Onno , 2932 , ,, 6939 
+ Thinker , 2925 , ,, 15216 
+ Dirty , 2917 , ,, 14024 
+ Cucumber , 2917 , ,, 0 
+ Disasterarea , 2914 , ,, 9276 
+ Bobcat , 2913 , ,, 14870 
+ Cmth , 2909 , ,, 12197 
+ Tomitankchess , 2908 , ,, 7413 
+ Quazar , 2904 , ,, 6962 
+ Discocheck , 2900 , ,, 3661 
+ Tornado , 2898 , ,, 26951 
+ Atlas , 2897 , ,, 6774 
+ Bright , 2895 , ,, 17330 
+ Anmon , 2889 , ,, 3925 
+ Octochess , 2887 , ,, 8412 
+ Minkochess , 2885 , ,, 6276 
+ Doch , 2884 , ,, 2499 
+ Betac , 2884 , ,, 1 
+ King , 2866 , ,, 1023 
+ Velvet , 2862 , ,, 2106 
+ Deo , 2858 , ,, 333 
+ Fruit , 2854 , ,, 16463 
+ Loop , 2848 , ,, 19138 
+ Nemo , 2847 , ,, 0 
+ Olithink , 2846 , ,, 3898 
+ Cheese , 2843 , ,, 18281 
+ Shield , 2839 , ,, 5424 
+ Bugchess , 2837 , ,, 8131 
+ Zurichess , 2829 ,2019 , 2015, 5129 
+ Neuchatel , 2829 , ,, 0 
+ Cyclone , 2827 , ,, 11529 
+ Grapefruit , 2826 , ,, 4302 
+ Murka , 2823 , ,, 3170 
+ Nalwald , 2822 , ,, 3764 
+ Rage , 2820 , ,, 0 
+ Gnucheese , 2796 , ,, 13224 
+ Rhetoric , 2792 , ,, 5666 
+ Luzern , 2792 , ,, 0 
+ Ruydos , 2791 , ,, 6552 
+ Pawny , 2779 , ,, 7784 
+ Greko , 2778 , ,, 18431 
+ Tiger , 2775 ,2020 , 2000, 956 
+ Devel , 2775 , ,, 3783 
+ Naraku , 2774 , ,, 1855 
+ Frenzee , 2773 , ,, 13367 
+ Xperience , 2769 , ,, 9 
+ Twisted , 2769 , ,, 7560 
+ Jura , 2765 , ,, 0 
+ Bison , 2756 , ,, 5386 
+ Ktulu , 2754 , ,, 9492 
+ Fridolin , 2746 , ,, 9010 
+ Gandalf , 2745 , ,, 6882 
+ Gaviota , 2745 , ,, 10432 
+ Chronos , 2739 , ,, 5563 
+ Carballo , 2736 , ,, 6721 
+ Colossus , 2736 , ,, 6788 
+ Arminius , 2733 , ,, 10365 
+ Nebula , 2723 , ,, 8531 
+ Crafty , 2719 , ,, 23113 
+ Chessmaster , 2710 , ,, 7410 
+ Benjamin , 2700 , ,, 604 
+ Rexchess , 2694 , ,, 20138 
+ Ece , 2694 , ,, 8619 
+ Conqueror , 2694 , ,, 0 
+ Rebel , 2691 ,2004 , 1980, 3474 
+ Delfi , 2689 , ,, 5050 
+ Ceibo , 2689 , ,, 3059 
+ Graubuenden , 2689 , ,, 0 
+ Ruffian , 2685 , ,, 3794 
+ Hamsters , 2682 , ,, 15440 
+ Supernova , 2682 , ,, 1382 
+ Wyldchess , 2681 , ,, 3447 
+ Redqueen , 2680 , ,, 9974 
+ Daydreamer , 2680 , ,, 10984 
+ Pharaon , 2678 , ,, 11812 
+ Shallow , 2675 , ,, 5530 
+ Zevra , 2675 , ,, 4695 
+ Sjeng , 2670 ,2002 , 2000, 173 
+ Pseudo , 2670 , ,, 2016 
+ Movei , 2667 , ,, 15580 
+ Djinn , 2667 , ,, 3850 
+ Nawito , 2666 , ,, 2727 
+ Jellyfish , 2665 , ,, 2663 
+ Looplist , 2665 , ,, 547 
+ Nimzo , 2662 ,2002 , 1991, 3736 
+ Lazarus , 2661 , ,, 2 
+ Hakkapeliitta , 2660 , ,, 5548 
+ Alaric , 2660 , ,, 3604 
+ Enforcer , 2658 , ,, 0 
+ Floyd , 2657 , ,, 2784 
+ Drosophila , 2657 , ,, 2648 
+ Paralyse , 2655 , ,, 0 
+ Ogre , 2654 , ,, 0 
+ Rotor , 2651 , ,, 6618 
+ Philou , 2651 , ,, 5562 
+ Ghost , 2651 , ,, 4740 
+ Cyrano , 2647 , ,, 3460 
+ Delocto , 2645 , ,, 2832 
+ Pestilence , 2645 , ,, 0 
+ Magic , 2644 , ,, 0 
+ Guardian , 2640 , ,, 0 
+ Slow , 2637 , ,, 0 
+ Madchess , 2635 , ,, 5420 
+ Warrior , 2635 , ,, 1072 
+ Assassin , 2634 , ,, 0 
+ Sjakk , 2632 , ,, 4142 
+ Rodin , 2627 , ,, 6615 
+ Knightx , 2626 , ,, 6489 
+ Noragrace , 2623 , ,, 1991 
+ Caligula , 2622 , ,, 1842 
+ Lozza , 2621 , ,, 4848 
+ List , 2618 , ,, 0 
+ Phalanx , 2617 , ,, 3346 
+ Sloppy , 2612 , ,, 3788 
+ Betsabe , 2611 , ,, 7748 
+ Donna , 2606 , ,, 5065 
+ Raven , 2601 , ,, 3600 
+ Galjoen , 2599 , ,, 7612 
+ Glass , 2597 , ,, 6434 
+ Aristarch , 2596 , ,, 2884 
+ Petir , 2594 , ,, 2992 
+ Muse , 2594 , ,, 2111 
+ Amyan , 2590 , ,, 8699 
+ Brutus , 2589 , ,, 3881 
+ Coiled , 2586 , ,, 3752 
+ Garbochess , 2585 , ,, 3468 
+ Cuckoochess , 2585 , ,, 1608 
+ Dimitri , 2580 , ,, 883 
+ Myrddin , 2569 , ,, 6043 
+ Capivara , 2569 , ,, 4927 
+ Jumbo , 2559 , ,, 9222 
+ Detroid , 2557 , ,, 2387 
+ Jikchess , 2557 , ,, 2093 
+ Paulchen , 2557 , ,, 417 
+ Dorky , 2556 , ,, 4080 
+ Anaconda , 2556 , ,, 464 
+ Delphil , 2554 , ,, 7542 
+ Jazz , 2552 , ,, 5062 
+ Acca , 2552 , ,, 0 
+ Goliath , 2550 , ,, 1413 
+ Nanoszachy , 2547 , ,, 6265 
+ Ufim , 2543 , ,, 11139 
+ Frankwalter , 2542 , ,, 4082 
+ Maverick , 2535 , ,, 8561 
+ Axolotl , 2532 , ,, 2108 
+ Nemeton , 2529 , ,, 7741 
+ Hermann , 2527 , ,, 17528 
+ Ludden , 2522 , ,, 12 
+ Mchess , 2520 ,1999 , 1991, 18256 
+ Cyberpagno , 2515 , ,, 3060 
+ Goldbar , 2507 , ,, 49 
+ Tao , 2502 , ,, 1454 
+ Pupsi , 2501 , ,, 3847 
+ Zugzwang , 2500 , ,, 69 
+ Littlethought , 2498 , ,, 10253 
+ Pepito , 2495 , ,, 1785 
+ Loki , 2495 , ,, 658 
+ Light , 2489 , ,, 777 
+ Doublecheck , 2488 , ,, 1811 
+ Trace , 2485 , ,, 2460 
+ Geneva , 2484 , ,, 2 
+ Xpdnt , 2483 , ,, 2330 
+ Cerebro , 2482 , ,, 1249 
+ Matacz , 2479 , ,, 2229 
+ Bruja , 2479 , ,, 1766 
+ Genius , 2478 ,2019 , 2015, 2083 
+ Pikoszachy , 2478 , ,, 1704 
+ Spiderchess , 2477 , ,, 817 
+ Anatoli , 2474 , ,, 1429 
+ Bbchess , 2474 , ,, 1148 
+ Qapla , 2472 , ,, 404 
+ Quark , 2469 , ,, 1157 
+ Foxsee , 2464 , ,, 1569 
+ Bumblebee , 2463 , ,, 1775 
+ Waxman , 2462 , ,, 7481 
+ Giraffe , 2461 , ,, 1466 
+ Kallisto , 2450 , ,, 1574 
+ Typhoon , 2448 , ,, 2662 
+ Gideon , 2446 , ,, 30 
+ Hussar , 2445 , ,, 5888 
+ Abrok , 2445 , ,, 1129 
+ Bearded , 2443 , ,, 2719 
+ Eeyore , 2442 , ,, 2435 
+ Snitch , 2441 , ,, 1499 
+ Cosette , 2441 , ,, 544 
+ Teki , 2439 , ,, 2657 
+ Taltos , 2439 , ,, 1145 
+ Knockout , 2438 , ,, 3777 
+ Tjchess , 2434 , ,, 7136 
+ Homer , 2430 , ,, 3324 
+ Cmcchess , 2421 , ,, 1151 
+ Bitfoot , 2421 , ,, 601 
+ Kiwi , 2420 , ,, 991 
+ Ares , 2419 , ,, 7674 
+ Saitek , 2415 , ,, 433 
+ Millenium , 2415 , ,, 490 
+ Romichess , 2414 , ,, 4349 
+ Ifrit , 2413 , ,, 3637 
+ Hedgehog , 2412 , ,, 3093 
+ Queen , 2409 , ,, 0 
+ Jonesy , 2409 , ,, 822 
+ Pk , 2408 , ,, 1 
+ Tung , 2407 , ,, 144 
+ Leonardo , 2405 , ,, 61 
+ Gosu , 2404 , ,, 1141 
+ Simplex , 2401 , ,, 2376 
+ Tigran , 2401 , ,, 1595 
+ Comet , 2400 , ,, 1650 
+ Knightdreamer , 2398 , ,, 509 
+ Popochin , 2396 , ,, 4291 
+ Amateur , 2396 , ,, 1637 
+ Patzer , 2395 , ,, 4234 
+ Chessalex , 2392 , ,, 4205 
+ Sorgenkind , 2390 , ,, 1740 
+ Googleplex , 2387 , ,, 2418 
+ Sage , 2387 , ,, 1446 
+ Horizon , 2386 , ,, 1717 
+ Tytan , 2384 , ,, 1873 
+ Hammer , 2383 , ,, 756 
+ Galaxy , 2369 , ,, 587 
+ Barbarossa , 2364 , ,, 3367 
+ Plisk , 2363 , ,, 2495 
+ Wchess , 2358 , ,, 1929 
+ Flux , 2358 , ,, 824 
+ Arion , 2342 , ,, 1095 
+ Gibbon , 2341 ,2006 , 2005, 4887 
+ Napoleon , 2338 , ,, 3325 
+ Eveann , 2336 , ,, 4007 
+ Butcher , 2335 , ,, 2397 
+ Asterisk , 2332 , ,, 1161 
+ Amundsen , 2329 , ,, 1574 
+ Alphazero , 2326 , 2017 ,, 234 
+ Zeus , 2324 , ,, 1878 
+ Bringer , 2324 , ,, 0 
+ Wchess , 2322 , ,, 1929 
+ Chezzz , 2322 , ,, 1054 
+ Averno , 2314 , ,, 1063 
+ Mediocre , 2311 , ,, 2029 
+ Joker , 2302 , ,, 2257 
+ Rival , 2302 , ,, 1389 
+ Anechka , 2302 , ,, 1053 
+ Ant , 2302 , ,, 1041 
+ Fischerle , 2300 , ,, 6540 
+ Natwarlal , 2299 , ,, 1353 
+ Absolute , 2297 , ,, 3120 
+ Sungorus , 2297 , ,, 2817 
+ Dumb , 2293 , ,, 3282 
+ Matilde , 2291 , ,, 1094 
+ Chaturanga , 2290 , ,, 1037 
+ Alichess , 2283 , ,, 3708 
+ Chispa , 2274 , ,, 3680 
+ Ceechess , 2271 , ,, 595 
+ Milano , 2270 , ,, 62 
+ Ayito , 2269 , ,, 5752 
+ Socrates , 2260 , ,, 104 
+ Protej , 2257 , ,, 1701 
+ Rattatechess , 2253 , ,, 1630 
+ Exacto , 2252 , ,, 1063 
+ System , 2250 , ,, 6 
+ Beowulf , 2250 , ,, 2083 
+ Mango , 2246 , ,, 1365 
+ Weini , 2242 , ,, 1972 
+ Feuerstein , 2239 , ,, 2224 
+ Atak , 2238 , ,, 3086 
+ Mephisto , 2237 ,2007 , 1969, 6339 
+ Buzz , 2235 , ,, 1910 
+ Ramjet , 2232 , ,, 4517 
+ Kmtchess , 2231 , ,, 1703 
+ Dolphin , 2231 , ,, 1081 
+ Spacedog , 2230 , ,, 1724 
+ Tiny , 2223 , ,, 1038 
+ Robocide , 2221 , ,, 2492 
+ Uralochka , 2219 , ,, 1980 
+ Obender , 2215 , ,, 2646 
+ Neurosis , 2214 , ,, 2210 
+ Madeleine , 2214 , ,, 737 
+ Adam , 2211 , ,,  2610 
+ Latista , 2206 , ,, 729 
+ Baislicka , 2205 , ,, 962 
+ Bologna , 2202 , ,, 3 
+ Dorpsgek , 2200 , ,, 3501 
+ Mora , 2200 , ,, 982 
+ Achillees , 2199 , ,, 526 
+ Alarm , 2193 , ,, 880 
+ Embla , 2192 , ,, 4977 
+ Gophercheck , 2190 , ,, 1587 
+ Lime , 2182 , ,, 1886 
+ Terra , 2180 , ,, 718 
+ Soldat , 2178 , ,, 1943 
+ Prophet , 2177 , ,, 3236 
+ Girl , 2173 , ,, 0 
+ Clever , 2173 , ,, 1633 
+ Kurt , 2166 , ,, 1838 
+ Prochess , 2164 , ,, 1042 
+ Chesley , 2163 , ,, 1445 
+ Micah , 2162 , ,, 567 
+ Cosmopolitan , 2152 , ,, 0 
+ Blitzkrieg , 2142 , ,, 1016 
+ Parrot , 2136 , ,, 1441 
+ Bikjump , 2122 , ,, 2481 
+ Clarabit , 2116 , ,, 1630 
+ Cinnamon , 2111 , ,, 1758 
+ Risc , 2103 , ,, 81 
+ Armageddon , 2103 , ,, 678 
+ Bodo , 2093 , ,, 786 
+ Gunborg , 2087 , ,, 806 
+ Freyr , 2086 , ,, 859 
+ Smash , 2080 , ,, 1864 
+ Potato , 2080 , ,, 873 
+ Adroitchess , 2079 , ,, 1454 
+ Jabba , 2078 , ,, 2032 
+ Biglion , 2077 , ,, 6165 
+ Wing , 2074 , ,, 0 
+ Matant , 2067 , ,, 827 
+ Vice , 2057 , ,, 608 
+ Zeta , 2055 , ,, 3579 
+ Ecce , 2050 , ,, 901 
+ Goldfish , 2050 , ,, 870 
+ Squared-chess , 2046 , ,, 1561 
+ Monarch , 2044 , ,, 1363 
+ Mustang , 2044 , ,, 533 
+ Matheus , 2042 , ,, 709 
+ Abbess , 2033 , ,, 1334 
+ Chessmind , 2032 , ,, 744 
+ Schola , 2030 , ,, 1294 
+ Sapphire , 2029 , ,, 86 
+ Faile , 2028 , ,, 774 
+ Bestia , 2028 , ,, 470 
+ Brute , 2027 , ,, 80 
+ Novag , 2026 , ,, 240 
+ Wuttang , 2026 , ,, 1204 
+ Slibo , 2026 , ,, 573 
+ Cupcake , 2025 , ,, 1206 
+ Bubble , 2012 , ,, 1102 
+ Dame , 2003 , ,, 0 
+ Bibichess , 2001 , ,, 607 
+ Oberon , 2000 , ,, 648 
+ Snowy , 1998 , ,, 588 
+ Fidelity , 1997 , ,, 396 
+ Bsc , 1995 , ,, 1192 
+ Alchess , 1991 , ,, 692 
+ Heracles , 1983 , ,, 1034 
+ Dabbaba , 1965 , ,, 4269 
+ Zarkov , 1960 , ,, 129 
+ Sissa , 1958 , ,, 678 
+ Monik , 1955 , ,, 2757 
+ Wowl , 1953 , ,, 1203 
+ Etude , 1949 , ,, 772 
+ Franky , 1946 , ,, 640 
+ Micro-max , 1943 , ,, 1407 
+ Matmoi , 1939 , ,, 1264 
+ Eia , 1934 , ,, 914 
+ Presbyter , 1918 , ,, 20863 
+ Clueless , 1913 , ,, 1232 
+ Reger , 1908 , ,, 924 
+ Diablo , 1907 , ,, 1118 
+ Deepov , 1899 , ,, 677 
+ Surprise , 1894 , ,, 768 
+ Sapeli , 1892 , ,, 4134 
+ Mobmat , 1884 , ,, 668 
+ Predateur , 1859 , ,, 1618 
+ Skiull , 1841 , ,, 660 
+ Berochess , 1839 , ,, 912 
+ Sayuri , 1838 , ,, 605 
+ Pigeon , 1836 , ,, 502 
+ Jsbam , 1832 , ,, 626 
+ Tactico , 1832 , ,, 598 
+ Apollo , 1827 , ,, 838 
+ Chenard , 1818 , ,, 1154 
+ Ranita , 1812 , ,, 656 
+ Portorose , 1810 , ,, 43 
+ Lodocase , 1797 , ,, 546 
+ Robin , 1790 , ,, 579 
+ Ziggurat , 1789 , ,, 1339 
+ Mint , 1786 , ,, 556 
+ Grizzly , 1785 , ,, 592 
+ Pulsar , 1759 , ,, 694 
+ Zoidberg , 1754 , ,, 593 
+ Enigma , 1736 , ,, 1859 
+ Kanguruh , 1730 , ,, 754 
+ Thumb , 1697 , ,, 0 
+ Laurifer , 1695 , ,, 777 
+ Enkochess , 1694 , ,, 731 
+ Tscp , 1692 , ,, 1074 
+ Adachess , 1684 , ,, 708 
+ Spartan , 1674 , ,, 624 
+ Philemon , 1667 , ,, 626 
+ Vanillachess , 1663 , ,, 630 
+ Rainman , 1618 , ,, 624 
+ Pulse , 1615 , ,, 928 
+ Monochrome , 1602 , ,, 1300 
+ Bullitchess , 1597 , ,, 628 
+ Needle , 1589 , ,, 1418 
+ Casper , 1579 , ,, 624 
+ Storm , 1571 , ,, 925 
+ Damas , 1560 , ,, 626 
+ Cicada , 1536 , ,, 636 
+ Apep , 1479 , ,, 687 
+ Saruman , 1466 , ,, 1249 
+ Pooky , 1439 , ,, 626 
+ Kuppenheim , 1380 , ,, 53 
+ Bace , 1378 , ,, 1027 
+ Chessmachine , 0 , ,, 124 
+ Iphone , 0 , ,, 0 
+ Minimalchess , 0 , ,, 134 
+ Rookiemonster , 0 , ,, 101 
+ Mantissa , 0 , ,, 46 
+ Fornax , 0 , ,, 30 
+ Odonata , 0 , ,, 27 
+ Admete , 0 , ,, 26 
+ Anka , 0 , ,, 25 
+ Blunder , 0 , ,, 13 

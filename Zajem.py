@@ -48,12 +48,14 @@ def sahisti(drzava):
     
     return drzava_sahisti
 
-def zapisi_v_csv():
-    with open("Podatki.csv", "w", newline="") as file:
+def zapisi_v_csv_sahisti():
+    with open("Podatki_sahistov.csv", "w", newline="") as file:
         polja = ["Ime", "Država" ,"Naziv", "Classical ocena", "Rapid ocena", "Blitz ocena", "Leto rojstva", "Število iger"]
         zapisi = csv.DictWriter(file, fieldnames=polja)
         for kon in poberi_drzave():
             zapisi.writerows(sahisti(kon))
+
+zapisi_v_csv_sahisti()
 
 def link2():
     stran = requests.get(link).text
@@ -61,13 +63,47 @@ def link2():
     del_linka = soup_stran.find("a", {"title" : "Ranking Chess Engines"}).get("href")
     return link + del_linka
 
-#def sah_programi():
+def sah_programi():
 
-stran = requests.get(link2()).text
-soup_stran = BeautifulSoup(stran, "lxml")
-ime = remove_tag(soup_stran.find_all("h2")[1:])
-elo = remove_tag(soup_stran.find_all("td")[2::5])
-leti = remove_tag(soup_stran.find_all("td")[3::5])
-igre = remove_tag(soup_stran.find_all("td")[4::5])
+    def razdeli(sez):
+        pomozna = list(map(lambda x: x.split("/"), sez))
+        leto_idaje = []
+        zadnja_različica = []
+        for i in pomozna:
+            if len(i) == 2:
+                zadnja_različica += [i[0]]
+                leto_idaje += [i[1]]
+            elif len(i) == 1:
+                leto_idaje += [i[0]]
+                zadnja_različica += [""]
+            else:
+                leto_idaje += [""]
+                zadnja_različica += [""]
+        return leto_idaje, zadnja_različica
 
-n = len(ime)
+    stran = requests.get(link2()).text
+    soup_stran = BeautifulSoup(stran, "lxml")
+    ime = remove_tag(soup_stran.find_all("h2")[1:])
+    elo = remove_tag(soup_stran.find_all("td")[2::5])
+    leti = remove_tag(soup_stran.find_all("td")[3::5])
+    leto_izdaje = razdeli(leti)[0]
+    zadnja_različica = razdeli(leti)[1]
+    igre = remove_tag(soup_stran.find_all("td")[4::5])
+
+    vse = []
+    n = len(ime)
+    for i in range(n):
+        vse.append({"Ime" : ime[i], "ELO" : elo[i], "Leto izdaje" : leto_izdaje[i],
+                    "Zadnja različica" : zadnja_različica[i], "Igre" : igre[i]})
+
+    return vse
+
+polja = programi = ["Ime", "ELO", "Leto izdaje", "Zadnja različica" ,"Igre"]
+
+def zapisi_csv(slovarji, imena_polj, ime_datoteke):
+    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
+        writer.writeheader()
+        writer.writerows(slovarji)
+
+zapisi_csv(sah_programi(), polja, "Podatki_programov.csv")
