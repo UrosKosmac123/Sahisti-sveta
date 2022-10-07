@@ -16,6 +16,12 @@ def zadnji_tri(str):
 def fst(element):
     return element[0]
 
+def varen_int(val, default=None):
+        try:
+            return int(val)
+        except ValueError:
+            return default
+
 def poberi_drzave():
     link = "https://www.yottachess.com/filterTable?country=USA&genre=B&ritmo=classic&games=100"
     drzave = requests.get(link).text
@@ -41,17 +47,19 @@ def sahisti(drzava):
     drzava_sahisti = []
     n = len(ime)
 
+
     for i in range(n):
-        drzava_sahisti.append({"Ime" : odstrani_tag[0][i], "Država" : drzava ,"Naziv" : odstrani_tag[1][i], "Classical ocena" : odstrani_tag[2][i], 
-                        "Rapid ocena" : odstrani_tag[3][i], "Blitz ocena" : odstrani_tag[4][i], "Leto rojstva" : odstrani_tag[5][i], 
-                        "Število iger" : odstrani_tag[6][i]})
+        drzava_sahisti.append({"Ime" : odstrani_tag[0][i], "Država" : drzava ,"Naziv" : odstrani_tag[1][i], "Classical ocena" : varen_int(odstrani_tag[2][i]), 
+                        "Rapid ocena" : varen_int(odstrani_tag[3][i]), "Blitz ocena" : varen_int(odstrani_tag[4][i]), "Leto rojstva" : varen_int(odstrani_tag[5][i]), 
+                        "Število iger" : varen_int(odstrani_tag[6][i])})
     
     return drzava_sahisti
 
 def zapisi_v_csv_sahisti():
-    with open("Podatki_sahistov.csv", "w", newline="") as file:
+    with open("Podatki_sahistov.csv", "w", encoding="utf-8") as file:
         polja = ["Ime", "Država" ,"Naziv", "Classical ocena", "Rapid ocena", "Blitz ocena", "Leto rojstva", "Število iger"]
         zapisi = csv.DictWriter(file, fieldnames=polja)
+        zapisi.writeheader()
         for kon in poberi_drzave():
             zapisi.writerows(sahisti(kon))
 
@@ -93,12 +101,12 @@ def sah_programi():
     vse = []
     n = len(ime)
     for i in range(n):
-        vse.append({"Ime" : ime[i], "ELO" : elo[i], "Leto izdaje" : leto_izdaje[i],
-                    "Zadnja različica" : zadnja_različica[i], "Igre" : igre[i]})
+        vse.append({"Ime" : ime[i], "ELO" : varen_int(elo[i]), "Leto izdaje" : varen_int(leto_izdaje[i]),
+                    "Zadnja različica" : varen_int(zadnja_različica[i]), "Igre" : varen_int(igre[i])})
 
     return vse
 
-polja = programi = ["Ime", "ELO", "Leto izdaje", "Zadnja različica" ,"Igre"]
+programi = ["Ime", "ELO", "Leto izdaje", "Zadnja različica" ,"Igre"]
 
 def zapisi_csv(slovarji, imena_polj, ime_datoteke):
     with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
@@ -106,4 +114,4 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         writer.writerows(slovarji)
 
-zapisi_csv(sah_programi(), polja, "Podatki_programov.csv")
+zapisi_csv(sah_programi(), programi, "Podatki_programov.csv")
