@@ -33,7 +33,7 @@ def poberi_drzave():
 poberi_drzave()
 
 def sahisti(drzava):
-    sahisti = requests.get(f"https://www.yottachess.com/filterTable?country={drzava}&genre=B&ritmo=classic&games=100").text
+    sahisti = requests.get(f"https://www.yottachess.com/filterTable?country={drzava}&genre=B&ritmo=classic&games=200").text
     soup_sahisti = BeautifulSoup(sahisti, "lxml")
     ime = soup_sahisti.find_all("h2", {"style" : "all:unset;"})
     naziv = soup_sahisti.find_all("td", {"style" : "font-weight:bold;"})
@@ -47,13 +47,14 @@ def sahisti(drzava):
     drzava_sahisti = []
     n = len(ime)
 
-
     for i in range(n):
         drzava_sahisti.append({"Ime" : odstrani_tag[0][i], "Država" : drzava ,"Naziv" : odstrani_tag[1][i], "Classical ocena" : varen_int(odstrani_tag[2][i]), 
                         "Rapid ocena" : varen_int(odstrani_tag[3][i]), "Blitz ocena" : varen_int(odstrani_tag[4][i]), "Leto rojstva" : varen_int(odstrani_tag[5][i]), 
                         "Število iger" : varen_int(odstrani_tag[6][i])})
     
     return drzava_sahisti
+
+sahisti("USA")
 
 def zapisi_v_csv_sahisti():
     with open("Podatki_sahistov.csv", "w", encoding="utf-8") as file:
@@ -63,7 +64,7 @@ def zapisi_v_csv_sahisti():
         for kon in poberi_drzave():
             zapisi.writerows(sahisti(kon))
 
-zapisi_v_csv_sahisti()
+#zapisi_v_csv_sahisti()
 
 def link2():
     stran = requests.get(link).text
@@ -114,4 +115,4 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         writer.writerows(slovarji)
 
-zapisi_csv(sah_programi(), programi, "Podatki_programov.csv")
+#zapisi_csv(sah_programi(), programi, "Podatki_programov.csv")
