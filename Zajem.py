@@ -4,6 +4,10 @@ import requests
 import csv
 import re
 import os
+import time
+
+start = time.time()
+
 
 link = "https://www.yottachess.com"
 
@@ -33,7 +37,7 @@ def poberi_drzave():
 poberi_drzave()
 
 def sahisti(drzava):
-    sahisti = requests.get(f"https://www.yottachess.com/filterTable?country={drzava}&genre=B&ritmo=classic&games=200").text
+    sahisti = requests.get(f"https://www.yottachess.com/filterTable?country={drzava}&genre=B&ritmo=classic&games=400").text
     soup_sahisti = BeautifulSoup(sahisti, "lxml")
     ime = soup_sahisti.find_all("h2", {"style" : "all:unset;"})
     naziv = soup_sahisti.find_all("td", {"style" : "font-weight:bold;"})
@@ -64,7 +68,7 @@ def zapisi_v_csv_sahisti():
         for kon in poberi_drzave():
             zapisi.writerows(sahisti(kon))
 
-#zapisi_v_csv_sahisti()
+zapisi_v_csv_sahisti()
 
 def link2():
     stran = requests.get(link).text
@@ -115,4 +119,7 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         writer.writerows(slovarji)
 
-#zapisi_csv(sah_programi(), programi, "Podatki_programov.csv")
+zapisi_csv(sah_programi(), programi, "Podatki_programov.csv")
+
+end = time.time()
+print(end - start)
