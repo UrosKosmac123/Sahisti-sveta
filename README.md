@@ -1,7 +1,7 @@
 # Sahisti-sveta
 
 Pobral bom podatke s strani: https://www.yottachess.com.
-Pobral bom 200 oseb za vsako državo, ter za vsako osebo:
+Pobral bom 500 oseb za vsako državo, ter za vsako osebo:
 - ime šahista
 - nacionalnost
 - naziv
@@ -19,6 +19,7 @@ Ter najmočnejše računalniške programe:
 
 Hipoteze in vprašanja, ki jih bomo testirali:
 - večja kot je država, več boljših igralcev ima(boljši v smislu ocen)
-- Ali se oz. koliko se spremeni lestvica najboljših med formati(classical, rapid, blitz)
-- ocenimo, katerega leta bo rojen igralec, ki bo prebil oceno 3000 ELO
+- Vsaka generacija je po Classical ocenah boljša od prejšnje
+- Ocenimo, katerega leta bo rojen igralec, ki bo prebil oceno 2900 ELO
+- Povprečje ocen pada z časom, ki ga imamo za določen format(manj časa slabše povprečje)
     
